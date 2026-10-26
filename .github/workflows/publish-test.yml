@@ -1,0 +1,98 @@
+# Active workflow of this public guide-only repository (default branch `test`).
+#
+# What it does: every 6 hours (off the hour) and on manual dispatch, run the
+# synthetic unit tests, build the guide in --test-preview mode (provisional
+# mappings allowed, output marked TEST - unverified mapping), audit the output,
+# and commit ONLY site/guide.xml, site/status.json and site/_headers back to the
+# same `test` branch. Cloudflare Pages (Git integration) deploys `test` as a
+# preview; its production branch `pages` is never written by this workflow.
+# Any failure => no commit => the previous preview stays as it was.
+# Standard ubuntu-latest runner (free for public repositories). No secrets, no
+# Cloudflare token, no artifacts, no caches, no actions besides pinned checkout.
+# A push made with GITHUB_TOKEN does not trigger further workflow runs.
+name: publish-test-guide
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-test-guide
+  cancel-in-progress: false
+
+jobs:
+  publish-test:
+    if: github.repository == 'yt12345678911/iptv-independent-guide' && github.ref == 'refs/heads/test'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Guard repository, branch and trigger
+        run: |
+          set -eu
+          test "$GITHUB_REPOSITORY" = "yt12345678911/iptv-independent-guide"
+          test "$GITHUB_REF" = "refs/heads/test"
+          case "$GITHUB_EVENT_NAME" in schedule|workflow_dispatch) ;; *) echo "trigger refused"; exit 1 ;; esac
+
+      - name: Check out test branch
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          repository: yt12345678911/iptv-independent-guide
+          ref: test
+          fetch-depth: 1
+          persist-credentials: true
+
+      - name: Verify checked-out source
+        run: |
+          set -eu
+          test "$(git rev-parse --abbrev-ref HEAD)" = "test"
+          test "$(git config --get remote.origin.url)" = "https://github.com/yt12345678911/iptv-independent-guide"
+
+      - name: Unit tests (synthetic fixtures, no network)
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Build TEST preview (downloads the two allowed public feeds only)
+        run: |
+          set -eu
+          mkdir -p "$RUNNER_TEMP/site"
+          python3 build_guide.py --test-preview --mapping mapping.json \
+            --output "$RUNNER_TEMP/site/guide.xml" \
+            --report "$RUNNER_TEMP/site/status.json"
+
+      - name: Audit output (any failure stops before git write)
+        run: |
+          set -eu
+          cd "$RUNNER_TEMP/site"
+          cp "$GITHUB_WORKSPACE/pages/_headers" _headers
+          test "$(ls -A | sort | tr '\n' ' ')" = "_headers guide.xml status.json "
+          python3 -c "import json, xml.etree.ElementTree as E; E.parse('guide.xml'); json.load(open('status.json'))"
+          grep -qF '<!-- TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk -->' guide.xml
+          grep -qF 'generator-info-name="independent-guide TEST PREVIEW' guide.xml
+          grep -qF '"mode": "test-preview"' status.json
+          grep -qF '"production": false' status.json
+          if grep -qF '"mode": "production"' status.json; then echo "production output refused"; exit 1; fi
+          if grep -qF '://' status.json _headers; then echo "URL in status/headers refused"; exit 1; fi
+          if grep -niE 'username=|password=|token=|api_key=|get\.php|player_api|/live/|#EXTM3U|\.m3u8?\b|authorization:|bearer [a-z0-9]' guide.xml status.json _headers; then echo "forbidden content in output"; exit 1; fi
+
+      - name: Commit generated preview to test (only reached when everything above passed)
+        run: |
+          set -eu
+          test "$(git rev-parse --abbrev-ref HEAD)" = "test"
+          mkdir -p site
+          cp "$RUNNER_TEMP/site/guide.xml" "$RUNNER_TEMP/site/status.json" "$RUNNER_TEMP/site/_headers" site/
+          git add -- site/guide.xml site/status.json site/_headers
+          if git diff --cached --name-only | grep -vxE 'site/(guide\.xml|status\.json|_headers)'; then
+            echo "unexpected staged path"; exit 1
+          fi
+          if git status --porcelain --untracked-files=all | grep -vE '^[AM]  site/(guide\.xml|status\.json|_headers)$'; then
+            echo "unexpected working-tree change"; exit 1
+          fi
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git -c user.name="guide-test-bot" -c user.email="guide-test-bot@users.noreply.github.com" \
+            commit -m "test preview guide: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push origin HEAD:refs/heads/test
