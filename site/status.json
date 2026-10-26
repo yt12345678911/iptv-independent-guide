@@ -1,0 +1,143 @@
+{
+  "status": "ok",
+  "mode": "test-preview",
+  "production": false,
+  "built_at": "2026-10-26T20:53:36Z",
+  "output_sha256": "9e471c3e9a09c575f08c98803e9dc0a6a88637762622f5ef958ec5af5c7d6dd9",
+  "sources": {
+    "DK1": {
+      "origin": "download",
+      "sha256": "199cb0b840559aa28ea895c17c9acaeae585adbb404dacbfceaacaffb4554d1e",
+      "bytes": 9804618
+    },
+    "UK1": {
+      "origin": "download",
+      "sha256": "61405e3cad9b4bf7e6876883f3c38a4feb4b31e369f7ba2c0ccf25eb0060efd9",
+      "bytes": 22680445
+    }
+  },
+  "channels": {
+    "bbc1.uk": {
+      "source": "UK1",
+      "source_id": "BBC.One.Lon.HD.uk",
+      "status": "provisional",
+      "programmes": 52,
+      "now": "Clickbait Clinic with Stacey Dooley",
+      "next": "This City Is Ours",
+      "first_start": "20261026183000 +0000",
+      "last_stop": "20261028210000 +0000",
+      "hours_ahead": 48.1
+    },
+    "bbc2.uk": {
+      "source": "UK1",
+      "source_id": "BBC.Two.HD.uk",
+      "status": "verified",
+      "programmes": 56,
+      "now": "University Challenge",
+      "next": "Escaping Idi Amin",
+      "first_start": "20261026183000 +0000",
+      "last_stop": "20261028210000 +0000",
+      "hours_ahead": 48.1
+    },
+    "itv1anglia.uk": {
+      "source": "UK1",
+      "source_id": "ITV1.HD.uk",
+      "status": "provisional",
+      "programmes": 49,
+      "now": "Coronation Street",
+      "next": "Adultery",
+      "first_start": "20261026183000 +0000",
+      "last_stop": "20261028222500 +0000",
+      "hours_ahead": 49.5
+    },
+    "channel4.uk": {
+      "source": "UK1",
+      "source_id": "Channel.4.HD.uk",
+      "status": "verified",
+      "programmes": 68,
+      "now": "Jamie's 20 Minute Meals",
+      "next": "Pierre",
+      "first_start": "20261026180000 +0000",
+      "last_stop": "20261028210000 +0000",
+      "hours_ahead": 48.1
+    },
+    "DR1.dk": {
+      "source": "DK1",
+      "source_id": "DR1.dk",
+      "status": "verified",
+      "programmes": 76,
+      "now": "Generation hovedpine",
+      "next": "Ludwig - Krydsordsdetektiven",
+      "first_start": "20261026180000 +0000",
+      "last_stop": "20261028205500 +0000",
+      "hours_ahead": 48.0
+    },
+    "DR2.dk": {
+      "source": "DK1",
+      "source_id": "DR2.dk",
+      "status": "verified",
+      "programmes": 54,
+      "now": "Filmperler: The Others",
+      "next": "TVA",
+      "first_start": "20261026183500 +0000",
+      "last_stop": "20261028210000 +0000",
+      "hours_ahead": 48.1
+    },
+    "TV2.dk": {
+      "source": "DK1",
+      "source_id": "TV.2.dk",
+      "status": "verified",
+      "programmes": 65,
+      "now": "Hjemsøgt",
+      "next": "Mesterlige ombygninger",
+      "first_start": "20261026183000 +0000",
+      "last_stop": "20261028212500 +0000",
+      "hours_ahead": 48.5
+    },
+    "TV2Syd.dk": {
+      "source": "DK1",
+      "source_id": "TV.SYD.dk",
+      "status": "verified",
+      "programmes": 71,
+      "now": "Nyheder fra TV 2/Østjylland",
+      "next": "Nyheder fra TV 2/Fyn",
+      "first_start": "20261026183000 +0000",
+      "last_stop": "20261028210000 +0000",
+      "hours_ahead": 48.1
+    },
+    "TV2Fri.dk": {
+      "source": "DK1",
+      "source_id": "TV.2.Fri.dk",
+      "status": "verified",
+      "programmes": 63,
+      "now": "Beliggenhed, beliggenhed, beliggenhed",
+      "next": "Krejlerkongen",
+      "first_start": "20261026183000 +0000",
+      "last_stop": "20261028205500 +0000",
+      "hours_ahead": 48.0
+    },
+    "TV2Lorry.dk": {
+      "source": "DK1",
+      "source_id": "Kosmopol.dk",
+      "status": "provisional",
+      "programmes": 92,
+      "now": "Kongeværket - en historisk kopi",
+      "next": "Nyheder 19:30",
+      "first_start": "20261026185000 +0000",
+      "last_stop": "20261028205500 +0000",
+      "hours_ahead": 48.0
+    },
+    "TV2Fyn.dk": {
+      "source": "DK1",
+      "source_id": "TV.2/Fyn.dk",
+      "status": "verified",
+      "programmes": 78,
+      "now": "Nyheder fra tv2fyn.dk",
+      "next": "Fynske Nyheder",
+      "first_start": "20261026183000 +0000",
+      "last_stop": "20261028210000 +0000",
+      "hours_ahead": 48.1
+    }
+  },
+  "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
+}
