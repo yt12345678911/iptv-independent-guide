@@ -1,10 +1,10 @@
 # Active workflow of this public guide-only repository (default branch `test`).
 #
-# What it does: every 6 hours (off the hour) and on manual dispatch, run the
-# synthetic unit tests, build the guide in --test-preview mode (provisional
-# mappings allowed, output marked TEST - unverified mapping), audit the output,
-# and commit ONLY site/guide.xml, site/status.json and site/_headers back to the
-# same `test` branch. Cloudflare Pages (Git integration) deploys `test` as a
+# What it does: three times a day (06:23, 12:23, 18:23 UTC) and on manual
+# dispatch, run the synthetic unit tests, build the guide in --test-preview mode
+# (provisional mappings allowed, output marked TEST - unverified mapping), audit
+# the output, and commit ONLY site/guide.xml, site/status.json and site/_headers
+# back to the same `test` branch. Cloudflare Pages (Git integration) deploys `test` as a
 # preview; its production branch `pages` is never written by this workflow.
 # Any failure => no commit => the previous preview stays as it was.
 # Standard ubuntu-latest runner (free for public repositories). No secrets, no
@@ -14,7 +14,9 @@ name: publish-test-guide
 
 on:
   schedule:
-    - cron: "23 */6 * * *"
+    # No 00:00-05:29 UTC run: the DK1 feed drops the previous broadcast day, so a
+    # channel whose day starts later (TV SYD, 05:30Z) has nothing airing yet.
+    - cron: "23 6,12,18 * * *"
   workflow_dispatch:
 
 permissions:

@@ -314,7 +314,10 @@ class WorkflowIsolationTest(unittest.TestCase):
         self.wf = workflow_text()
 
     def test_schedule_and_triggers(self):
-        self.assertRegex(self.wf, r'cron: "23 \*/6 \* \* \*"')
+        # 06/12/18 UTC only: DK1 drops the previous broadcast day, and TV SYD's first
+        # programme starts at 05:30Z, so a run at 00:00-05:29Z can find nothing airing now.
+        self.assertRegex(self.wf, r'cron: "23 6,12,18 \* \* \*"')
+        self.assertEqual(self.wf.count("cron:"), 1)
         self.assertIn("workflow_dispatch:", self.wf)
         for trigger in ("push:", "pull_request", "workflow_run", "repository_dispatch"):
             self.assertNotIn(trigger, self.wf)

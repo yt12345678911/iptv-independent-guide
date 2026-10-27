@@ -67,9 +67,12 @@ byte-for-byte unchanged and the exit code is non-zero.
 
 ## Scheduled preview
 
-The workflow runs every 6 hours (at 23 minutes past) and on manual dispatch, only on the
-default branch `test`. It uses a standard `ubuntu-latest` GitHub-hosted runner, which is free
-for public repositories; there are no paid runners, secrets, artifacts or caches, and the only
+The workflow runs three times a day (06:23, 12:23 and 18:23 UTC) and on manual dispatch, only
+on the default branch `test`. There is deliberately no run between 00:00 and 05:29 UTC: the
+DK1 feed drops the previous broadcast day, and TV SYD's day starts at 05:30 UTC, so an early
+run would fail the "programme airing now" check. Each build covers 48 hours ahead.
+
+It uses a standard `ubuntu-latest` GitHub-hosted runner, which is free for public repositories; there are no paid runners, secrets, artifacts or caches, and the only
 action used is a SHA-pinned `actions/checkout`. It runs the unit tests, builds the TEST
 preview, audits the output, and only then commits `site/guide.xml`, `site/status.json` and
 `site/_headers` back to `test`. It never writes any other branch. A static host may deploy
