@@ -2,18 +2,18 @@
   "status": "ok",
   "mode": "test-preview",
   "production": false,
-  "built_at": "2026-10-27T20:46:54Z",
-  "output_sha256": "87b9b189997a9f6e1ff32d910fb59cb1f89080d31b286127f3b9efde899b000b",
+  "built_at": "2026-10-28T13:11:33Z",
+  "output_sha256": "b697e906341a1e984df9f9683d3cfee0db21d500e3ab0e30bd689a3e97a3dafd",
   "sources": {
     "DK1": {
       "origin": "download",
-      "sha256": "06e64b3ade27460f932d6d2de8a06c832bd3c787469cba1f53686abeab24cbed",
-      "bytes": 9814584
+      "sha256": "03709afc8ca2656fcfd759319307aee09444f2477b5846526063c4d314479cd5",
+      "bytes": 9711395
     },
     "UK1": {
       "origin": "download",
-      "sha256": "3eacc6be35d915983540c16aeba4b4a885b5c6b8e66a2aa5a7cfbb032799964f",
-      "bytes": 22799688
+      "sha256": "90751b99f8d29a7357e3061d6c305c40657e65e9aca6d5830d9e86fb00849691",
+      "bytes": 22741105
     }
   },
   "channels": {
@@ -21,122 +21,122 @@
       "source": "UK1",
       "source_id": "BBC.One.Lon.HD.uk",
       "status": "provisional",
-      "programmes": 51,
-      "now": "DIY SOS",
-      "next": "Blue Lights",
-      "first_start": "20261027183000 +0000",
-      "last_stop": "20261029210500 +0000",
-      "hours_ahead": 48.3
+      "programmes": 50,
+      "now": "BBC News at One including BBC London News",
+      "next": "Money for Nothing",
+      "first_start": "20261028110000 +0000",
+      "last_stop": "20261030140000 +0000",
+      "hours_ahead": 48.8
     },
     "bbc2.uk": {
       "source": "UK1",
       "source_id": "BBC.Two.HD.uk",
       "status": "verified",
-      "programmes": 53,
-      "now": "Highland Cops",
-      "next": "Surgeons: At the Edge of Life",
-      "first_start": "20261027183000 +0000",
-      "last_stop": "20261029220000 +0000",
-      "hours_ahead": 49.2
+      "programmes": 51,
+      "now": "Politics Live: Budget 2026",
+      "next": "Hawaii: Earth's Tropical Islands",
+      "first_start": "20261028090000 +0000",
+      "last_stop": "20261030134500 +0000",
+      "hours_ahead": 48.6
     },
     "itv1anglia.uk": {
       "source": "UK1",
       "source_id": "ITV1.HD.uk",
       "status": "provisional",
-      "programmes": 48,
-      "now": "Coronation Street",
-      "next": "Unbelievable Moments: Caught on Camera",
-      "first_start": "20261027183000 +0000",
-      "last_stop": "20261029210000 +0000",
-      "hours_ahead": 48.2
+      "programmes": 44,
+      "now": "ITV News Special The Chancellor's Budget",
+      "next": "Dickinson's Real Deal",
+      "first_start": "20261028100000 +0000",
+      "last_stop": "20261030133000 +0000",
+      "hours_ahead": 48.3
     },
     "channel4.uk": {
       "source": "UK1",
       "source_id": "Channel.4.HD.uk",
       "status": "verified",
-      "programmes": 70,
-      "now": "The Great British Bake Off",
-      "next": "Tempting Fortune",
-      "first_start": "20261027180000 +0000",
-      "last_stop": "20261029210500 +0000",
-      "hours_ahead": 48.3
+      "programmes": 69,
+      "now": "The Great House Giveaway",
+      "next": "Countdown",
+      "first_start": "20261028111000 +0000",
+      "last_stop": "20261030141000 +0000",
+      "hours_ahead": 49.0
     },
     "DR1.dk": {
       "source": "DK1",
       "source_id": "DR1.dk",
       "status": "verified",
       "programmes": 77,
-      "now": "Horisont: Bosætter-Lenny har en plan",
-      "next": "Cooper & Fry: De ni jomfruer",
-      "first_start": "20261027180000 +0000",
-      "last_stop": "20261029211500 +0000",
-      "hours_ahead": 48.5
+      "now": "Hammerslag 2023 - 90'er huset",
+      "next": "Kender Du Typen? 2020 - med pulvermad og luksuslakrids",
+      "first_start": "20261028110000 +0000",
+      "last_stop": "20261030131500 +0000",
+      "hours_ahead": 48.1
     },
     "DR2.dk": {
       "source": "DK1",
       "source_id": "DR2.dk",
       "status": "verified",
-      "programmes": 55,
-      "now": "Hårde muller og stramme baller",
-      "next": "TVA",
-      "first_start": "20261027183500 +0000",
-      "last_stop": "20261029221500 +0000",
-      "hours_ahead": 49.5
+      "programmes": 50,
+      "now": "Seneste nyt fra TVA",
+      "next": "Husker du...",
+      "first_start": "20261028110000 +0000",
+      "last_stop": "20261030160000 +0000",
+      "hours_ahead": 50.8
     },
     "TV2.dk": {
       "source": "DK1",
       "source_id": "TV.2.dk",
       "status": "verified",
       "programmes": 65,
-      "now": "I sku’ bare vide, mor og far",
-      "next": "Affæren fra helvede",
-      "first_start": "20261027183000 +0000",
-      "last_stop": "20261029212500 +0000",
-      "hours_ahead": 48.6
+      "now": "Ja for Fanø!",
+      "next": "Ja for Fanø!",
+      "first_start": "20261028110000 +0000",
+      "last_stop": "20261030132500 +0000",
+      "hours_ahead": 48.2
     },
     "TV2Syd.dk": {
       "source": "DK1",
       "source_id": "TV.SYD.dk",
       "status": "verified",
-      "programmes": 71,
-      "now": "Nyheder fra TV 2/Østjylland",
-      "next": "Nyheder fra TV 2/Fyn",
-      "first_start": "20261027183000 +0000",
-      "last_stop": "20261029210000 +0000",
-      "hours_ahead": 48.2
+      "programmes": 65,
+      "now": "TVSYD.DK",
+      "next": "Kort nyhedsoversigt",
+      "first_start": "20261028092500 +0000",
+      "last_stop": "20261030161000 +0000",
+      "hours_ahead": 51.0
     },
     "TV2Fri.dk": {
       "source": "DK1",
       "source_id": "TV.2.Fri.dk",
       "status": "verified",
       "programmes": 62,
-      "now": "Sæt pris på Danmark",
-      "next": "Krejlerkongen",
-      "first_start": "20261027183000 +0000",
-      "last_stop": "20261029205000 +0000",
+      "now": "Vi drukner i rod",
+      "next": "Værkstedet UK",
+      "first_start": "20261028104500 +0000",
+      "last_stop": "20261030131500 +0000",
       "hours_ahead": 48.1
     },
     "TV2Lorry.dk": {
       "source": "DK1",
       "source_id": "Kosmopol.dk",
       "status": "provisional",
-      "programmes": 92,
-      "now": "Elisa bliver den skaldede kæreste",
-      "next": "Tina er tan-sober",
-      "first_start": "20261027183000 +0000",
-      "last_stop": "20261029205000 +0000",
-      "hours_ahead": 48.1
+      "programmes": 83,
+      "now": "Nyheder fra tv2kosmopol.dk",
+      "next": "Nyheder 17:30",
+      "first_start": "20261028105000 +0000",
+      "last_stop": "20261030163000 +0000",
+      "hours_ahead": 51.3
     },
     "TV2Fyn.dk": {
       "source": "DK1",
       "source_id": "TV.2/Fyn.dk",
       "status": "verified",
-      "programmes": 78,
-      "now": "Nyheder fra tv2fyn.dk",
-      "next": "Fynske Nyheder",
-      "first_start": "20261027183000 +0000",
-      "last_stop": "20261029210000 +0000",
-      "hours_ahead": 48.2
+      "programmes": 83,
+      "now": "Et andet liv - med Mai My Humaidan",
+      "next": "Nyheder fra tv2fyn.dk",
+      "first_start": "20261028110500 +0000",
+      "last_stop": "20261030131700 +0000",
+      "hours_ahead": 48.1
     }
   },
   "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
