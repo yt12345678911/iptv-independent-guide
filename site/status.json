@@ -2,17 +2,17 @@
   "status": "ok",
   "mode": "test-preview",
   "production": false,
-  "built_at": "2026-10-29T22:50:51Z",
-  "output_sha256": "0a513d1c59e5587bd4ccabf0a8bf5ba95dce1f2e79317f480c06dfd8b7ea08ed",
+  "built_at": "2026-10-30T13:10:46Z",
+  "output_sha256": "538df30d357f8bc3112bea028e31ba565e96832f14fb1d503c4dd9db5cf9908d",
   "sources": {
     "DK1": {
       "origin": "download",
-      "sha256": "98833cfebedea5f27978cb7d3a9a34460adac4fd10302d864b21e3ba45f6f487",
-      "bytes": 9587044
+      "sha256": "cd3a5f7319c2ff28d7dcd421a8101ab3d8420eded8d82b73ce58058c24fde6ed",
+      "bytes": 9576852
     },
     "UK1": {
       "origin": "download",
-      "sha256": "f1420787ddd1322381dbef7fc634f7b0e05f1f1c89ca2a54f8718de8232767c0",
+      "sha256": "7ee5d4987d833f1e6cbf11740d42c3ade9941c8abd121b22f74a861d6d910101",
       "bytes": 22551409
     }
   },
@@ -21,122 +21,122 @@
       "source": "UK1",
       "source_id": "BBC.One.Lon.HD.uk",
       "status": "provisional",
-      "programmes": 53,
-      "now": "Question Time",
-      "next": "Newscast",
-      "first_start": "20261029200000 +0000",
-      "last_stop": "20261031235500 +0000",
-      "hours_ahead": 49.1
+      "programmes": 54,
+      "now": "BBC News at One including BBC London News",
+      "next": "The Northumbria Mysteries",
+      "first_start": "20261030110000 +0000",
+      "last_stop": "20261101131500 +0000",
+      "hours_ahead": 48.1
     },
     "bbc2.uk": {
       "source": "UK1",
       "source_id": "BBC.Two.HD.uk",
       "status": "verified",
-      "programmes": 55,
-      "now": "Newsnight, followed by Weather",
-      "next": "Uncanny",
-      "first_start": "20261029193000 +0000",
-      "last_stop": "20261101000500 +0000",
-      "hours_ahead": 49.2
+      "programmes": 56,
+      "now": "Impossible",
+      "next": "The Answer Run",
+      "first_start": "20261030090000 +0000",
+      "last_stop": "20261101141500 +0000",
+      "hours_ahead": 49.1
     },
     "itv1anglia.uk": {
       "source": "UK1",
       "source_id": "ITV1.HD.uk",
       "status": "provisional",
-      "programmes": 48,
-      "now": "Godzilla vs Kong",
-      "next": "Shop on TV",
-      "first_start": "20261029203000 +0000",
-      "last_stop": "20261031233500 +0000",
-      "hours_ahead": 48.7
+      "programmes": 50,
+      "now": "Loose Women",
+      "next": "ITV Lunchtime News",
+      "first_start": "20261030100000 +0000",
+      "last_stop": "20261101133000 +0000",
+      "hours_ahead": 48.3
     },
     "channel4.uk": {
       "source": "UK1",
       "source_id": "Channel.4.HD.uk",
       "status": "verified",
-      "programmes": 65,
-      "now": "It Gets Worse",
-      "next": "Gogglebox for SU2C",
-      "first_start": "20261029200000 +0000",
-      "last_stop": "20261031230000 +0000",
+      "programmes": 61,
+      "now": "The Great House Giveaway",
+      "next": "Countdown",
+      "first_start": "20261030111000 +0000",
+      "last_stop": "20261101132500 +0000",
       "hours_ahead": 48.2
     },
     "DR1.dk": {
       "source": "DK1",
       "source_id": "DR1.dk",
       "status": "verified",
-      "programmes": 70,
-      "now": "Alene i vildmarken Australien",
-      "next": "Unknown",
-      "first_start": "20261029202500 +0000",
-      "last_stop": "20261101000000 +0000",
-      "hours_ahead": 49.2
+      "programmes": 69,
+      "now": "Hammerslag 2023 - Fra skole til bolig",
+      "next": "Kender Du Typen? 2020 - Med skeletter og sportsvogne",
+      "first_start": "20261030110000 +0000",
+      "last_stop": "20261101133000 +0000",
+      "hours_ahead": 48.3
     },
     "DR2.dk": {
       "source": "DK1",
       "source_id": "DR2.dk",
       "status": "verified",
-      "programmes": 52,
-      "now": "Deadline",
-      "next": "Trumps USA: Blå bølge eller fejl i målingerne?",
-      "first_start": "20261029204500 +0000",
-      "last_stop": "20261031230000 +0000",
-      "hours_ahead": 48.2
+      "programmes": 46,
+      "now": "Seneste nyt fra TVA",
+      "next": "Der kan man se",
+      "first_start": "20261030110000 +0000",
+      "last_stop": "20261101140000 +0000",
+      "hours_ahead": 48.8
     },
     "TV2.dk": {
       "source": "DK1",
       "source_id": "TV.2.dk",
       "status": "verified",
-      "programmes": 60,
-      "now": "Sommerdahl",
-      "next": "24 timer på skadestuen",
-      "first_start": "20261029203500 +0000",
-      "last_stop": "20261031235000 +0000",
-      "hours_ahead": 49.0
+      "programmes": 57,
+      "now": "Ja for Fanø!",
+      "next": "Ja for Fanø!",
+      "first_start": "20261030110000 +0000",
+      "last_stop": "20261101133000 +0000",
+      "hours_ahead": 48.3
     },
     "TV2Syd.dk": {
       "source": "DK1",
       "source_id": "TV.SYD.dk",
       "status": "verified",
-      "programmes": 64,
+      "programmes": 61,
       "now": "TVSYD.DK",
-      "next": "Direkte fra storkereden",
-      "first_start": "20261029203500 +0000",
-      "last_stop": "20261031230000 +0000",
-      "hours_ahead": 48.2
+      "next": "Kort nyhedsoversigt",
+      "first_start": "20261030092500 +0000",
+      "last_stop": "20261101171300 +0000",
+      "hours_ahead": 52.0
     },
     "TV2Fri.dk": {
       "source": "DK1",
       "source_id": "TV.2.Fri.dk",
       "status": "verified",
       "programmes": 65,
-      "now": "Værkstedet UK",
+      "now": "Vi drukner i rod",
       "next": "Værkstedet UK",
-      "first_start": "20261029205000 +0000",
-      "last_stop": "20261031235000 +0000",
-      "hours_ahead": 49.0
+      "first_start": "20261030104500 +0000",
+      "last_stop": "20261101133500 +0000",
+      "hours_ahead": 48.4
     },
     "TV2Lorry.dk": {
       "source": "DK1",
       "source_id": "Kosmopol.dk",
       "status": "provisional",
-      "programmes": 84,
-      "now": "Nyhederne for præcis 30 år siden",
-      "next": "Nyheder fra tv2kosmopol.dk",
-      "first_start": "20261029205000 +0000",
-      "last_stop": "20261101050000 +0000",
-      "hours_ahead": 54.2
+      "programmes": 79,
+      "now": "Nyheder fra tv2kosmopol.dk",
+      "next": "Nyheder 17:30",
+      "first_start": "20261030105000 +0000",
+      "last_stop": "20261101163000 +0000",
+      "hours_ahead": 51.3
     },
     "TV2Fyn.dk": {
       "source": "DK1",
       "source_id": "TV.2/Fyn.dk",
       "status": "verified",
-      "programmes": 91,
-      "now": "Nyheder fra tv2fyn.dk",
+      "programmes": 87,
+      "now": "Vendepunktet med Lone Stidsen",
       "next": "Nyheder fra tv2fyn.dk",
-      "first_start": "20261029203200 +0000",
-      "last_stop": "20261101045000 +0000",
-      "hours_ahead": 54.0
+      "first_start": "20261030110000 +0000",
+      "last_stop": "20261101134300 +0000",
+      "hours_ahead": 48.5
     }
   },
   "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
