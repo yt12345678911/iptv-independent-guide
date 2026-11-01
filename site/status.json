@@ -2,17 +2,17 @@
   "status": "ok",
   "mode": "test-preview",
   "production": false,
-  "built_at": "2026-11-01T13:36:44Z",
-  "output_sha256": "c40e6d7222fa334c0591fc18528e06ad458759b547cb55502eba2dcca04f5ca4",
+  "built_at": "2026-11-01T22:10:52Z",
+  "output_sha256": "738249e236d9701f40599362303e33cfa6ef89ce1942fdb01f4630457c78e4a3",
   "sources": {
     "DK1": {
       "origin": "download",
-      "sha256": "fb98836202a0a63f489ff5b345f826b1b6e4adde9b15cc0eaba3826e6ac2fd63",
-      "bytes": 9612464
+      "sha256": "81d3bdfe5d37e0a3d24a85479eea14ea6725c0dbc66303a127e7e621dfbfa610",
+      "bytes": 9613505
     },
     "UK1": {
       "origin": "download",
-      "sha256": "959bd6e237acaba35d41775016c9bf0bd24232f72cadc57b6c07a0056b3b91f0",
+      "sha256": "1250d6ec8fc667ebdef93fdf9bf45e04ea7c72eed6cbd1f38bd1f2233e17287a",
       "bytes": 22592719
     }
   },
@@ -21,122 +21,122 @@
       "source": "UK1",
       "source_id": "BBC.One.Lon.HD.uk",
       "status": "provisional",
-      "programmes": 56,
-      "now": "Songs of Praise: St Francis of Assisi",
-      "next": "Lifeline",
-      "first_start": "20261101113000 +0000",
-      "last_stop": "20261103140000 +0000",
-      "hours_ahead": 48.4
+      "programmes": 52,
+      "now": "BBC News and Weather",
+      "next": "BBC London News",
+      "first_start": "20261101200000 +0000",
+      "last_stop": "20261103223000 +0000",
+      "hours_ahead": 48.3
     },
     "bbc2.uk": {
       "source": "UK1",
       "source_id": "BBC.Two.HD.uk",
       "status": "verified",
-      "programmes": 50,
-      "now": "I Was Monty's Double",
-      "next": "MOTD Live: Women's Super League",
-      "first_start": "20261101113000 +0000",
-      "last_stop": "20261103134500 +0000",
-      "hours_ahead": 48.1
+      "programmes": 55,
+      "now": "Later... with Jools Holland",
+      "next": "Walk the Line",
+      "first_start": "20261101190000 +0000",
+      "last_stop": "20261103223000 +0000",
+      "hours_ahead": 48.3
     },
     "itv1anglia.uk": {
       "source": "UK1",
       "source_id": "ITV1.HD.uk",
       "status": "provisional",
-      "programmes": 48,
+      "programmes": 49,
       "now": "ITV News",
-      "next": "The World Is Not Enough",
-      "first_start": "20261101113000 +0000",
-      "last_stop": "20261103135500 +0000",
+      "next": "John Wick",
+      "first_start": "20261101200000 +0000",
+      "last_stop": "20261103223000 +0000",
       "hours_ahead": 48.3
     },
     "channel4.uk": {
       "source": "UK1",
       "source_id": "Channel.4.HD.uk",
       "status": "verified",
-      "programmes": 68,
-      "now": "The Simpsons",
-      "next": "Britain's Most Expensive Houses",
-      "first_start": "20261101100000 +0000",
-      "last_stop": "20261103141000 +0000",
-      "hours_ahead": 48.6
+      "programmes": 67,
+      "now": "Gogglebox",
+      "next": "Gogglebox",
+      "first_start": "20261101200000 +0000",
+      "last_stop": "20261103221500 +0000",
+      "hours_ahead": 48.1
     },
     "DR1.dk": {
       "source": "DK1",
       "source_id": "DR1.dk",
       "status": "verified",
       "programmes": 73,
-      "now": "The Other Bennet Sister",
-      "next": "Mesterstrikkerne",
-      "first_start": "20261101111500 +0000",
-      "last_stop": "20261103135500 +0000",
-      "hours_ahead": 48.3
+      "now": "Speechless: Kampen på Campus",
+      "next": "Vigil - Mord i Arktis",
+      "first_start": "20261101200000 +0000",
+      "last_stop": "20261103224000 +0000",
+      "hours_ahead": 48.5
     },
     "DR2.dk": {
       "source": "DK1",
       "source_id": "DR2.dk",
       "status": "verified",
       "programmes": 53,
-      "now": "Gudstjenesten: Sandie Westh - Sorg er kærlighed",
-      "next": "The Professionals",
-      "first_start": "20261101110000 +0000",
-      "last_stop": "20261103161500 +0000",
-      "hours_ahead": 50.6
+      "now": "Stjerner og striber: GUIDE: Dét skal du holde øje med til midtvejsvalget",
+      "next": "Blink Twice",
+      "first_start": "20261101200000 +0000",
+      "last_stop": "20261103224500 +0000",
+      "hours_ahead": 48.6
     },
     "TV2.dk": {
       "source": "DK1",
       "source_id": "TV.2.dk",
       "status": "verified",
-      "programmes": 61,
-      "now": "Benzinbrødre - gammelt venskab ruster aldrig",
-      "next": "Benzinbrødre - gammelt venskab ruster aldrig",
-      "first_start": "20261101112500 +0000",
-      "last_stop": "20261103140500 +0000",
-      "hours_ahead": 48.5
+      "programmes": 63,
+      "now": "Bastarden",
+      "next": "Den som dræber - Fanget af mørket",
+      "first_start": "20261101195000 +0000",
+      "last_stop": "20261103232500 +0000",
+      "hours_ahead": 49.2
     },
     "TV2Syd.dk": {
       "source": "DK1",
       "source_id": "TV.SYD.dk",
       "status": "verified",
-      "programmes": 62,
+      "programmes": 69,
       "now": "TVSYD.DK",
-      "next": "Kort nyhedsoversigt",
-      "first_start": "20261101091000 +0000",
-      "last_stop": "20261103161000 +0000",
-      "hours_ahead": 50.6
+      "next": "Direkte fra storkereden",
+      "first_start": "20261101201000 +0000",
+      "last_stop": "20261103230000 +0000",
+      "hours_ahead": 48.8
     },
     "TV2Fri.dk": {
       "source": "DK1",
       "source_id": "TV.2.Fri.dk",
       "status": "verified",
-      "programmes": 58,
-      "now": "Kurs mod fjerne kyster",
-      "next": "Den store britiske bagedyst",
-      "first_start": "20261101110500 +0000",
-      "last_stop": "20261103141500 +0000",
-      "hours_ahead": 48.6
+      "programmes": 61,
+      "now": "Flotte forvandlinger",
+      "next": "Han, hun og drømmeslottet",
+      "first_start": "20261101192000 +0000",
+      "last_stop": "20261103221500 +0000",
+      "hours_ahead": 48.1
     },
     "TV2Lorry.dk": {
       "source": "DK1",
       "source_id": "Kosmopol.dk",
       "status": "provisional",
-      "programmes": 83,
-      "now": "Nyheder fra tv2kosmopol.dk",
-      "next": "Søndagsræs",
-      "first_start": "20261101104000 +0000",
-      "last_stop": "20261103163000 +0000",
-      "hours_ahead": 50.9
+      "programmes": 96,
+      "now": "Kosmopol forklarer",
+      "next": "Tina er tan-sober",
+      "first_start": "20261101200000 +0000",
+      "last_stop": "20261103221500 +0000",
+      "hours_ahead": 48.1
     },
     "TV2Fyn.dk": {
       "source": "DK1",
       "source_id": "TV.2/Fyn.dk",
       "status": "verified",
-      "programmes": 83,
-      "now": "Et andet liv - med Mai My Humaidan",
-      "next": "Nyheder fra tv2fyn.dk",
-      "first_start": "20261101111000 +0000",
-      "last_stop": "20261103140900 +0000",
-      "hours_ahead": 48.5
+      "programmes": 81,
+      "now": "Nyheder fra tv2fyn.dk",
+      "next": "Fynske Nyheder",
+      "first_start": "20261101195400 +0000",
+      "last_stop": "20261104045000 +0000",
+      "hours_ahead": 54.7
     }
   },
   "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
