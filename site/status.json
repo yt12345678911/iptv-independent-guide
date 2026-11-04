@@ -2,18 +2,18 @@
   "status": "ok",
   "mode": "test-preview",
   "production": false,
-  "built_at": "2026-11-03T23:29:26Z",
-  "output_sha256": "03f45ce479d24775d633385536bcd3faae06cb43e8e11d68af44ba2f355641bf",
+  "built_at": "2026-11-04T14:41:49Z",
+  "output_sha256": "823d41766d7d3b797ac4ab02ce2f6733ae83dcd6150eb76c1583cd11caee3ccf",
   "sources": {
     "DK1": {
       "origin": "download",
-      "sha256": "7c1c8f3d3c732ce2f765f456ef4e174cb9d78a349a70f89902179761152a0e70",
-      "bytes": 9721190
+      "sha256": "166500fc0a034595b6257495ee7d53138037694d14f715386998685d3829837c",
+      "bytes": 9672685
     },
     "UK1": {
       "origin": "download",
-      "sha256": "fa86d824d7a6cc3d9dc45931f554429c923c7a2ea4a6554b78ce9382ad31110c",
-      "bytes": 22642454
+      "sha256": "7299318285ce32ced1fba9b0eef461f9aa2cbf073307215da87bc570a5868cce",
+      "bytes": 22483079
     }
   },
   "channels": {
@@ -21,122 +21,122 @@
       "source": "UK1",
       "source_id": "BBC.One.Lon.HD.uk",
       "status": "provisional",
-      "programmes": 49,
-      "now": "Tall Tales & Murder",
-      "next": "US Midterm Elections 2026",
-      "first_start": "20261103210000 +0000",
-      "last_stop": "20261105234000 +0000",
-      "hours_ahead": 48.2
+      "programmes": 50,
+      "now": "Money for Nothing",
+      "next": "Escape to the Country",
+      "first_start": "20261104121500 +0000",
+      "last_stop": "20261106144500 +0000",
+      "hours_ahead": 48.1
     },
     "bbc2.uk": {
       "source": "UK1",
       "source_id": "BBC.Two.HD.uk",
       "status": "verified",
       "programmes": 55,
-      "now": "A Course Called Ireland",
-      "next": "Queer",
-      "first_start": "20261103210000 +0000",
-      "last_stop": "20261106000000 +0000",
-      "hours_ahead": 48.5
+      "now": "Coast to Coast Food Festival",
+      "next": "Great Coastal Railway Journeys",
+      "first_start": "20261104111500 +0000",
+      "last_stop": "20261106150000 +0000",
+      "hours_ahead": 48.3
     },
     "itv1anglia.uk": {
       "source": "UK1",
       "source_id": "ITV1.HD.uk",
       "status": "provisional",
-      "programmes": 52,
-      "now": "The Playboy Bunny Murder",
-      "next": "The Playboy Bunny Murder",
-      "first_start": "20261103210000 +0000",
-      "last_stop": "20261106005500 +0000",
-      "hours_ahead": 49.4
+      "programmes": 51,
+      "now": "Dickinson's Real Deal",
+      "next": "Lingo",
+      "first_start": "20261104123000 +0000",
+      "last_stop": "20261106150000 +0000",
+      "hours_ahead": 48.3
     },
     "channel4.uk": {
       "source": "UK1",
       "source_id": "Channel.4.HD.uk",
       "status": "verified",
-      "programmes": 71,
-      "now": "999: On the Front Line",
-      "next": "24 Hours in A&E",
-      "first_start": "20261103211500 +0000",
-      "last_stop": "20261106001000 +0000",
-      "hours_ahead": 48.7
+      "programmes": 70,
+      "now": "Countdown",
+      "next": "A Place in the Sun",
+      "first_start": "20261104121000 +0000",
+      "last_stop": "20261106150000 +0000",
+      "hours_ahead": 48.3
     },
     "DR1.dk": {
       "source": "DK1",
       "source_id": "DR1.dk",
       "status": "verified",
-      "programmes": 70,
-      "now": "Alene i vildmarken Australien",
-      "next": "Ludwig - Krydsordsdetektiven",
-      "first_start": "20261103205000 +0000",
-      "last_stop": "20261105235500 +0000",
-      "hours_ahead": 48.4
+      "programmes": 77,
+      "now": "Trumps USA",
+      "next": "Sådan har amerikanerne stemt",
+      "first_start": "20261104121500 +0000",
+      "last_stop": "20261106161000 +0000",
+      "hours_ahead": 49.5
     },
     "DR2.dk": {
       "source": "DK1",
       "source_id": "DR2.dk",
       "status": "verified",
-      "programmes": 60,
-      "now": "Speechless: Kampen på Campus",
-      "next": "Jerusalem - Kampen om den hellige by",
-      "first_start": "20261103211500 +0000",
-      "last_stop": "20261106000500 +0000",
-      "hours_ahead": 48.6
+      "programmes": 57,
+      "now": "Stjernerne fra lokal-tv",
+      "next": "Stjernerne fra lokal-tv",
+      "first_start": "20261104110000 +0000",
+      "last_stop": "20261106161500 +0000",
+      "hours_ahead": 49.6
     },
     "TV2.dk": {
       "source": "DK1",
       "source_id": "TV.2.dk",
       "status": "verified",
-      "programmes": 61,
-      "now": "Vejret news",
-      "next": "Amerikansk valgnat – Live",
-      "first_start": "20261103204000 +0000",
-      "last_stop": "20261106001500 +0000",
-      "hours_ahead": 48.8
+      "programmes": 66,
+      "now": "Motorvejspatruljen",
+      "next": "Grænsepatruljen Australien",
+      "first_start": "20261104122000 +0000",
+      "last_stop": "20261106145500 +0000",
+      "hours_ahead": 48.2
     },
     "TV2Syd.dk": {
       "source": "DK1",
       "source_id": "TV.SYD.dk",
       "status": "verified",
-      "programmes": 66,
-      "now": "Direkte fra storkereden",
-      "next": "Nyheder fra tvSyd",
-      "first_start": "20261103212500 +0000",
-      "last_stop": "20261106053000 +0000",
-      "hours_ahead": 54.0
+      "programmes": 64,
+      "now": "TVSYD.DK",
+      "next": "Kort nyhedsoversigt",
+      "first_start": "20261104092500 +0000",
+      "last_stop": "20261106161000 +0000",
+      "hours_ahead": 49.5
     },
     "TV2Fri.dk": {
       "source": "DK1",
       "source_id": "TV.2.Fri.dk",
       "status": "verified",
-      "programmes": 63,
+      "programmes": 62,
       "now": "Værkstedet UK",
-      "next": "Guld eller gejl",
-      "first_start": "20261103205500 +0000",
-      "last_stop": "20261105235500 +0000",
+      "next": "Auktionshuset",
+      "first_start": "20261104123500 +0000",
+      "last_stop": "20261106150500 +0000",
       "hours_ahead": 48.4
     },
     "TV2Lorry.dk": {
       "source": "DK1",
       "source_id": "Kosmopol.dk",
       "status": "provisional",
-      "programmes": 85,
+      "programmes": 83,
       "now": "Nyheder fra tv2kosmopol.dk",
-      "next": "Nyheder fra tv2kosmopol.dk",
-      "first_start": "20261103210500 +0000",
-      "last_stop": "20261106050000 +0000",
-      "hours_ahead": 53.5
+      "next": "Nyheder 17:30",
+      "first_start": "20261104105000 +0000",
+      "last_stop": "20261106163000 +0000",
+      "hours_ahead": 49.8
     },
     "TV2Fyn.dk": {
       "source": "DK1",
       "source_id": "TV.2/Fyn.dk",
       "status": "verified",
-      "programmes": 81,
-      "now": "Nyheder fra tv2fyn.dk",
+      "programmes": 77,
+      "now": "Lige på med Pia Nedergaard",
       "next": "Nyheder fra tv2fyn.dk",
-      "first_start": "20261103211200 +0000",
-      "last_stop": "20261106045000 +0000",
-      "hours_ahead": 53.3
+      "first_start": "20261104124000 +0000",
+      "last_stop": "20261106152400 +0000",
+      "hours_ahead": 48.7
     }
   },
   "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
