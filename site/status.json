@@ -2,18 +2,18 @@
   "status": "ok",
   "mode": "test-preview",
   "production": false,
-  "built_at": "2026-11-04T14:41:49Z",
-  "output_sha256": "823d41766d7d3b797ac4ab02ce2f6733ae83dcd6150eb76c1583cd11caee3ccf",
+  "built_at": "2026-11-04T23:45:40Z",
+  "output_sha256": "aff75402d852447407b872a4cc744c7c8044bb3d13b7fdc8a1cd021a2651be1e",
   "sources": {
     "DK1": {
       "origin": "download",
-      "sha256": "166500fc0a034595b6257495ee7d53138037694d14f715386998685d3829837c",
-      "bytes": 9672685
+      "sha256": "80b8f808d8339fbdb9265c654a92d52650f6352ade6da7504169756df8bc1453",
+      "bytes": 9683467
     },
     "UK1": {
       "origin": "download",
-      "sha256": "7299318285ce32ced1fba9b0eef461f9aa2cbf073307215da87bc570a5868cce",
-      "bytes": 22483079
+      "sha256": "cb5b93122274beaba65115edc9c5e690a77757d27b6732a60a65ba19e914e38f",
+      "bytes": 22226418
     }
   },
   "channels": {
@@ -21,89 +21,89 @@
       "source": "UK1",
       "source_id": "BBC.One.Lon.HD.uk",
       "status": "provisional",
-      "programmes": 50,
-      "now": "Money for Nothing",
-      "next": "Escape to the Country",
-      "first_start": "20261104121500 +0000",
-      "last_stop": "20261106144500 +0000",
-      "hours_ahead": 48.1
+      "programmes": 52,
+      "now": "MOTD: UEFA Champions League",
+      "next": "Office Christmas Party",
+      "first_start": "20261104210000 +0000",
+      "last_stop": "20261107004500 +0000",
+      "hours_ahead": 49.0
     },
     "bbc2.uk": {
       "source": "UK1",
       "source_id": "BBC.Two.HD.uk",
       "status": "verified",
-      "programmes": 55,
-      "now": "Coast to Coast Food Festival",
-      "next": "Great Coastal Railway Journeys",
-      "first_start": "20261104111500 +0000",
-      "last_stop": "20261106150000 +0000",
-      "hours_ahead": 48.3
+      "programmes": 53,
+      "now": "Escaping Idi Amin",
+      "next": "The Book That Changed My Life",
+      "first_start": "20261104210000 +0000",
+      "last_stop": "20261107012000 +0000",
+      "hours_ahead": 49.6
     },
     "itv1anglia.uk": {
       "source": "UK1",
       "source_id": "ITV1.HD.uk",
       "status": "provisional",
-      "programmes": 51,
-      "now": "Dickinson's Real Deal",
-      "next": "Lingo",
-      "first_start": "20261104123000 +0000",
-      "last_stop": "20261106150000 +0000",
-      "hours_ahead": 48.3
+      "programmes": 48,
+      "now": "Gallagher PREM Unleashed",
+      "next": "Shop on TV",
+      "first_start": "20261104210000 +0000",
+      "last_stop": "20261107005500 +0000",
+      "hours_ahead": 49.2
     },
     "channel4.uk": {
       "source": "UK1",
       "source_id": "Channel.4.HD.uk",
       "status": "verified",
-      "programmes": 70,
-      "now": "Countdown",
-      "next": "A Place in the Sun",
-      "first_start": "20261104121000 +0000",
-      "last_stop": "20261106150000 +0000",
-      "hours_ahead": 48.3
+      "programmes": 71,
+      "now": "The Great British Bake Off",
+      "next": "Social Media Monsters",
+      "first_start": "20261104210000 +0000",
+      "last_stop": "20261107001000 +0000",
+      "hours_ahead": 48.4
     },
     "DR1.dk": {
       "source": "DK1",
       "source_id": "DR1.dk",
       "status": "verified",
-      "programmes": 77,
-      "now": "Trumps USA",
-      "next": "Sådan har amerikanerne stemt",
-      "first_start": "20261104121500 +0000",
-      "last_stop": "20261106161000 +0000",
-      "hours_ahead": 49.5
+      "programmes": 72,
+      "now": "Høst",
+      "next": "OBS",
+      "first_start": "20261104211500 +0000",
+      "last_stop": "20261107003000 +0000",
+      "hours_ahead": 48.7
     },
     "DR2.dk": {
       "source": "DK1",
       "source_id": "DR2.dk",
       "status": "verified",
-      "programmes": 57,
-      "now": "Stjernerne fra lokal-tv",
-      "next": "Stjernerne fra lokal-tv",
-      "first_start": "20261104110000 +0000",
-      "last_stop": "20261106161500 +0000",
-      "hours_ahead": 49.6
+      "programmes": 54,
+      "now": "Mark Zuckerberg: Metaversets konge",
+      "next": "Concorde - Højt at flyve dybt at falde",
+      "first_start": "20261104214500 +0000",
+      "last_stop": "20261107012500 +0000",
+      "hours_ahead": 49.7
     },
     "TV2.dk": {
       "source": "DK1",
       "source_id": "TV.2.dk",
       "status": "verified",
-      "programmes": 66,
-      "now": "Motorvejspatruljen",
-      "next": "Grænsepatruljen Australien",
-      "first_start": "20261104122000 +0000",
-      "last_stop": "20261106145500 +0000",
-      "hours_ahead": 48.2
+      "programmes": 62,
+      "now": "24 timer på skadestuen",
+      "next": "Motorvejspatruljen",
+      "first_start": "20261104213000 +0000",
+      "last_stop": "20261107000500 +0000",
+      "hours_ahead": 48.3
     },
     "TV2Syd.dk": {
       "source": "DK1",
       "source_id": "TV.SYD.dk",
       "status": "verified",
-      "programmes": 64,
-      "now": "TVSYD.DK",
-      "next": "Kort nyhedsoversigt",
-      "first_start": "20261104092500 +0000",
-      "last_stop": "20261106161000 +0000",
-      "hours_ahead": 49.5
+      "programmes": 66,
+      "now": "Direkte fra storkereden",
+      "next": "Nyheder fra tvSyd",
+      "first_start": "20261104212500 +0000",
+      "last_stop": "20261107053000 +0000",
+      "hours_ahead": 53.7
     },
     "TV2Fri.dk": {
       "source": "DK1",
@@ -111,32 +111,32 @@
       "status": "verified",
       "programmes": 62,
       "now": "Værkstedet UK",
-      "next": "Auktionshuset",
-      "first_start": "20261104123500 +0000",
-      "last_stop": "20261106150500 +0000",
-      "hours_ahead": 48.4
+      "next": "Guld eller gejl",
+      "first_start": "20261104214000 +0000",
+      "last_stop": "20261107000500 +0000",
+      "hours_ahead": 48.3
     },
     "TV2Lorry.dk": {
       "source": "DK1",
       "source_id": "Kosmopol.dk",
       "status": "provisional",
-      "programmes": 83,
+      "programmes": 82,
       "now": "Nyheder fra tv2kosmopol.dk",
-      "next": "Nyheder 17:30",
-      "first_start": "20261104105000 +0000",
-      "last_stop": "20261106163000 +0000",
-      "hours_ahead": 49.8
+      "next": "Nyheder fra tv2kosmopol.dk",
+      "first_start": "20261104214000 +0000",
+      "last_stop": "20261107050000 +0000",
+      "hours_ahead": 53.2
     },
     "TV2Fyn.dk": {
       "source": "DK1",
       "source_id": "TV.2/Fyn.dk",
       "status": "verified",
-      "programmes": 77,
-      "now": "Lige på med Pia Nedergaard",
+      "programmes": 79,
+      "now": "Nyheder fra tv2fyn.dk",
       "next": "Nyheder fra tv2fyn.dk",
-      "first_start": "20261104124000 +0000",
-      "last_stop": "20261106152400 +0000",
-      "hours_ahead": 48.7
+      "first_start": "20261104204400 +0000",
+      "last_stop": "20261107045000 +0000",
+      "hours_ahead": 53.1
     }
   },
   "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
