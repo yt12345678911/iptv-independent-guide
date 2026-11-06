@@ -2,17 +2,17 @@
   "status": "ok",
   "mode": "test-preview",
   "production": false,
-  "built_at": "2026-11-05T23:42:47Z",
-  "output_sha256": "74aff7daf1d1a3f76f29a7ea8b4d8cc9874c8ebad49155bbb264062be435a055",
+  "built_at": "2026-11-06T14:25:32Z",
+  "output_sha256": "a16690b45222c547568267614cdbd381dbe2dcadbe79d569e705b66ac6abecd6",
   "sources": {
     "DK1": {
       "origin": "download",
-      "sha256": "8ea5fb17705863ece1236dd99dbae14f20569e466fdd0e469d59436117db868c",
-      "bytes": 9566455
+      "sha256": "90ebdef51ad1a6f8fb7fdc5421775fcf2b12425c241d28fae0234af3255fcd37",
+      "bytes": 9538721
     },
     "UK1": {
       "origin": "download",
-      "sha256": "a96b4157a323cb3acea95ad6959ae2fdf2d80b68422c39671e9bed207c6d88a2",
+      "sha256": "633c3e1a950d618f50d814540450c49a7cc4e4ac0606304868e1ef8b973ec4fa",
       "bytes": 23268019
     }
   },
@@ -22,88 +22,88 @@
       "source_id": "BBC.One.Lon.HD.uk",
       "status": "provisional",
       "programmes": 53,
-      "now": "Newscast",
-      "next": "The Celebrity Inner Circle",
-      "first_start": "20261105210000 +0000",
-      "last_stop": "20261108000000 +0000",
-      "hours_ahead": 48.3
+      "now": "The Northumbria Mysteries",
+      "next": "Escape to the Country",
+      "first_start": "20261106121500 +0000",
+      "last_stop": "20261108160000 +0000",
+      "hours_ahead": 49.6
     },
     "bbc2.uk": {
       "source": "UK1",
       "source_id": "BBC.Two.HD.uk",
       "status": "verified",
-      "programmes": 55,
-      "now": "Highland Cops",
-      "next": "The Future with Hannah Fry",
-      "first_start": "20261105210000 +0000",
-      "last_stop": "20261107235000 +0000",
-      "hours_ahead": 48.1
+      "programmes": 57,
+      "now": "The Answer Run",
+      "next": "Coast to Coast Food Festival",
+      "first_start": "20261106122000 +0000",
+      "last_stop": "20261108163000 +0000",
+      "hours_ahead": 50.1
     },
     "itv1anglia.uk": {
       "source": "UK1",
       "source_id": "ITV1.HD.uk",
       "status": "provisional",
-      "programmes": 41,
-      "now": "The World Is Not Enough",
-      "next": "Shop on TV",
-      "first_start": "20261105210000 +0000",
-      "last_stop": "20261107234500 +0000",
-      "hours_ahead": 48.0
+      "programmes": 47,
+      "now": "Dickinson's Real Deal",
+      "next": "Lingo",
+      "first_start": "20261106100000 +0000",
+      "last_stop": "20261108173500 +0000",
+      "hours_ahead": 51.2
     },
     "channel4.uk": {
       "source": "UK1",
       "source_id": "Channel.4.HD.uk",
       "status": "verified",
-      "programmes": 74,
-      "now": "Russell Brand: In Plain Sight",
-      "next": "Ramsay's Hotel Hell",
-      "first_start": "20261105210000 +0000",
-      "last_stop": "20261108000500 +0000",
-      "hours_ahead": 48.4
+      "programmes": 69,
+      "now": "Countdown",
+      "next": "A Place in the Sun",
+      "first_start": "20261106121000 +0000",
+      "last_stop": "20261108150500 +0000",
+      "hours_ahead": 48.7
     },
     "DR1.dk": {
       "source": "DK1",
       "source_id": "DR1.dk",
       "status": "verified",
-      "programmes": 67,
-      "now": "Alene i vildmarken Australien",
-      "next": "Superposition",
-      "first_start": "20261105211500 +0000",
-      "last_stop": "20261107234500 +0000",
-      "hours_ahead": 48.0
+      "programmes": 66,
+      "now": "Kinas smukke natur",
+      "next": "Kriminalkommissær Barnaby",
+      "first_start": "20261106121000 +0000",
+      "last_stop": "20261108144700 +0000",
+      "hours_ahead": 48.4
     },
     "DR2.dk": {
       "source": "DK1",
       "source_id": "DR2.dk",
       "status": "verified",
-      "programmes": 60,
-      "now": "Guruens disciple",
-      "next": "Offer for falsk porno",
-      "first_start": "20261105211500 +0000",
-      "last_stop": "20261108005000 +0000",
-      "hours_ahead": 49.1
+      "programmes": 52,
+      "now": "Seneste nyt fra TVA",
+      "next": "Ulf & Claus show",
+      "first_start": "20261106110000 +0000",
+      "last_stop": "20261108153500 +0000",
+      "hours_ahead": 49.2
     },
     "TV2.dk": {
       "source": "DK1",
       "source_id": "TV.2.dk",
       "status": "verified",
-      "programmes": 58,
+      "programmes": 56,
       "now": "Motorvejspatruljen",
-      "next": "Fotovognen",
-      "first_start": "20261105214000 +0000",
-      "last_stop": "20261108015000 +0000",
-      "hours_ahead": 50.1
+      "next": "Grænsepatruljen Australien",
+      "first_start": "20261106122000 +0000",
+      "last_stop": "20261108145500 +0000",
+      "hours_ahead": 48.5
     },
     "TV2Syd.dk": {
       "source": "DK1",
       "source_id": "TV.SYD.dk",
       "status": "verified",
-      "programmes": 63,
-      "now": "Direkte fra storkereden",
-      "next": "Nyheder fra tvSyd",
-      "first_start": "20261105212500 +0000",
-      "last_stop": "20261108053000 +0000",
-      "hours_ahead": 53.8
+      "programmes": 61,
+      "now": "TVSYD.DK",
+      "next": "Kort nyhedsoversigt",
+      "first_start": "20261106092500 +0000",
+      "last_stop": "20261108171300 +0000",
+      "hours_ahead": 50.8
     },
     "TV2Fri.dk": {
       "source": "DK1",
@@ -111,32 +111,32 @@
       "status": "verified",
       "programmes": 64,
       "now": "Værkstedet UK",
-      "next": "Guld eller gejl",
-      "first_start": "20261105213000 +0000",
-      "last_stop": "20261107235500 +0000",
-      "hours_ahead": 48.2
+      "next": "Auktionshuset",
+      "first_start": "20261106122500 +0000",
+      "last_stop": "20261108145000 +0000",
+      "hours_ahead": 48.4
     },
     "TV2Lorry.dk": {
       "source": "DK1",
       "source_id": "Kosmopol.dk",
       "status": "provisional",
-      "programmes": 82,
+      "programmes": 79,
       "now": "Nyheder fra tv2kosmopol.dk",
-      "next": "Nyheder fra tv2kosmopol.dk",
-      "first_start": "20261105214000 +0000",
-      "last_stop": "20261108050000 +0000",
-      "hours_ahead": 53.3
+      "next": "Nyheder 17:30",
+      "first_start": "20261106105000 +0000",
+      "last_stop": "20261108163000 +0000",
+      "hours_ahead": 50.1
     },
     "TV2Fyn.dk": {
       "source": "DK1",
       "source_id": "TV.2/Fyn.dk",
       "status": "verified",
-      "programmes": 79,
-      "now": "Nyheder fra tv2fyn.dk",
+      "programmes": 83,
+      "now": "Vendepunktet med Gudrun Marie Schmidt",
       "next": "Nyheder fra tv2fyn.dk",
-      "first_start": "20261105214200 +0000",
-      "last_stop": "20261108045000 +0000",
-      "hours_ahead": 53.1
+      "first_start": "20261106122000 +0000",
+      "last_stop": "20261108151800 +0000",
+      "hours_ahead": 48.9
     }
   },
   "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
