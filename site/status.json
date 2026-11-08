@@ -2,17 +2,17 @@
   "status": "ok",
   "mode": "test-preview",
   "production": false,
-  "built_at": "2026-11-08T13:37:31Z",
-  "output_sha256": "6febf7d79823a1ed60f316735fb7a3a291fa91e288b98ff38ba47fa5440f9202",
+  "built_at": "2026-11-08T22:15:34Z",
+  "output_sha256": "82e8316355d986097551d61e0a7a98f9eafa4df084056e0da4e87fe87752c321",
   "sources": {
     "DK1": {
       "origin": "download",
-      "sha256": "5ba24562164c6d93d012ba365a7f6c1b005be95c1044b6a9463f273788240421",
-      "bytes": 9680648
+      "sha256": "9f232792c69486d4e2bae481cb150e501bc617e05385c5836581f61caa7dc02e",
+      "bytes": 9686765
     },
     "UK1": {
       "origin": "download",
-      "sha256": "01c5f7c7032db0616df50ed04ed4e8799b9b8bd2b54a85d20b39c74bbf61f952",
+      "sha256": "89d4fb82bf83a59d73eccdf2155babbb0c4c9a7471d6b2993431c8d22106cb3a",
       "bytes": 23564851
     }
   },
@@ -21,122 +21,122 @@
       "source": "UK1",
       "source_id": "BBC.One.Lon.HD.uk",
       "status": "provisional",
-      "programmes": 52,
-      "now": "Songs of Praise: Remembrance Sunday",
-      "next": "War Horse",
-      "first_start": "20261108101500 +0000",
-      "last_stop": "20261110140000 +0000",
-      "hours_ahead": 48.4
+      "programmes": 50,
+      "now": "BBC News and Weather",
+      "next": "BBC London News",
+      "first_start": "20261108200000 +0000",
+      "last_stop": "20261110223000 +0000",
+      "hours_ahead": 48.2
     },
     "bbc2.uk": {
       "source": "UK1",
       "source_id": "BBC.Two.HD.uk",
       "status": "verified",
-      "programmes": 48,
-      "now": "Homes Under the Hammer",
-      "next": "MOTD Live: Cray Wanderers v Stockport County",
-      "first_start": "20261108113000 +0000",
-      "last_stop": "20261110134500 +0000",
-      "hours_ahead": 48.1
+      "programmes": 52,
+      "now": "Later with Jools Holland",
+      "next": "Tinker Tailor Soldier Spy",
+      "first_start": "20261108191000 +0000",
+      "last_stop": "20261110223000 +0000",
+      "hours_ahead": 48.2
     },
     "itv1anglia.uk": {
       "source": "UK1",
       "source_id": "ITV1.HD.uk",
       "status": "provisional",
-      "programmes": 48,
-      "now": "Ainsley's Taste of the Bahamas",
-      "next": "England v Australia: Nations Championship",
-      "first_start": "20261108112500 +0000",
-      "last_stop": "20261110135500 +0000",
+      "programmes": 52,
+      "now": "ITV News",
+      "next": "Long Lost Family",
+      "first_start": "20261108182500 +0000",
+      "last_stop": "20261110223500 +0000",
       "hours_ahead": 48.3
     },
     "channel4.uk": {
       "source": "UK1",
       "source_id": "Channel.4.HD.uk",
       "status": "verified",
-      "programmes": 64,
-      "now": "The Simpsons",
-      "next": "The Dog House",
-      "first_start": "20261108100000 +0000",
-      "last_stop": "20261110141000 +0000",
-      "hours_ahead": 48.5
+      "programmes": 66,
+      "now": "F1 São Paulo GP Highlights",
+      "next": "The Kitchen",
+      "first_start": "20261108200000 +0000",
+      "last_stop": "20261110230500 +0000",
+      "hours_ahead": 48.8
     },
     "DR1.dk": {
       "source": "DK1",
       "source_id": "DR1.dk",
       "status": "verified",
-      "programmes": 74,
-      "now": "Mesterstrikkerne",
-      "next": "The Other Bennet Sister",
-      "first_start": "20261108111500 +0000",
-      "last_stop": "20261110135500 +0000",
-      "hours_ahead": 48.3
+      "programmes": 71,
+      "now": "Vigil - Mord i Arktis",
+      "next": "Kragepigen",
+      "first_start": "20261108201000 +0000",
+      "last_stop": "20261110224500 +0000",
+      "hours_ahead": 48.5
     },
     "DR2.dk": {
       "source": "DK1",
       "source_id": "DR2.dk",
       "status": "verified",
       "programmes": 56,
-      "now": "Gudstjenesten: Nordiske gudstjeneste fra Finland",
-      "next": "Manden med de sorte støvler",
-      "first_start": "20261108110000 +0000",
-      "last_stop": "20261110161500 +0000",
-      "hours_ahead": 50.6
+      "now": "Police",
+      "next": "Best Sellers",
+      "first_start": "20261108200000 +0000",
+      "last_stop": "20261110223000 +0000",
+      "hours_ahead": 48.2
     },
     "TV2.dk": {
       "source": "DK1",
       "source_id": "TV.2.dk",
       "status": "verified",
-      "programmes": 59,
-      "now": "Vi drukner i rod",
-      "next": "Euro Cup: Studiet",
-      "first_start": "20261108111000 +0000",
-      "last_stop": "20261110140000 +0000",
-      "hours_ahead": 48.4
+      "programmes": 63,
+      "now": "Den som dræber - Fanget af mørket",
+      "next": "Den som dræber - Fanget af mørket",
+      "first_start": "20261108195000 +0000",
+      "last_stop": "20261110222000 +0000",
+      "hours_ahead": 48.1
     },
     "TV2Syd.dk": {
       "source": "DK1",
       "source_id": "TV.SYD.dk",
       "status": "verified",
-      "programmes": 62,
+      "programmes": 69,
       "now": "TVSYD.DK",
-      "next": "Kort nyhedsoversigt",
-      "first_start": "20261108091000 +0000",
-      "last_stop": "20261110161000 +0000",
-      "hours_ahead": 50.5
+      "next": "Direkte fra storkereden",
+      "first_start": "20261108201000 +0000",
+      "last_stop": "20261110230000 +0000",
+      "hours_ahead": 48.7
     },
     "TV2Fri.dk": {
       "source": "DK1",
       "source_id": "TV.2.Fri.dk",
       "status": "verified",
-      "programmes": 60,
-      "now": "Kurs mod fjerne kyster",
-      "next": "Kurs mod fjerne kyster",
-      "first_start": "20261108113000 +0000",
-      "last_stop": "20261110142000 +0000",
-      "hours_ahead": 48.7
+      "programmes": 63,
+      "now": "Flotte forvandlinger",
+      "next": "Han, hun og drømmeslottet",
+      "first_start": "20261108191500 +0000",
+      "last_stop": "20261110223000 +0000",
+      "hours_ahead": 48.2
     },
     "TV2Lorry.dk": {
       "source": "DK1",
       "source_id": "Kosmopol.dk",
       "status": "provisional",
-      "programmes": 81,
-      "now": "Nyheder fra tv2kosmopol.dk",
-      "next": "Søndagsræs",
-      "first_start": "20261108104000 +0000",
-      "last_stop": "20261110163000 +0000",
-      "hours_ahead": 50.9
+      "programmes": 92,
+      "now": "Elisa bliver den skaldede kæreste",
+      "next": "OPLEV",
+      "first_start": "20261108201000 +0000",
+      "last_stop": "20261111050000 +0000",
+      "hours_ahead": 54.7
     },
     "TV2Fyn.dk": {
       "source": "DK1",
       "source_id": "TV.2/Fyn.dk",
       "status": "verified",
       "programmes": 89,
-      "now": "Et andet liv - med Mai My Humaidan",
-      "next": "Nyheder fra tv2fyn.dk",
-      "first_start": "20261108110500 +0000",
-      "last_stop": "20261110140700 +0000",
-      "hours_ahead": 48.5
+      "now": "Nyheder fra tv2fyn.dk",
+      "next": "Fynske Nyheder",
+      "first_start": "20261108195400 +0000",
+      "last_stop": "20261111045000 +0000",
+      "hours_ahead": 54.6
     }
   },
   "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
