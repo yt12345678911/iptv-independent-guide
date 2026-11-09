@@ -34,88 +34,6 @@
  <channel id="TV2Fyn.dk">
   <display-name>TV 2 Fyn</display-name>
  </channel>
- <programme start="20261108200000 +0000" stop="20261108210000 +0000" channel="bbc1.uk">
-  <title lang="en">Blue Planet III</title>
-  <desc lang="en">Beyond the horizon lies the vast open ocean, a world teeming with extraordinary life where giant blue whales, tiny drifting crabs and tenacious turtles thrive against all odds.</desc>
-  <category>Entertainment</category>
-  <category>Factual</category>
- </programme>
- <programme start="20261108210000 +0000" stop="20261108220000 +0000" channel="bbc1.uk">
-  <title lang="en">This City Is Ours</title>
-  <desc lang="en">While Michael attempts peace talks with the Phelans, Freddie spirals out of control. Contains strong language, some violence and some upsetting scenes.</desc>
-  <category>Entertainment</category>
-  <category>Detective</category>
- </programme>
- <programme start="20261108220000 +0000" stop="20261108222500 +0000" channel="bbc1.uk">
-  <title lang="en">BBC News and Weather</title>
-  <desc lang="en">The latest national and international news from the BBC.</desc>
-  <category>News &amp; Documentary</category>
-  <category>News</category>
- </programme>
- <programme start="20261108222500 +0000" stop="20261108223000 +0000" channel="bbc1.uk">
-  <title lang="en">BBC London News</title>
-  <desc lang="en">The latest news, sport and weather from London.</desc>
-  <category>News &amp; Documentary</category>
-  <category>News</category>
- </programme>
- <programme start="20261108223000 +0000" stop="20261108235000 +0000" channel="bbc1.uk">
-  <title lang="en">Match of the Day</title>
-  <desc lang="en">Highlights from five Premier League games, including Manchester United v Aston Villa.</desc>
-  <category>Sports</category>
-  <category>Football</category>
- </programme>
- <programme start="20261108235000 +0000" stop="20261109004500 +0000" channel="bbc1.uk">
-  <title lang="en">The Graham Norton Show</title>
-  <desc lang="en">Graham's guests are Dame Judi Dench, Alan Cumming, Nicola Coughlan and Tramell Tillman.</desc>
-  <category>Entertainment</category>
- </programme>
- <programme start="20261109004500 +0000" stop="20261109005000 +0000" channel="bbc1.uk">
-  <title lang="en">Weather for the Week Ahead</title>
-  <sub-title lang="en">Detailed weather forecast</sub-title>
-  <category>News &amp; Documentary</category>
-  <category>News</category>
- </programme>
- <programme start="20261109005000 +0000" stop="20261109060000 +0000" channel="bbc1.uk">
-  <title lang="en">BBC News</title>
-  <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
-  <category>News &amp; Documentary</category>
-  <category>News</category>
- </programme>
- <programme start="20261109060000 +0000" stop="20261109093000 +0000" channel="bbc1.uk">
-  <title lang="en">Breakfast</title>
-  <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-  <category>News &amp; Documentary</category>
-  <category>News</category>
- </programme>
- <programme start="20261109093000 +0000" stop="20261109104500 +0000" channel="bbc1.uk">
-  <title lang="en">Morning Live</title>
-  <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
-  <category>Entertainment</category>
- </programme>
- <programme start="20261109104500 +0000" stop="20261109111500 +0000" channel="bbc1.uk">
-  <title lang="en">Dashcam Justice</title>
-  <desc lang="en">A pedestrian hurls himself at a car in pursuit of an insurance payout. A horse rider films a frightening close pass, and a van mounts the pavement, putting bystanders at risk.</desc>
-  <category>Entertainment</category>
-  <category>Factual</category>
- </programme>
- <programme start="20261109111500 +0000" stop="20261109121500 +0000" channel="bbc1.uk">
-  <title lang="en">Homes Under the Hammer</title>
-  <desc lang="en">Dion time travels back to the 70s in Nottinghamshire, and it all feels very familiar. Martin loves his surroundings in Bath, and Jacqui sees potential in a major Norfolk project.</desc>
-  <category>Entertainment</category>
-  <category>Factual</category>
- </programme>
- <programme start="20261109121500 +0000" stop="20261109130000 +0000" channel="bbc1.uk">
-  <title lang="en">Bargain Hunt</title>
-  <desc lang="en">The bidding is tight at the auction, so can the antiques experts give their teams the edge? Philip Serrell picks something close to his heart.</desc>
-  <category>Entertainment</category>
-  <category>Game Show</category>
- </programme>
- <programme start="20261109130000 +0000" stop="20261109140000 +0000" channel="bbc1.uk">
-  <title lang="en">BBC News at One including BBC London News</title>
-  <desc lang="en">The latest national and international news from the BBC.</desc>
-  <category>News &amp; Documentary</category>
-  <category>News</category>
- </programme>
  <programme start="20261109140000 +0000" stop="20261109144500 +0000" channel="bbc1.uk">
   <title lang="en">Money for Nothing</title>
   <desc lang="en">Jacqui Joseph finds a pair of folding chairs, an old washstand and a collection of glass bottles to repurpose at Altrincham recycling centre.</desc>
@@ -329,101 +247,91 @@
   <category>News &amp; Documentary</category>
   <category>News</category>
  </programme>
- <programme start="20261108191000 +0000" stop="20261108203000 +0000" channel="bbc2.uk">
-  <title lang="en">Remembrance Sunday: The Cenotaph Highlights</title>
-  <desc lang="en">Highlights from the Remembrance Sunday commemorations at the Cenotaph.</desc>
-  <category>Entertainment</category>
-  <category>Factual</category>
- </programme>
- <programme start="20261108203000 +0000" stop="20261108210000 +0000" channel="bbc2.uk">
-  <title lang="en">Villages by the Sea - Craster</title>
-  <desc lang="en">Ben Robinson visits Northumberland's Craster to find out how a family who shares the name have had their lives and fortunes intertwined with the village for over 800 years.</desc>
-  <category>Entertainment</category>
-  <category>Factual</category>
- </programme>
- <programme start="20261108210000 +0000" stop="20261108213000 +0000" channel="bbc2.uk">
-  <title lang="en">Mortimer and Whitehouse: Gone Fishing</title>
-  <desc lang="en">Paul and Bob head to Shetland, the furthest place in the UK they have travelled to fish. It's wild, beautiful and full of surprises for both of them.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261108213000 +0000" stop="20261108220000 +0000" channel="bbc2.uk">
-  <title lang="en">A Course Called Ireland</title>
-  <desc lang="en">An icy Atlantic challenge awaits Bill, after seaside golfing craic with Chris O'Dowd. Contains strong language.</desc>
-  <category>Entertainment</category>
-  <category>Factual</category>
- </programme>
- <programme start="20261108220000 +0000" stop="20261108224500 +0000" channel="bbc2.uk">
-  <title lang="en">Later with Jools Holland</title>
-  <desc lang="en">Jools welcomes Jamie T, Antony Szmierek, Violet Grohl, Emily Bear, Tia Gordon and Leo Sayer to the show. Contains some strong language.</desc>
-  <category>Music &amp; Radio</category>
- </programme>
- <programme start="20261108224500 +0000" stop="20261109004500 +0000" channel="bbc2.uk">
-  <title lang="en">Tinker Tailor Soldier Spy</title>
-  <desc lang="en">Cold War thriller about a retired MI6 agent who must track down a Soviet mole. Contains some strong language, some sexual content and some violence.</desc>
-  <category>Movie</category>
- </programme>
- <programme start="20261109004500 +0000" stop="20261109014500 +0000" channel="bbc2.uk">
-  <title lang="en">Question Time</title>
-  <desc lang="en">Fiona Bruce presents an hour of debate from Liverpool with Lucy Powell, Luke Evans, Paul Nowak, Tim Stanley and John Amaechi.</desc>
-  <category>Entertainment</category>
-  <category>Factual</category>
- </programme>
- <programme start="20261109014500 +0000" stop="20261109024500 +0000" channel="bbc2.uk">
-  <title lang="en">This City Is Ours</title>
-  <desc lang="en">As Michael struggles to maintain control, Ozzie manipulates Freddie down a dark path. Contains strong language and some violent scenes.</desc>
-  <category>Entertainment</category>
-  <category>Detective</category>
- </programme>
- <programme start="20261109024500 +0000" stop="20261109031500 +0000" channel="bbc2.uk">
-  <title lang="en">Ellie &amp; Natasia</title>
-  <desc lang="en">Two pregnant mums offer their unfiltered takes on the world of high fashion. Contains strong language and adult humour.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261109031500 +0000" stop="20261109061500 +0000" channel="bbc2.uk">
-  <title lang="en">This is BBC Two</title>
-  <desc lang="en">Highlights of programmes on BBC Two.</desc>
- </programme>
- <programme start="20261109061500 +0000" stop="20261109064000 +0000" channel="bbc2.uk">
-  <title lang="en">The A to Z of TV Gardening</title>
-  <desc lang="en">Carol Kirkwood revisits some of the BBC's most popular gardening programmes, exploring subjects that all begin with the letter A, including apples, asparagus and alliums.</desc>
-  <category>Entertainment</category>
-  <category>Gradening</category>
- </programme>
- <programme start="20261109064000 +0000" stop="20261109074000 +0000" channel="bbc2.uk">
-  <title lang="en">Blue Planet III</title>
-  <desc lang="en">Beyond the horizon lies the vast open ocean, a world teeming with extraordinary life where giant blue whales, tiny drifting crabs and tenacious turtles thrive against all odds.</desc>
-  <category>Entertainment</category>
-  <category>Factual</category>
- </programme>
- <programme start="20261109074000 +0000" stop="20261109090000 +0000" channel="bbc2.uk">
-  <title lang="en">Match of the Day</title>
-  <desc lang="en">Highlights from five Premier League games, including Manchester United v Aston Villa.</desc>
-  <category>Sports</category>
-  <category>Football</category>
- </programme>
- <programme start="20261109090000 +0000" stop="20261109121500 +0000" channel="bbc2.uk">
-  <title lang="en">BBC News</title>
-  <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.</desc>
+ <programme start="20261110223000 +0000" stop="20261110224000 +0000" channel="bbc1.uk">
+  <title lang="en">BBC London News</title>
+  <desc lang="en">The latest news, sport and weather from London.</desc>
   <category>News &amp; Documentary</category>
   <category>News</category>
  </programme>
- <programme start="20261109121500 +0000" stop="20261109130000 +0000" channel="bbc2.uk">
-  <title lang="en">Politics Live</title>
-  <desc lang="en">The big political issues of the day.</desc>
+ <programme start="20261110224000 +0000" stop="20261110232500 +0000" channel="bbc1.uk">
+  <title lang="en">Tall Tales &amp; Murder</title>
+  <desc lang="en">Bridget and Paul learn the history of Grinner's treasure and realise they are in trouble. Contains very strong language, some sexual content, some violence and..</desc>
+  <category>Entertainment</category>
+  <category>Detective</category>
+ </programme>
+ <programme start="20261110232500 +0000" stop="20261111013000 +0000" channel="bbc1.uk">
+  <title lang="en">Knocked Up</title>
+  <desc lang="en">A one-night stand leads to an unexpected pregnancy and a crash course in growing up. Contains very strong language, adult humour and some sexual content.</desc>
+  <category>Movie</category>
+ </programme>
+ <programme start="20261111013000 +0000" stop="20261111013500 +0000" channel="bbc1.uk">
+  <title lang="en">Weather for the Week Ahead</title>
+  <sub-title lang="en">Detailed weather forecast</sub-title>
+  <category>News &amp; Documentary</category>
+  <category>News</category>
+ </programme>
+ <programme start="20261111013500 +0000" stop="20261111060000 +0000" channel="bbc1.uk">
+  <title lang="en">BBC News</title>
+  <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
+  <category>News &amp; Documentary</category>
+  <category>News</category>
+ </programme>
+ <programme start="20261111060000 +0000" stop="20261111093000 +0000" channel="bbc1.uk">
+  <title lang="en">Breakfast</title>
+  <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+  <category>News &amp; Documentary</category>
+  <category>News</category>
+ </programme>
+ <programme start="20261111093000 +0000" stop="20261111110000 +0000" channel="bbc1.uk">
+  <title lang="en">Morning Live</title>
+  <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+  <category>Entertainment</category>
+ </programme>
+ <programme start="20261111110000 +0000" stop="20261111110500 +0000" channel="bbc1.uk">
+  <title lang="en">Two-Minute Silence</title>
+  <sub-title lang="en">Two-minute silence for Remembrance Day</sub-title>
+  <category>News &amp; Documentary</category>
+  <category>News</category>
+ </programme>
+ <programme start="20261111110500 +0000" stop="20261111120500 +0000" channel="bbc1.uk">
+  <title lang="en">Homes Under the Hammer</title>
+  <desc lang="en">Martel tries to remain stable, despite there being no horses, as she looks around a Cumbrian house set on three acres of land.</desc>
   <category>Entertainment</category>
   <category>Factual</category>
  </programme>
- <programme start="20261109130000 +0000" stop="20261109134500 +0000" channel="bbc2.uk">
-  <title lang="en">Impossible</title>
-  <desc lang="en">Game show in which players score points by answering questions correctly while avoiding the Impossible answers.</desc>
+ <programme start="20261111120500 +0000" stop="20261111130000 +0000" channel="bbc1.uk">
+  <title lang="en">Bargain Hunt</title>
+  <desc lang="en">A rare Harry Potter book goes under the hammer with a spellbinding estimate. Join Natasha Raskin Sharp, with experts Thomas Forrester and Tim Weeks.</desc>
   <category>Entertainment</category>
   <category>Game Show</category>
  </programme>
- <programme start="20261109134500 +0000" stop="20261109143000 +0000" channel="bbc2.uk">
-  <title lang="en">The Answer Run</title>
-  <desc lang="en">Comedian Jason Manford hosts an exciting, fast-paced quiz show, where three couples face a series of 50/50 questions which hurtle The Answer Run down towards them.</desc>
+ <programme start="20261111130000 +0000" stop="20261111140000 +0000" channel="bbc1.uk">
+  <title lang="en">BBC News at One including BBC London News</title>
+  <desc lang="en">The latest national and international news from the BBC.</desc>
+  <category>News &amp; Documentary</category>
+  <category>News</category>
+ </programme>
+ <programme start="20261111140000 +0000" stop="20261111144500 +0000" channel="bbc1.uk">
+  <title lang="en">Money for Nothing</title>
+  <desc lang="en">Jacqui Joseph saves a drop-leaf table, a collection of canvas frames and a monk's bench from being crushed at High Wycombe recycling centre in Buckinghamshire.</desc>
+  <category>Entertainment</category>
+  <category>Antiques</category>
+ </programme>
+ <programme start="20261111144500 +0000" stop="20261111154500 +0000" channel="bbc1.uk">
+  <title lang="en">Escape to the Country</title>
+  <desc lang="en">The focus is firmly on Wiltshire today as Jonnie Irwin helps a couple from London with a £550k budget to make a life-changing rural move to this beautiful county.</desc>
+  <category>Entertainment</category>
+  <category>Gradening</category>
+ </programme>
+ <programme start="20261111154500 +0000" stop="20261111163000 +0000" channel="bbc1.uk">
+  <title lang="en">The Bidding Room</title>
+  <desc lang="en">From the ridiculous to the sublime. Daniel tries to shift a pair of furry bedside tables, and Pixie shows off her parachute silk wedding dress.</desc>
+  <category>Entertainment</category>
+  <category>Antiques</category>
+ </programme>
+ <programme start="20261111163000 +0000" stop="20261111171500 +0000" channel="bbc1.uk">
+  <title lang="en">Bridge of Lies</title>
+  <desc lang="en">Friends Jacqui, Harry, Annie and Andrew take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.</desc>
   <category>Entertainment</category>
   <category>Game Show</category>
  </programme>
@@ -630,103 +538,98 @@
   <category>Entertainment</category>
   <category>Game Show</category>
  </programme>
- <programme start="20261108182500 +0000" stop="20261108210000 +0000" channel="itv1anglia.uk">
-  <title lang="en">Jurassic World Dominion</title>
-  <desc lang="en">Action-adventure film sequel starring Chris Pratt and Bryce Dallas Howard, 2022. Biosyn operatives try to locate Maisie Lockwood following the destruction of Isla Nublar.</desc>
-  <category>Movie</category>
-  <category>Action</category>
- </programme>
- <programme start="20261108210000 +0000" stop="20261108220500 +0000" channel="itv1anglia.uk">
-  <title lang="en">Adultery</title>
-  <desc lang="en">The teens' bad behaviour causes Hannah to reveal her painful past, while Beth decides to confront hers. The weight of choice looms over Beth and Tom.</desc>
-  <category>Entertainment</category>
-  <category>Drama</category>
- </programme>
- <programme start="20261108220500 +0000" stop="20261108222000 +0000" channel="itv1anglia.uk">
-  <title lang="en">ITV News</title>
-  <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
+ <programme start="20261110223000 +0000" stop="20261110230000 +0000" channel="bbc2.uk">
+  <title lang="en">Newsnight</title>
+  <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
   <category>News &amp; Documentary</category>
   <category>News</category>
  </programme>
- <programme start="20261108222000 +0000" stop="20261108231500 +0000" channel="itv1anglia.uk">
-  <title lang="en">Long Lost Family</title>
-  <sub-title lang="en">This episode features Tracey Boyle</sub-title>
-  <desc lang="en">a woman searching for the brother her mum reluctantly gave up - and Liz Allward, who looks for the sister she always had an intuition about.</desc>
-  <category>News &amp; Documentary</category>
-  <category>Feature</category>
- </programme>
- <programme start="20261108231500 +0000" stop="20261109001500 +0000" channel="itv1anglia.uk">
-  <title lang="en">The Debrief with Dan and ROG</title>
-  <desc lang="en">Claire Thomas is joined by Dan Biggar and Ronan O'Gara to analyse the best of the action from the inaugural Nations Championship.</desc>
-  <category>Sports</category>
-  <category>Rugby</category>
- </programme>
- <programme start="20261109001500 +0000" stop="20261109030000 +0000" channel="itv1anglia.uk">
-  <title lang="en">Shop on TV</title>
-  <desc lang="en">Teleshopping.</desc>
-  <category>Specialist</category>
-  <category>Shopping</category>
- </programme>
- <programme start="20261109030000 +0000" stop="20261109035000 +0000" channel="itv1anglia.uk">
-  <title lang="en">Motorsport UK</title>
-  <desc lang="en">Richard John Neill presents MSUK from Croft with racing from the MINI Challenge and Porsche Sprint Challenge Great Britain.</desc>
-  <category>Sports</category>
-  <category>Motor Sports</category>
- </programme>
- <programme start="20261109035000 +0000" stop="20261109045500 +0000" channel="itv1anglia.uk">
-  <title lang="en">Unwind with ITV</title>
-  <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
-  <category>Entertainment</category>
-  <category>Lifestyles</category>
- </programme>
- <programme start="20261109045500 +0000" stop="20261109053000 +0000" channel="itv1anglia.uk">
-  <title lang="en">Burnham: Inside the First 100 Days - Tonight</title>
-  <desc lang="en">With unprecedented behind-the-scenes access, Daniel Hewitt follows Britain's new Prime Minister, Andy Burnham, through his first 100 days in office.</desc>
-  <category>News &amp; Documentary</category>
-  <category>Feature</category>
- </programme>
- <programme start="20261109053000 +0000" stop="20261109060000 +0000" channel="itv1anglia.uk">
-  <title lang="en">Ainsley's Taste of the Bahamas</title>
-  <sub-title lang="en">Flavour Foundations</sub-title>
-  <desc lang="en">Bahamian Classics: Ainsley Harriott focuses on Bahamian comfort food as he serves up prawn and coconut fritters with a pickled coconut slaw.</desc>
+ <programme start="20261110230000 +0000" stop="20261111000000 +0000" channel="bbc2.uk">
+  <title lang="en">Rise of the Rockstar Chef</title>
+  <desc lang="en">Marco's meteoric rise through fine dining, with Gordon as protege and Heston starting out. Contains strong language.</desc>
   <category>Entertainment</category>
   <category>Cooking</category>
  </programme>
- <programme start="20261109060000 +0000" stop="20261109093000 +0000" channel="itv1anglia.uk">
-  <title lang="en">Good Morning Britain</title>
-  <desc lang="en">News, current affairs and lively debate.</desc>
+ <programme start="20261111000000 +0000" stop="20261111003000 +0000" channel="bbc2.uk">
+  <title lang="en">A Course Called Ireland</title>
+  <desc lang="en">An icy Atlantic challenge awaits Bill, after seaside golfing craic with Chris O'Dowd. Contains strong language.</desc>
+  <category>Entertainment</category>
+  <category>Factual</category>
+ </programme>
+ <programme start="20261111003000 +0000" stop="20261111013000 +0000" channel="bbc2.uk">
+  <title lang="en">MasterChef: The Professionals</title>
+  <desc lang="en">Six ambitious chefs enter the MasterChef kitchen ready to prove they have what it takes.</desc>
+  <category>Entertainment</category>
+  <category>Game Show</category>
+ </programme>
+ <programme start="20261111013000 +0000" stop="20261111023000 +0000" channel="bbc2.uk">
+  <title lang="en">Rise of the Rockstar Chef</title>
+  <desc lang="en">Marco's meteoric rise through fine dining, with Gordon as protege and Heston starting out. Contains strong language.</desc>
+  <category>Entertainment</category>
+  <category>Cooking</category>
+ </programme>
+ <programme start="20261111023000 +0000" stop="20261111061500 +0000" channel="bbc2.uk">
+  <title lang="en">This is BBC Two</title>
+  <desc lang="en">Highlights of programmes on BBC Two.</desc>
+ </programme>
+ <programme start="20261111061500 +0000" stop="20261111070000 +0000" channel="bbc2.uk">
+  <title lang="en">Bargain Hunt</title>
+  <desc lang="en">In Malmesbury, Christina looks inside what's said to be England's oldest hotel and learns about the town's connections to the very first king of England.</desc>
+  <category>Entertainment</category>
+  <category>Game Show</category>
+ </programme>
+ <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="bbc2.uk">
+  <title lang="en">Homes Under the Hammer</title>
+  <desc lang="en">Martin is impressed by the use of space at a West Midlands terrace. Dion is in Salford, where less might be more with a project.</desc>
+  <category>Entertainment</category>
+  <category>Factual</category>
+ </programme>
+ <programme start="20261111080000 +0000" stop="20261111083000 +0000" channel="bbc2.uk">
+  <title lang="en">The Reluctant Vampire</title>
+  <desc lang="en">Val's initiation ceremony day approaches, and he has no idea how he'll pass his vampire test. He realises he can no longer live a double life and is faced with a difficult choice.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
+ </programme>
+ <programme start="20261111083000 +0000" stop="20261111090000 +0000" channel="bbc2.uk">
+  <title lang="en">Only Connect</title>
+  <desc lang="en">Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far. There's an EastEnders-style revelation as a family team face three former work colleagues.</desc>
+  <category>Entertainment</category>
+  <category>Game Show</category>
+ </programme>
+ <programme start="20261111090000 +0000" stop="20261111111500 +0000" channel="bbc2.uk">
+  <title lang="en">BBC News</title>
+  <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.</desc>
   <category>News &amp; Documentary</category>
   <category>News</category>
  </programme>
- <programme start="20261109093000 +0000" stop="20261109100000 +0000" channel="itv1anglia.uk">
-  <title lang="en">Lorraine</title>
-  <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+ <programme start="20261111111500 +0000" stop="20261111130000 +0000" channel="bbc2.uk">
+  <title lang="en">Politics Live</title>
+  <desc lang="en">The big political issues of the day.</desc>
   <category>Entertainment</category>
-  <category>Magazine</category>
+  <category>Factual</category>
  </programme>
- <programme start="20261109100000 +0000" stop="20261109123000 +0000" channel="itv1anglia.uk">
-  <title lang="en">This Morning</title>
-  <desc lang="en">Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.</desc>
+ <programme start="20261111130000 +0000" stop="20261111134500 +0000" channel="bbc2.uk">
+  <title lang="en">Impossible</title>
+  <desc lang="en">Game show in which players score points by answering questions correctly while avoiding the Impossible answers.</desc>
   <category>Entertainment</category>
-  <category>Magazine</category>
+  <category>Game Show</category>
  </programme>
- <programme start="20261109123000 +0000" stop="20261109133000 +0000" channel="itv1anglia.uk">
-  <title lang="en">Loose Women</title>
-  <desc lang="en">Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.</desc>
+ <programme start="20261111134500 +0000" stop="20261111142500 +0000" channel="bbc2.uk">
+  <title lang="en">The Answer Run</title>
+  <desc lang="en">Comedian Jason Manford hosts an exciting, fast-paced quiz show, where three couples face a series of 50/50 questions which hurtle The Answer Run down towards them.</desc>
   <category>Entertainment</category>
-  <category>Chat Show</category>
+  <category>Game Show</category>
  </programme>
- <programme start="20261109133000 +0000" stop="20261109135500 +0000" channel="itv1anglia.uk">
-  <title lang="en">ITV Lunchtime News</title>
-  <desc lang="en">The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.</desc>
-  <category>News &amp; Documentary</category>
-  <category>News</category>
+ <programme start="20261111142500 +0000" stop="20261111163500 +0000" channel="bbc2.uk">
+  <title lang="en">Dunkirk</title>
+  <desc lang="en">A dramatic reconstruction of the World War II defeat at Dunkirk, told through the experiences of three characters.</desc>
+  <category>Movie</category>
  </programme>
- <programme start="20261109135500 +0000" stop="20261109140000 +0000" channel="itv1anglia.uk">
-  <title lang="en">ITV News London</title>
-  <desc lang="en">The latest news and weather from London and the South East.</desc>
-  <category>News &amp; Documentary</category>
-  <category>News</category>
+ <programme start="20261111163500 +0000" stop="20261111171500 +0000" channel="bbc2.uk">
+  <title lang="en">Vintage Antiques Roadshow</title>
+  <desc lang="en">Michael Aspel and the team visit Dartington Hall near Totnes in Devon. Among the items brought to light are a set of royal cufflinks and a letter from Admiral Nelson.</desc>
+  <category>Entertainment</category>
+  <category>Antiques</category>
  </programme>
  <programme start="20261109140000 +0000" stop="20261109150000 +0000" channel="itv1anglia.uk">
   <title lang="en">Dickinson's Real Deal</title>
@@ -946,154 +849,103 @@
   <category>News &amp; Documentary</category>
   <category>News</category>
  </programme>
- <programme start="20261108200000 +0000" stop="20261108210000 +0000" channel="channel4.uk">
-  <title lang="en">Kevin McCloud's Classic Car Road Trips</title>
-  <desc lang="en">A beautiful Benz in the Black Forest! Kevin drives a 1960s Mercedes SL to Baden-Baden and visits the Mercedes museum, a Le Corbusier house and a quirky car church.</desc>
-  <category>Entertainment</category>
-  <category>Motors</category>
- </programme>
- <programme start="20261108210000 +0000" stop="20261108220000 +0000" channel="channel4.uk">
-  <title lang="en">Stacey Dooley's Australia: Off the Beaten Track</title>
-  <desc lang="en">Stacey explores a side of Australia few outsiders see, starting with remote Kangaroo Island's stunning scenery, incredible wildlife and resilient community.</desc>
-  <category>Entertainment</category>
-  <category>Travel</category>
- </programme>
- <programme start="20261108220000 +0000" stop="20261108233000 +0000" channel="channel4.uk">
-  <title lang="en">F1 São Paulo GP Highlights</title>
-  <desc lang="en">Highlights from Brazil. The twists and turns of Interlagos always deliver a nail-biting race. Russell took his first F1 victory here in 2022. But there's always new champion Antonelli..</desc>
-  <category>Sports</category>
-  <category>Motor Sports</category>
- </programme>
- <programme start="20261108233000 +0000" stop="20261109013000 +0000" channel="channel4.uk">
-  <title lang="en">The Kitchen</title>
-  <desc lang="en">Dystopian thriller from Daniel Kaluuya and Kibwe Tavares. In a future London where social housing is being eradicated, residents on a threatened estate fight for their community.</desc>
-  <category>Movie</category>
-  <category>Drama</category>
- </programme>
- <programme start="20261109013000 +0000" stop="20261109031500 +0000" channel="channel4.uk">
-  <title lang="en">Misericordia</title>
-  <desc lang="en">French psychosexual comedy-drama. A young man moves in with his old boss's widow. And what's the story with the shabby neighbour and the mysterious priest.</desc>
-  <category>Movie</category>
-  <category>Drama</category>
- </programme>
- <programme start="20261109031500 +0000" stop="20261109041000 +0000" channel="channel4.uk">
-  <title lang="en">Trauma: My Broken Brain</title>
-  <desc lang="en">Dan faces surgery to repair a hole in his skull. Saskia battles neurological fatigue. Dec seems to have made a miraculous recovery, but his psychological struggles weigh heavily.</desc>
-  <category>News &amp; Documentary</category>
-  <category>Science</category>
- </programme>
- <programme start="20261109041000 +0000" stop="20261109045000 +0000" channel="channel4.uk">
-  <title lang="en">Come Dine with Me</title>
-  <desc lang="en">In Surrey, there are divisions between estate agent James, pensioner Cherry Hughes, tattoo artist Lee Jackson and project manager Sandhya Gadsby. But is it a class divide or a surprise.</desc>
-  <category>Entertainment</category>
-  <category>Cooking</category>
- </programme>
- <programme start="20261109045000 +0000" stop="20261109051500 +0000" channel="channel4.uk">
-  <title lang="en">The Simpsons</title>
-  <sub-title lang="en">There's No Disgrace Like Home</sub-title>
-  <desc lang="en">The Simpsons go to therapy after an embarrassing incident at the company picnic.</desc>
-  <category>Entertainment</category>
-  <category>Animation</category>
- </programme>
- <programme start="20261109051500 +0000" stop="20261109054000 +0000" channel="channel4.uk">
-  <title lang="en">The Simpsons</title>
-  <sub-title lang="en">Bart the General</sub-title>
-  <desc lang="en">Bart and his friends stand up to Nelson the bully, with a little bit of help from Grampa and Herman.</desc>
-  <category>Entertainment</category>
-  <category>Animation</category>
- </programme>
- <programme start="20261109054000 +0000" stop="20261109060500 +0000" channel="channel4.uk">
-  <title lang="en">Cheers</title>
-  <sub-title lang="en">Cheers</sub-title>
-  <desc lang="en">The Motion Picture: Woody's parents are worried that Boston is dangerous, so the Cheers gang make a home movie to reassure them.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261109060500 +0000" stop="20261109063000 +0000" channel="channel4.uk">
-  <title lang="en">Cheers</title>
-  <desc lang="en">A House Is Not a Home: Sam and Diane buy their dream house, but Diane becomes sentimental about the previous owners, who lived a long and happy life together there.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261109063000 +0000" stop="20261109065500 +0000" channel="channel4.uk">
-  <title lang="en">The King of Queens</title>
-  <sub-title lang="en">Crappy Birthday</sub-title>
-  <desc lang="en">When Carrie tells Doug to ignore her 30th birthday, he's more than happy to play along, because there's a huge ultimate fighting tournament on TV.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261109065500 +0000" stop="20261109072000 +0000" channel="channel4.uk">
-  <title lang="en">The King of Queens</title>
-  <sub-title lang="en">S'ain't Valentine's</sub-title>
-  <desc lang="en">Arthur meets a stranger at a dance for singles.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261109072000 +0000" stop="20261109074500 +0000" channel="channel4.uk">
-  <title lang="en">The King of Queens</title>
-  <sub-title lang="en">Court Date</sub-title>
-  <desc lang="en">When a cop gives Carrie a ticket for reckless driving she tries to get out of it by chatting him up.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261109074500 +0000" stop="20261109081000 +0000" channel="channel4.uk">
-  <title lang="en">Everybody Loves Raymond</title>
-  <sub-title lang="en">Traffic School</sub-title>
-  <desc lang="en">Robert's traffic school students are bored by his class, so he introduces Traffic Cop Timmy, a puppet who's anything but boring.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261109081000 +0000" stop="20261109084000 +0000" channel="channel4.uk">
-  <title lang="en">Everybody Loves Raymond</title>
-  <sub-title lang="en">Six Feet Under</sub-title>
-  <desc lang="en">Ray becomes concerned with his own mortality when he discovers that he's shrunk a quarter of an inch and is no longer six feet tall.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261109084000 +0000" stop="20261109091000 +0000" channel="channel4.uk">
-  <title lang="en">Everybody Loves Raymond</title>
-  <sub-title lang="en">The Garage Sale</sub-title>
-  <desc lang="en">Ray's shocked when Debra takes all their baby stuff to a garage sale. He didn't know that they'd decided not to have any more children.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261109091000 +0000" stop="20261109094000 +0000" channel="channel4.uk">
-  <title lang="en">Frasier</title>
-  <sub-title lang="en">Dinner Party</sub-title>
-  <desc lang="en">Frasier and Niles decide to throw a dinner party but can't agree on who they should invite.</desc>
-  <category>Entertainment</category>
-  <category>Comedy</category>
- </programme>
- <programme start="20261109094000 +0000" stop="20261109111000 +0000" channel="channel4.uk">
-  <title lang="en">F1 São Paulo GP Highlights</title>
-  <desc lang="en">Highlights from Brazil. The twists and turns of São Paulo's Interlagos always deliver a nail-biting race. Russell took his first F1 victory here in 2022. But there's always Antonelli..</desc>
-  <category>Sports</category>
-  <category>Motor Sports</category>
- </programme>
- <programme start="20261109111000 +0000" stop="20261109120500 +0000" channel="channel4.uk">
-  <title lang="en">American Pickers</title>
-  <sub-title lang="en">The Mega-Pick</sub-title>
-  <desc lang="en">The deals are flying in Colorado when a property proves plentiful. Mike bids big on a 1961 Messerschmitt. And will Danielle sell the guys' rare Fiat cutaway car.</desc>
-  <category>Entertainment</category>
-  <category>Antiques</category>
- </programme>
- <programme start="20261109120500 +0000" stop="20261109121000 +0000" channel="channel4.uk">
-  <title lang="en">Channel 4 News Summary</title>
-  <desc lang="en">Channel 4's midday news summary.</desc>
+ <programme start="20261110223500 +0000" stop="20261110225000 +0000" channel="itv1anglia.uk">
+  <title lang="en">ITV News London</title>
+  <desc lang="en">The latest news and weather from London and the South East.</desc>
   <category>News &amp; Documentary</category>
   <category>News</category>
  </programme>
- <programme start="20261109121000 +0000" stop="20261109131000 +0000" channel="channel4.uk">
-  <title lang="en">Renovation Nation</title>
-  <desc lang="en">Can Tracey and Rob restore their castle's chapel in time for their own wedding? And Joanne and Geoff find rare original features in their Victorian home.</desc>
-  <category>Entertainment</category>
-  <category>Home</category>
+ <programme start="20261110225000 +0000" stop="20261110234500 +0000" channel="itv1anglia.uk">
+  <title lang="en">TikTok: Murder Gone Viral - The Mother and Daughter Killers</title>
+  <sub-title lang="en">Documentary</sub-title>
+  <desc lang="en">An examination of two deaths in 2022 that led to the first instance of a mother and daughter being convicted of double murder in the UK.</desc>
+  <category>News &amp; Documentary</category>
+  <category>Feature</category>
  </programme>
- <programme start="20261109131000 +0000" stop="20261109141000 +0000" channel="channel4.uk">
-  <title lang="en">Escape to Florida</title>
-  <desc lang="en">Sidhbh and Neasa gamble on moving their plastic surgery clinic. Hurricanes wreck David and Gina's holiday apartments. And Laura and Lindsay prepare for a new arrival.</desc>
+ <programme start="20261110234500 +0000" stop="20261111003500 +0000" channel="itv1anglia.uk">
+  <title lang="en">TikTok: Murder Gone Viral - The Killing of Sania Khan</title>
+  <sub-title lang="en">Documentary</sub-title>
+  <desc lang="en">After surviving an attempt on her life, TikTok star Sania Khan goes viral campaigning for South Asian women's rights but is imperilled.</desc>
+  <category>News &amp; Documentary</category>
+  <category>Feature</category>
+ </programme>
+ <programme start="20261111003500 +0000" stop="20261111030000 +0000" channel="itv1anglia.uk">
+  <title lang="en">Shop on TV</title>
+  <desc lang="en">Teleshopping.</desc>
+  <category>Specialist</category>
+  <category>Shopping</category>
+ </programme>
+ <programme start="20261111030000 +0000" stop="20261111035000 +0000" channel="itv1anglia.uk">
+  <title lang="en">Lingo</title>
+  <desc lang="en">The fast-paced game of words hosted by Adil Ray - battling it out this time are best friends Peter and Ruby, Norwich sisters Debbie and Gill, and best mates Bob and John.</desc>
+  <category>Entertainment</category>
+  <category>Game Show</category>
+ </programme>
+ <programme start="20261111035000 +0000" stop="20261111050500 +0000" channel="itv1anglia.uk">
+  <title lang="en">Unwind with ITV</title>
+  <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
   <category>Entertainment</category>
   <category>Lifestyles</category>
+ </programme>
+ <programme start="20261111050500 +0000" stop="20261111060000 +0000" channel="itv1anglia.uk">
+  <title lang="en">Deal or No Deal</title>
+  <desc lang="en">It's Liam's turn to take on The Banker, but will he take home a huge cash prize or be the latest member of the 1p club? Join Stephen Mulhern to find out.</desc>
+  <category>Entertainment</category>
+  <category>Game Show</category>
+ </programme>
+ <programme start="20261111060000 +0000" stop="20261111093000 +0000" channel="itv1anglia.uk">
+  <title lang="en">Good Morning Britain</title>
+  <desc lang="en">News, current affairs and lively debate.</desc>
+  <category>News &amp; Documentary</category>
+  <category>News</category>
+ </programme>
+ <programme start="20261111093000 +0000" stop="20261111100000 +0000" channel="itv1anglia.uk">
+  <title lang="en">Lorraine</title>
+  <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+  <category>Entertainment</category>
+  <category>Magazine</category>
+ </programme>
+ <programme start="20261111100000 +0000" stop="20261111123000 +0000" channel="itv1anglia.uk">
+  <title lang="en">This Morning</title>
+  <desc lang="en">Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.</desc>
+  <category>Entertainment</category>
+  <category>Magazine</category>
+ </programme>
+ <programme start="20261111123000 +0000" stop="20261111133000 +0000" channel="itv1anglia.uk">
+  <title lang="en">Loose Women</title>
+  <desc lang="en">Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.</desc>
+  <category>Entertainment</category>
+  <category>Chat Show</category>
+ </programme>
+ <programme start="20261111133000 +0000" stop="20261111135500 +0000" channel="itv1anglia.uk">
+  <title lang="en">ITV Lunchtime News</title>
+  <desc lang="en">The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.</desc>
+  <category>News &amp; Documentary</category>
+  <category>News</category>
+ </programme>
+ <programme start="20261111135500 +0000" stop="20261111140000 +0000" channel="itv1anglia.uk">
+  <title lang="en">ITV News London</title>
+  <desc lang="en">The latest news and weather from London and the South East.</desc>
+  <category>News &amp; Documentary</category>
+  <category>News</category>
+ </programme>
+ <programme start="20261111140000 +0000" stop="20261111150000 +0000" channel="itv1anglia.uk">
+  <title lang="en">Dickinson's Real Deal</title>
+  <desc lang="en">David Dickinson hosts today's show from Swindon where a childhood Star Wars collection proves to be a sound investment nearly 50 years later.</desc>
+  <category>Entertainment</category>
+  <category>Antiques</category>
+ </programme>
+ <programme start="20261111150000 +0000" stop="20261111160000 +0000" channel="itv1anglia.uk">
+  <title lang="en">Lingo</title>
+  <desc lang="en">The fast-paced game of words hosted by Adil Ray - trying to Lingo all the way alongside the current champions are London twins Oliver and Oskar and school friends Elayne and Andre.</desc>
+  <category>Entertainment</category>
+  <category>Game Show</category>
+ </programme>
+ <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="itv1anglia.uk">
+  <title lang="en">Deal or No Deal</title>
+  <desc lang="en">Join Stephen Mulhern as Amanda gets her chance to open the iconic red boxes. Will she take The Banker's tempting offer or will she hold out.</desc>
+  <category>Entertainment</category>
+  <category>Game Show</category>
  </programme>
  <programme start="20261109141000 +0000" stop="20261109150000 +0000" channel="channel4.uk">
   <title lang="en">Countdown</title>
@@ -1371,131 +1223,181 @@
   <category>Entertainment</category>
   <category>Cooking</category>
  </programme>
- <programme start="20261108201000 +0000" stop="20261108204000 +0000" channel="DR1.dk">
-  <title lang="da">Verdenssituationen med Clement</title>
-  <desc lang="da">Sæson: 4. Episode: 10. '08.11.2026'. Krige, kriser og geopolitisk magtforskydning ryster den internationale orden. Hvor er verden på vej hen, og hvordan endte vi her? Clement Kjersgaard spørger de skarpeste danske og internationale iagttagere. Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261110230500 +0000" stop="20261111000500 +0000" channel="channel4.uk">
+  <title lang="en">Gogglebox</title>
+  <sub-title lang="en">This time on the 'Box</sub-title>
+  <desc lang="en">Adolescence, 99 to Beat, Coronation Street, David Blaine: Do Not Attempt, Big Night of Musicals by The National Lottery and Building Britain's Superhomes.</desc>
+  <category>News &amp; Documentary</category>
+  <category>Feature</category>
  </programme>
- <programme start="20261108204000 +0000" stop="20261108211500 +0000" channel="DR1.dk">
-  <title lang="da">Sportsmagasinet</title>
-  <desc lang="da">Sæson: 2026. '08.11.2026'. Sportsmagasinet bringer dig helt tæt på de største danske sportsnavne, viser dig det bedste fra Superligaen og giver perspektiv på de største historier og begivenheder i både dansk og international sport. Tilladt for: A.</desc>
-  <category>Sport</category>
+ <programme start="20261111000500 +0000" stop="20261111010000 +0000" channel="channel4.uk">
+  <title lang="en">Gogglebox</title>
+  <desc lang="en">This time the Goggleboxers watch Blue Planet III, The Celebrity Traitors, Bradley Walsh's Million Pound Shot, Celebrity Race Across the World, Beat Luke Littler, and Nocturne.</desc>
+  <category>Entertainment</category>
+  <category>Factual</category>
  </programme>
- <programme start="20261108211500 +0000" stop="20261108220500 +0000" channel="DR1.dk">
-  <title lang="da">Pigen, der aldrig kom hjem</title>
-  <sub-title lang="da">(1:3)</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 1. 'Forsvundet efter bytur'. Hvorfor kom Libby ikke hjem? I januar 2019 mødes den 21-årige universitetsstuderende Libby Squire med sine venner for at gå i byen. Hun bliver afvist ved indgangen til klubben, og vennerne sender hende hjem i en taxa. Men Libby når aldrig frem. Da politiet begynder at lede efter hende, viser det sig, at hun kort før sin forsvinden steg ind i en ukendt bil. Hvad skete der den nat? Britisk dokumentarserie fra 2022. (Libby, Are You Home Yet) Tilladt for: 15.</desc>
-  <category>Fakta</category>
+ <programme start="20261111010000 +0000" stop="20261111013000 +0000" channel="channel4.uk">
+  <title lang="en">It Gets Worse</title>
+  <sub-title lang="en">Comedy from Leo Reich</sub-title>
+  <desc lang="en">Ethan, Abi and Sam attend the funeral of a friend from university. Love and loneliness both bubble to the surface as their friendship hangs in the balance.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261108220500 +0000" stop="20261108230500 +0000" channel="DR1.dk">
-  <title lang="da">Vigil - Mord i Arktis</title>
-  <sub-title lang="da">(4:6)</sub-title>
-  <desc lang="da">Sæson: 3. Episode: 4. 'Vigil'. Henrik og Kirsten har begivet sig ud i tundraen for at finde Jia, den savnede kinesiske forsker. Amy er bekymret og sætter efter dem. Kan de stole på Henrik? Medvirkende: Suranne Jones, Rose Leslie, Shaun Evans, Paterson Joseph. Tilladt for: 15.</desc>
-  <category>Serier</category>
+ <programme start="20261111013000 +0000" stop="20261111020000 +0000" channel="channel4.uk">
+  <title lang="en">It Gets Worse</title>
+  <desc lang="en">Series finale of Leo Reich's comedy. The trio attempt to reconcile, but a chaotic housewarming party proves that their messy era is far from over. Surely it gets better than this..</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261108230500 +0000" stop="20261108235000 +0000" channel="DR1.dk">
-  <title lang="da">Kragepigen</title>
-  <sub-title lang="da">2 (2:6)</sub-title>
-  <desc lang="da">Sæson: 2. Episode: 2. 'Amor fati'. Britisk krimiserie fra 2026. (The Crow Girl) Peter Drake, lektor for Beecham College, hentes ind til afhøring. Han nægter at være involveret i sagen - og han nægter at tage imod politiets beskyttelse. Samtidig gør Mike en chokerende opdagelse. Den forbinder liget fra kirken til Beecham College og holdets efterforskning af Victoria Burkeman. Tilladt for: 15.</desc>
-  <category>Serier</category>
+ <programme start="20261111020000 +0000" stop="20261111025500 +0000" channel="channel4.uk">
+  <title lang="en">Taskmaster - The Final</title>
+  <desc lang="en">It's the grand final and there's only one question left to be answered: how much leg hair does Alex Horne have? No, sorry: who is the 22nd Taskmaster champion.</desc>
+  <category>Entertainment</category>
+  <category>Game Show</category>
  </programme>
- <programme start="20261108235000 +0000" stop="20261109012000 +0000" channel="DR1.dk">
-  <title lang="da">Beck: Den grædende politimand</title>
-  <desc lang="da">Sæson: 8. Episode: 4. 'Den grædende politimand'. Demonstranter protesterer mod politiet, efter at en 14-årig dreng er blevet skudt. En bus, som blandt andet stopper ved politiskolen, rammes efterfølgende af et dødbringende attentat. Beck og Alex kaldes til gerningsstedet. Kan attentatet være koblet til demonstrationerne mod politiet? Medvirkende: Peter Haber, Ingvar Hirdwall, Rebecka Hemse, Måns Nathanaelson. Tilladt for: 15.</desc>
-  <category>Serier</category>
+ <programme start="20261111025500 +0000" stop="20261111035000 +0000" channel="channel4.uk">
+  <title lang="en">The Last Leg</title>
+  <desc lang="en">Desiree Burch and Harry Shearer join Adam Hills, Josh Widdicombe and Alex Brooker as they take a tongue-in-cheek look at the week's news.</desc>
+  <category>Entertainment</category>
+  <category>Chat Show</category>
  </programme>
- <programme start="20261109012000 +0000" stop="20261109031500 +0000" channel="DR1.dk">
-  <title lang="da">Inferno</title>
-  <desc lang="da">'Inferno'. Da Robert Langdon vågner op på et italiensk sygehus med hukommelsestab, må han slå sig sammen med lægen Sienna Brooks, som forhåbentlig kan hjælpe ham med at få hukommelsen tilbage. Sammen, og i tæt kamp mod uret, rejser de på kryds og tværs gennem Europa for at forsøge at stoppe en global konspiration. Landon er faldet over et spor, som kan føre ham til selveste Dante. Instruktør: Ron Howard. Medvirkende: Tom Hanks, Felicity Jones, Irrfan Khan, Ben Foster. Tilladt for: 11.</desc>
-  <category>Film</category>
+ <programme start="20261111035000 +0000" stop="20261111044500 +0000" channel="channel4.uk">
+  <title lang="en">Couples Come Dine with Me</title>
+  <desc lang="en">In Essex, Callum and Alison put together a fun-filled menu, despite Callum's not-so-cheery nature. And there's an outburst over the Essex dialect during dessert at Mike and Carol's.</desc>
+  <category>Entertainment</category>
+  <category>Cooking</category>
  </programme>
- <programme start="20261109031500 +0000" stop="20261109040000 +0000" channel="DR1.dk">
-  <title lang="da">Sporløs UK</title>
-  <sub-title lang="da">12 (3:9)</sub-title>
-  <desc lang="da">Sæson: 12. Episode: 3. 'Sandheden på dåbsattesten'. 52-årige Roy er vokset op med sin biologiske far og har altid troet, at farens kone var hans biologiske mor. Men da han som 18-årig skulle bruge sin dåbsattest, opdagede han en anden sandhed. Hvorfor gav hans biologiske mor ham væk? Og spillede hans hudfarve en rolle? Nu søger Roy svar. Tilladt for: 7.</desc>
-  <category>Fakta</category>
+ <programme start="20261111044500 +0000" stop="20261111054000 +0000" channel="channel4.uk">
+  <title lang="en">Kirstie and Phil's Love It or List It</title>
+  <desc lang="en">Kirstie and Phil meet Heather and Tim, whose seven-acre home near Edinburgh has a dysfunctional layout. Tim wants somewhere more rural but Heather wants to stay put.</desc>
+  <category>Entertainment</category>
+  <category>Lifestyles</category>
  </programme>
- <programme start="20261109040000 +0000" stop="20261109052500 +0000" channel="DR1.dk">
-  <title lang="da">Udsendelsesophør</title>
-  <desc lang="da">Sæson: 2022. 'Udsendelsesophør'. Udsendelsesophør. Tilladt for: A.</desc>
-  <category>Ukendt</category>
+ <programme start="20261111054000 +0000" stop="20261111060500 +0000" channel="channel4.uk">
+  <title lang="en">Cheers</title>
+  <sub-title lang="en">'I' on Sports</sub-title>
+  <desc lang="en">Sam's asked to fill in for a TV sports reporter for a week but broadcasting isn't as easy as it looks..</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109052500 +0000" stop="20261109055500 +0000" channel="DR1.dk">
-  <title lang="da">Island på kryds - og tværs</title>
-  <sub-title lang="da">(3:6)</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 3. 'Island på kryds - og tværs'. Andri og hans firbenede ven Tomas er på en sælsom rejse rundt på Island. De vil opleve landets mangfoldige natur, men først og fremmest vil de hilse på en masse forskellige mennesker rundt omkring i det smukke, barske land. På hver deres måde får de charmeret sig ind på livet af alle, de møder. I dag møder Andri en meget interessant dame, som går rundt med en vædder i snor fulgt af en fåreflok, han hilser på en bilentusiast og efter et bad i et ostekar går turen videre, for der er meget mere på dagens program. Tilladt for: A.</desc>
-  <category>Fakta</category>
+ <programme start="20261111060500 +0000" stop="20261111063500 +0000" channel="channel4.uk">
+  <title lang="en">Cheers</title>
+  <desc lang="en">Little Carla, Happy at Last (Part 1/2): Carla and Eddie plan to marry but have many superstitious obstacles to overcome, including his mother, her kids and a nervous Rebecca.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109055500 +0000" stop="20261109060000 +0000" channel="DR1.dk">
-  <title lang="da">OBS</title>
-  <desc lang="da">Episode: 16. 'OBS'. OBS Oplysning til Borgerne om samfundet\r Spar på energien - Energistyrelsen\r Fuglene synger \r Ældresagen - Telefonvenner Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111063500 +0000" stop="20261111070000 +0000" channel="channel4.uk">
+  <title lang="en">The King of Queens</title>
+  <sub-title lang="en">Hungry Man</sub-title>
+  <desc lang="en">Doug turns up hungry and half-naked at Carrie's sophisticated work function.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109060000 +0000" stop="20261109061000 +0000" channel="DR1.dk">
-  <title lang="da">TVA</title>
-  <desc lang="da">Sæson: 2026. '09.11.2026'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111070000 +0000" stop="20261111072500 +0000" channel="channel4.uk">
+  <title lang="en">The King of Queens</title>
+  <sub-title lang="en">Time Share</sub-title>
+  <desc lang="en">Doug and Carrie befriend their annoying neighbours to get a free holiday. Arthur develops a nasty rash.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109061000 +0000" stop="20261109073000 +0000" channel="DR1.dk">
-  <title lang="da">Seneste nyt fra TVA</title>
-  <desc lang="da">Sæson: 2026. '09.11.2026'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111072500 +0000" stop="20261111074500 +0000" channel="channel4.uk">
+  <title lang="en">The King of Queens</title>
+  <sub-title lang="en">Where's Poppa?</sub-title>
+  <desc lang="en">Doug tries to palm Arthur off onto his cousin for a while.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109073000 +0000" stop="20261109084000 +0000" channel="DR1.dk">
-  <title lang="da">Norges naturskønne nationalparker</title>
-  <sub-title lang="da">(1:6)</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 1. 'Øvre Pasvik – Gæst i bjørneland'. Monsen besøger Øvre Pasvik Nationalpark, som er et af hans yndlingssteder. Først ved midsommer, når naturen summer af liv, og derefter i december, når alt hviler. Monsen følger bjørnens rytme. Tilladt for: A.</desc>
-  <category>Fakta</category>
+ <programme start="20261111074500 +0000" stop="20261111081000 +0000" channel="channel4.uk">
+  <title lang="en">Everybody Loves Raymond</title>
+  <sub-title lang="en">Driving Frank</sub-title>
+  <desc lang="en">When Frank backs into Robert's police car, Debra decides that he's not a safe driver and the kids should no longer travel in his car.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109084000 +0000" stop="20261109092500 +0000" channel="DR1.dk">
-  <title lang="da">Mesterstrikkerne</title>
-  <sub-title lang="da">(7:8)</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 7. 'Genbrug på catwalken'. Det er semifinale! Deltagerne starter med holdstrik. Her gælder det om at skille sig ud, når de skal omdanne gamle irske Aran-trøjer fra genbrugsbutikken til en kjole, der er klar til catwalken. Og i soloudfordringen skal de genbruge stof og forvandle det til garn, som de skal skabe unikke tasker af. Hvem strikker sig videre til finalen? Britisk dokumentarserie fra 2025. Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111081000 +0000" stop="20261111084000 +0000" channel="channel4.uk">
+  <title lang="en">Everybody Loves Raymond</title>
+  <sub-title lang="en">The Sitter</sub-title>
+  <desc lang="en">Debra decides to undermine the babysitter's popularity when she finds out how much the children like her, but all does not go to plan.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109092500 +0000" stop="20261109101000 +0000" channel="DR1.dk">
-  <title lang="da">Ryd op, før du dør</title>
-  <sub-title lang="da">(5:8)</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 5. 'Angst for at give slip'. Godfreys kælder bliver af nogle kaldt sorghullet, fordi næsten alt dernede er ting, som han har arvet fra sine forældre efter deres død. Dødsoprydderne hjælper ham med at se sin sorg i øjnene og få sorteret ud i alle de ting, som han har svært ved at skille sig af med. Tilladt for: 11.</desc>
-  <category>Fakta</category>
+ <programme start="20261111084000 +0000" stop="20261111091000 +0000" channel="channel4.uk">
+  <title lang="en">Everybody Loves Raymond</title>
+  <sub-title lang="en">Getting Even</sub-title>
+  <desc lang="en">Ray embarrasses Debra at a school auction but then worries about the ways in which she could get revenge.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109101000 +0000" stop="20261109110000 +0000" channel="DR1.dk">
-  <title lang="da">Sporløs Uk - Sådan gik det</title>
-  <sub-title lang="da">(8:9)</sub-title>
-  <desc lang="da">Sæson: 12. Episode: 8. 'Sporløs UK'. At finde forsvundne slægtninge er kun begyndelsen. Hvor let er det at opbygge en relation efter et helt liv adskilt? Her genbesøges nogle af de historier og mennesker, hvis liv er blevet forandret for altid. Tilladt for: 7.</desc>
-  <category>Fakta</category>
+ <programme start="20261111091000 +0000" stop="20261111094000 +0000" channel="channel4.uk">
+  <title lang="en">Frasier</title>
+  <sub-title lang="en">Visions of Daphne</sub-title>
+  <desc lang="en">Daphne gets engaged to her boyfriend Donny but then has a psychic vision that suggests he isn't the right man for her.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109110000 +0000" stop="20261109111500 +0000" channel="DR1.dk">
-  <title lang="da">TVA</title>
-  <desc lang="da">Sæson: 2026. '09.11.2026'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111094000 +0000" stop="20261111101000 +0000" channel="channel4.uk">
+  <title lang="en">Frasier</title>
+  <sub-title lang="en">Shutout in Seattle (Part 1/2)</sub-title>
+  <desc lang="en">Daphne's engagement to Donny upsets Niles, but Peppy from Café Nervosa provides a pick-me-up. Frasier keeps getting Faye's name wrong.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109111500 +0000" stop="20261109114500 +0000" channel="DR1.dk">
-  <title lang="da">Bonderøven 2011</title>
-  <sub-title lang="da">(9)</sub-title>
-  <desc lang="da">Sæson: 2011. Episode: 9. 'Frank &amp; Kastaniegaarden: Sæson 2011 – 9. episode'. Bonderøven er tilbage med nyt fra livet på Kastanjegården, hvor der nu er højsommer. Kornet står grønt på markerne, det slåede hø skal vendes, gæssene skal fodres, men der er også tid til, at Frank og naboen Claude får hældt den gærede cider på flasker. I dag viser Frank desuden, hvordan han ved hjælp af granstammer og økse laver et bjælkelag til en ny etage i stakladen. Tilladt for: A.</desc>
-  <category>Fakta</category>
+ <programme start="20261111101000 +0000" stop="20261111104000 +0000" channel="channel4.uk">
+  <title lang="en">Frasier</title>
+  <sub-title lang="en">Shutout in Seattle (Part 2/2)</sub-title>
+  <desc lang="en">In the concluding part of the sixth season finale, will any of the Crane men sort out their romantic problems.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109114500 +0000" stop="20261109121500 +0000" channel="DR1.dk">
-  <title lang="da">Nul stjerner: Rundtur i Usbekistan</title>
-  <desc lang="da">Sæson: 7. Episode: 2. 'Rundtur i Usbekistan'. Usbekistan byder på et sandt inferno af skøre og rørende oplevelser, når Jan og Morten tager dertil for at blive klogere på alt fra store miljøkatastrofer, tvivlsomme togture og fermenteret kamelmælk. Og så smager de tilmed på numsen af et råt fedthalefår, en sand delikatesse. Tilladt for: A.</desc>
-  <category>Fritid</category>
+ <programme start="20261111104000 +0000" stop="20261111111000 +0000" channel="channel4.uk">
+  <title lang="en">Frasier</title>
+  <sub-title lang="en">Momma Mia</sub-title>
+  <desc lang="en">Niles and Martin get the shock of their lives when they meet Frasier's new date: she's the spitting image of his mother.</desc>
+  <category>Entertainment</category>
+  <category>Comedy</category>
  </programme>
- <programme start="20261109121500 +0000" stop="20261109130000 +0000" channel="DR1.dk">
-  <title lang="da">MesterSkaberne</title>
-  <sub-title lang="da">(5:8)</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 5. 'MesterSkaberne'. I denne uge bliver parrene udfordrede når de skal bygge møbler ud af et noget utraditionelt materiale. De skal nemlig bruge cykler. I den lille kreative opgave skal de gamle cykelhjul bruges til at lave garderobeophæng og resten af cyklen skal anvendes til spiseborde i ugens store opgave. Og det uvante materiale viser sig at skabe overraskende resultater. Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111111000 +0000" stop="20261111120500 +0000" channel="channel4.uk">
+  <title lang="en">American Pickers</title>
+  <sub-title lang="en">Backroad Barnstorming</sub-title>
+  <desc lang="en">On a Connecticut farm, the picking is fast and furious. And in one of the biggest barns they've ever seen, the guys find ultra-rare skis for a Ford Model T.</desc>
+  <category>Entertainment</category>
+  <category>Antiques</category>
  </programme>
- <programme start="20261109130000 +0000" stop="20261109132500 +0000" channel="DR1.dk">
-  <title lang="da">Hammerslag 2023 - Huse med skoven i baghaven</title>
-  <desc lang="da">Sæson: 2023. Episode: 13. 'Huse med skoven i baghaven'. Hammerslag er taget på tur i skovens dybe, stille ro. Vært, Sofie Østergaard, byder nemlig inden for i to meget unikke huse beliggende med skoven i baghaven. Lars Lyng og Kristine Virén dyster mod Christian Torp og Mira Lie Nielsen, når konkurrencen starter i Skørping ved Rold Skov. Her skal de gætte prisen på et hus med skiferbeklædning, zinktag og panoramavinduer mod skoven. Dernæst går turen til Hadsund og skovområdet Linddalene, hvor særligt Christian Torp begejstres af husets mange 70'er-detaljer, mens Lars Lyng får sat sin frygt for kryb og kravl på prøve. Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111120500 +0000" stop="20261111121000 +0000" channel="channel4.uk">
+  <title lang="en">Channel 4 News Summary</title>
+  <desc lang="en">Channel 4's midday news summary.</desc>
+  <category>News &amp; Documentary</category>
+  <category>News</category>
  </programme>
- <programme start="20261109132500 +0000" stop="20261109135500 +0000" channel="DR1.dk">
-  <title lang="da">Kender Du Typen? 2020 - Med champagne og solbriller</title>
-  <desc lang="da">Sæson: 10. Episode: 24. 'Med champagne og solbriller'. Hvem fejrer nytår med faste traditioner - same procedure as every year? Det skal livsstilseksperterne Anne Glad Wagner og Flemming Møldrup regne ud, når Kender Du Typen? varmer op til nytårsaften i Indre By i København med stærke sjusser og solbriller i fancy farver. Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111121000 +0000" stop="20261111131000 +0000" channel="channel4.uk">
+  <title lang="en">Renovation Nation</title>
+  <desc lang="en">In Wales, Faye and David create a secret attic playroom for their son in their Arts and Crafts house. In Cumbria, Ben and Paul embark on a brand-new renovation adventure.</desc>
+  <category>Entertainment</category>
+  <category>Home</category>
+ </programme>
+ <programme start="20261111131000 +0000" stop="20261111141000 +0000" channel="channel4.uk">
+  <title lang="en">Escape to Florida</title>
+  <desc lang="en">Sidhbh and Neasa prepare their brand new Miami clinic for its first clients. Laura and Lindsay steel themselves for the eyewatering cost of childbirth in Florida.</desc>
+  <category>Entertainment</category>
+  <category>Lifestyles</category>
+ </programme>
+ <programme start="20261111141000 +0000" stop="20261111150000 +0000" channel="channel4.uk">
+  <title lang="en">Countdown</title>
+  <desc lang="en">Colin Murray, Rachel Riley and Susie Dent host, with Mike Bubbins in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
+  <category>Entertainment</category>
+  <category>Game Show</category>
+ </programme>
+ <programme start="20261111150000 +0000" stop="20261111160000 +0000" channel="channel4.uk">
+  <title lang="en">A Place in the Sun</title>
+  <desc lang="en">Ben Hillman helps Shirley and Martyn look for a holiday home with traditional French features in their favourite village of Monpazier. Can they find their perfect place for £285k.</desc>
+  <category>Entertainment</category>
+  <category>Lifestyles</category>
+ </programme>
+ <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="channel4.uk">
+  <title lang="en">Help! We Bought a Village</title>
+  <desc lang="en">Gale force winds cause chaos at Andrew and Katja's Italian palazzo. And in France, time-worn buildings and testing bureaucracy leave Karen and Steve feeling the strain.</desc>
+  <category>Entertainment</category>
+  <category>Lifestyles</category>
  </programme>
  <programme start="20261109135500 +0000" stop="20261109152500 +0000" channel="DR1.dk">
   <title lang="da">Kriminalkommissær Barnaby</title>
@@ -1520,9 +1422,8 @@
   <category>Nyheder</category>
  </programme>
  <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="DR1.dk">
-  <title lang="da">Verdenssituationen med Clement</title>
-  <desc lang="da">Sæson: 4. Episode: 10. '08.11.2026'. Krige, kriser og geopolitisk magtforskydning ryster den internationale orden. Hvor er verden på vej hen, og hvordan endte vi her? Clement Kjersgaard spørger de skarpeste danske og internationale iagttagere. Tilladt for: A.</desc>
-  <category>Nyheder</category>
+  <title lang="da">Verdenssituationen med Clement: Vil Trump have krig eller fred?</title>
+  <desc lang="da">Sæson: 4. Episode: 10. 'Vil Trump have krig eller fred?'. Midtvejsvalget blev til et massivt nederlag til Republikanerne - men Det Hvide Hus tilhører jo stadig Trump. Så vil han nu gå efter krig eller fred? Tilladt for: A.</desc>
  </programme>
  <programme start="20261109173000 +0000" stop="20261109175000 +0000" channel="DR1.dk">
   <title lang="da">TVA</title>
@@ -1758,101 +1659,142 @@
   <desc lang="da">Sæson: 2. Episode: 4. 'Døden går i habit'. Jack løber tør for held, og Book afslører, at skrædderen Maxie kan andet og mere end at fremstille et smukt jakkesæt. Holdet befinder sig midt i en efterkrigssammensværgelse, og Book må trække på sine erfaringer fra efterretningstjenesten for at holde alle i live. Tilladt for: 15.</desc>
   <category>Serier</category>
  </programme>
- <programme start="20261108200000 +0000" stop="20261108203000 +0000" channel="DR2.dk">
-  <title lang="da">Din for altid</title>
-  <sub-title lang="da">(2) Jesper Og Vibeke</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 2. 'Jesper og Vibeke'. Dansk dokumentarserie fra 2017 Hvordan er det at dele seng, bord og fjernbetjening dag ud og dag ind et helt liv? Kan man elske den samme hele livet? Jesper og Vibeke overlevede en midtvejskrise og i dag blomstrer kærligheden - på alle måder. Carls kærlighed til Lilli er ikke blevet mindre, selvom en demenssygdom trækker hende længere væk fra ham for hver dag der går. Ny dokumentarserie undersøger opskriften på den langvarige ægteskabelige succes. Instruktør: Carsten Sønder. Medvirkende: Jens Albinus, Birgitte Raaberg, Gbatokai Dakinah, Josephine Akvama. Tilladt for: A.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261108203000 +0000" stop="20261108210000 +0000" channel="DR2.dk">
-  <title lang="da">Det danske filmmirakel</title>
-  <sub-title lang="da">(2:6) Revolution På Skolebænken</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 2. 'Revolution på skolebænken'. Film skal være dumt! Det skal ikke tale til vores hoved, men til vores kønsdele og hjerte. Det var en af de usædvanlige mantraer på Filmskolen, som Thomas Vinterberg, Susanne Bier og alle andre fremtidige filmfolk blev undervist i af den uortodokse Mogens Rukov. Han satte som noget nyt manuskriptet i centrum af dansk film, mens den kompromisløse rektor Henning Camre satte hele uddannelsen i system og gjorde den tilgængelig for alle med talentet - men vejen dertil var benhård og ubarmhjertig. Tilladt for: A.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261108210000 +0000" stop="20261108211500 +0000" channel="DR2.dk">
-  <title lang="da">TVA</title>
-  <desc lang="da">Sæson: 2026. '08.11.2026 22:00.'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261108211500 +0000" stop="20261108221500 +0000" channel="DR2.dk">
-  <title lang="da">Stjerner og striber: Er Trump færdig?</title>
-  <desc lang="da">Sæson: 2026. Episode: 16. 'Er Trump færdig?'. Vi er til et sælsomt rejsegilde i Trumps balsal og nørder igennem på, hvad midtvejsvalg-fiaskoen betyder for MAGA's fremtid. Stjerner og striber ser også nærmere på troværdigheden hos de top-republikanere, der nu forsøger at lægge afstand til Trump, for at kunne besvare spørgsmålet: Er Trump-æraen ved at være slut? Udlandskorrespondent Stéphanie Surrugue. USA-journalist Lasse Engelbrecht. Nyhedsvært og tidl. USA-korrespondent Philip Khokhar. Lasse Berg Sørensen og Julie Sønnichsen. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261108221500 +0000" stop="20261108234500 +0000" channel="DR2.dk">
-  <title lang="da">Police</title>
-  <desc lang="da">'Police'. Virginie, Erik og Aristide arbejder på en lokal politistation og forsøger at beskytte deres privatliv, samtidig med at de håndterer daglige tilfælde af vold i nære relationer og på gaden. En aften modtager de den usædvanlige opgave at køre en migrant, som af ukendte grunde skal forlade landet. På vej til lufthavnen opdager Virginie, at manden vil blive dømt til døden, hvis han sendes tilbage til sit hjemland. Stående over for et umuligt dilemma begynder hun at tvivle på opdragets retfærdighed. De har natten til at afgøre mandens skæbne. Instruktør: Anne Fontaine. Medvirkende: Virginie Efira, Omar Sy, Grégory Gadebois, Payman Maadi. Tilladt for: 11.</desc>
-  <category>Film</category>
- </programme>
- <programme start="20261108234500 +0000" stop="20261109012000 +0000" channel="DR2.dk">
-  <title lang="da">Best Sellers</title>
-  <desc lang="da">'Best Sellers'. Den ambitiøse unge forlægger Lucy ønsker at redde det forlag, hun arvede af sin far. Til det formål har hun hårdt brug for en bestseller. Hendes sidste håb er den legendariske, og legendarisk gnavne, forfatter Harris Shaw. Modstræbende giver Harris Lucy et gammelt manuskript og lader sig overtale til at tage med på bogturne. Her gør Harris' excentriske opførsel ham til en overraskende viral succes. Instruktør: Lina Roessler. Medvirkende: Michael Caine, Aubrey Plaza, Scott Speedman, Ellen Wong. Tilladt for: 11.</desc>
-  <category>Film</category>
- </programme>
- <programme start="20261109012000 +0000" stop="20261109021500 +0000" channel="DR2.dk">
-  <title lang="da">Livet efter massakren</title>
-  <desc lang="da">'Livet efter massakren'. Hvordan genopbygger man sit liv - når krigen stadig raser i ens land? I den ukrainske by Bucha forsøger fem mennesker at skabe en ny hverdag efter den russiske besættelse. De har alle oplevet krigens rædsler, men formår stadig at holde fast i håb og sammenhold. Efterhånden som tiden går, og håbet om et fredeligt liv svinder, må de håndtere traumer, indre konflikter og et stærkt ønske om retfærdighed, mens spændingerne i deres lokalsamfund vokser. Tysk dokumentar fra 2026. (Lights) Tilladt for: 11.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261109021500 +0000" stop="20261109024500 +0000" channel="DR2.dk">
-  <title lang="da">Ludere, lommetyve og lirekassemænd</title>
-  <sub-title lang="da">(5:6)</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 5. 'Det farende folk, 1930-1960'. - det farende folk, 1930-1960 Danmark har ikke altid været et lille lykkeligt rigt land. Og vores velfærd kom ikke af sig selv og skal ikke tages for givet. I denne serie giver Liv Thomsen stemme til Underdanmark, den anden halvdel, dem der levede i skyggen, langt fra de bonede gulve og pæne borgerhjem. Denne gang handler det om Miss Florens, den legendariske danserinde fra Bakken. Hun er én af de mange gøglere, der hutler sig igennem tilværelsen. Mens Danmark langsomt oplever mere velstand, lever en gruppe outsidere på landevejen - langt væk fra den gryende velfærd. Tilladt for: 11.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261109024500 +0000" stop="20261109033000 +0000" channel="DR2.dk">
-  <title lang="da">Vores vidunderlige vulkaner</title>
-  <sub-title lang="da">(2:2)</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 2. 'Vilde Vesuv'. Hvorfor eksisterer vulkaner, og hvad skyldes deres voldsomme udbrud? De lunefulde kæmper kan eksplodere uden varsel og forårsage enorme ødelæggelser. Tag med til Napoli og oplev, hvad der sker, når vulkaner går fra at være underværker til menneskelige katastrofer. Bestig Vesuvs enorme krater og hør, hvad vi - og videnskaben - kan gøre for at beskytte os mod deres altødelæggende vrede. Tilladt for: A.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261109033000 +0000" stop="20261109041500 +0000" channel="DR2.dk">
-  <title lang="da">På rejse med Griff - Sydstaterne</title>
-  <sub-title lang="da">(6:6)</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 6. 'New Orleans'. Louisiana er opkaldt efter en fransk konge. Skuespiller Griff Rhys Jones besøger New Orleans. Byen, der bliver kaldt "Big Easy" og er kendt for sit ry for udsvævelser og som voodooens højborg. Det er et sted med så snirklet en historie, at det er en sand "gumbo" af kulturer. Her taler man et andet sprog, har et unikt køkken og her opstod jazzen. Tilladt for: A.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261109041500 +0000" stop="20261109050000 +0000" channel="DR2.dk">
-  <title lang="da">Smagen af Italien</title>
-  <sub-title lang="da">2 (6:8)</sub-title>
-  <desc lang="da">Sæson: 2. Episode: 6. 'Calabrien'. Stanley finder sine rødder i Calabrien, en smuk, men historisk urolig region i det sydlige Italien. En familiesammenkomst bliver et inspirerende og uforglemmeligt måltid. Tilladt for: A.</desc>
+ <programme start="20261110224500 +0000" stop="20261110234000 +0000" channel="DR1.dk">
+  <title lang="da">Hotel Romantik Sverige</title>
+  <sub-title lang="da">(2:8)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 2. 'Sæson 1 – 2. episode'. Det første par vender tilbage til hotellet efter en nat i den romantiske alpehytte. Alle undrer sig over hvordan det er gået? Kristina "Keyyo" Petrushina og Erik Ekstrand byder deltagerne på et kælkeeventyr, de sent vil glemme. Et lokalt salsaband sætter gang i en hot dans, og aftenens par bliver valgt under jubel. Tilladt for: 7.</desc>
   <category>Fritid</category>
  </programme>
- <programme start="20261109050000 +0000" stop="20261109055000 +0000" channel="DR2.dk">
-  <title lang="da">Husker du...</title>
-  <desc lang="da">Sæson: 4. Episode: 8. '1997'. I 1997 bliver Prinsesse Diana dræbt i en trafikulykke i Paris, og verden er i sorg. En plejehjemsassistent bliver udråbt til at være danmarkshistoriens værste massemorder, men "damen i den røde jakke" viser sig at være uskyldig. Den Store Nordiske Rockerkrig har krævet 11 dødsofre, men i 1997 slutter Hells Angels og Bandidos endelig fred. Casper Christensen og Tæskeholdet lader den indre drengerøv få frit spil, mens pigerne hører Spice Girls og kræver Girl Power. Tilladt for: A.</desc>
+ <programme start="20261110234000 +0000" stop="20261111003500 +0000" channel="DR1.dk">
+  <title lang="da">Ludwig - Krydsordsdetektiven</title>
+  <sub-title lang="da">2 (3:6)</sub-title>
+  <desc lang="da">Sæson: 2. Episode: 3. 'Ludwig - Krydsordsdetektiven II'. Britisk krimikomedieserie fra 2026. John sniger sig ind på politistationen på en lørdag. Han håber at kunne skaffe oplysninger om sin brors forsvinden. I stedet havner han midt i en drabssag. En influencer er blevet myrdet, og nu må John forsøge at finde ud af, hvordan morderen kunne undgå at blive filmet i et område, hvor det vrimler med overvågningskameraer. Tilladt for: 15.</desc>
+  <category>Serier</category>
+ </programme>
+ <programme start="20261111003500 +0000" stop="20261111013500 +0000" channel="DR1.dk">
+  <title lang="da">Vigil - Mord i Arktis</title>
+  <sub-title lang="da">(4:6)</sub-title>
+  <desc lang="da">Sæson: 3. Episode: 4. 'Vigil'. Henrik og Kirsten har begivet sig ud i tundraen for at finde Jia, den savnede kinesiske forsker. Amy er bekymret og sætter efter dem. Kan de stole på Henrik? Medvirkende: Suranne Jones, Rose Leslie, Shaun Evans, Paterson Joseph. Tilladt for: 15.</desc>
+  <category>Serier</category>
+ </programme>
+ <programme start="20261111013500 +0000" stop="20261111022500 +0000" channel="DR1.dk">
+  <title lang="da">Den, der slap væk</title>
+  <sub-title lang="da">(1:6)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 1. 'Afsnit 1'. En sygeplejerske bliver fundet død i skoven, med ligheder med en tilsyneladende løst gammel sag fra tolv år siden. Da frygten for en copycat-morder breder sig, bliver kriminalinspektør Ffion Lloyd kaldt tilbage til byen for at lede efterforskningen. Noget der ryster den lokale politistyrke, inklusive kriminalinspektør Rick Sheldon. Rick og Ffion arbejdede sammen i den gamle efterforskning – og var også tidligere forlovet. Tilladt for: 15.</desc>
+  <category>Serier</category>
+ </programme>
+ <programme start="20261111022500 +0000" stop="20261111031500 +0000" channel="DR1.dk">
+  <title lang="da">Den, der slap væk</title>
+  <sub-title lang="da">(2:6)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 2. 'Afsnit 2'. Den dømte morder Paul Harveys kone er kommet med en chokerende afsløring. Betyder hendes vidneudsagn, at den oprindelige morder stadig er på fri fod? Samtidig sætter politiet gang i en menneskejagt. Målet for jagten er Abbis kæreste, Paul. Var det ham, der slog Abbi ihjel? Tilladt for: 15.</desc>
+  <category>Serier</category>
+ </programme>
+ <programme start="20261111031500 +0000" stop="20261111035500 +0000" channel="DR1.dk">
+  <title lang="da">Jens i vildmarken</title>
+  <sub-title lang="da">(2:6)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 2. 'Jens i Canada'. Jens vil drive en hundeslæde fra Finnmark i det nordligste Norge og til Trøndelag. Men arbejdet med de seks hunde i den isnende kulde giver ham alvorlige frostskader. Skal han afbryde turen? Tilladt for: A.</desc>
   <category>Fakta</category>
  </programme>
- <programme start="20261109055000 +0000" stop="20261109062000 +0000" channel="DR2.dk">
-  <title lang="da">Stjernerne fra lokal-tv</title>
-  <sub-title lang="da">(2:3): Fyret Som Bingovært</sub-title>
-  <desc lang="da">Sæson: 1. Episode: 2. 'Fyret som Bingovært'. Røven på en kamel, en stjålet traktor i Fredericia og kristent børne-tv. Puk Elgård får debut som TV bingo-værtinde, Johannes Langkilde farver håret kulsort til et møde med Susi og Leo, og Jacob Riising får det varmt som 15-årig tv-praktikant. Dansk lokal tv og de nye amatørstjerner vender bunden i vejret på danskernes fjernsyn fra Bornholm til Nordjylland, hvor lokal-tv bliver en smutvej til en ministerpost. Tilladt for: A.</desc>
+ <programme start="20261111035500 +0000" stop="20261111053000 +0000" channel="DR1.dk">
+  <title lang="da">Udsendelsesophør</title>
+  <desc lang="da">Sæson: 2022. 'Udsendelsesophør'. Udsendelsesophør. Tilladt for: A.</desc>
+  <category>Ukendt</category>
+ </programme>
+ <programme start="20261111053000 +0000" stop="20261111060000 +0000" channel="DR1.dk">
+  <title lang="da">Island på kryds - og tværs</title>
+  <sub-title lang="da">(5:6)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 5. 'Island på kryds - og tværs'. Andri og hans firbenede ven Tomas er på en sælsom rejse rundt på Island. De vil opleve landets mangfoldige natur, men først og fremmest vil de hilse på en masse forskellige mennesker rundt omkring i det smukke, barske land. På hver deres måde får de charmeret sig ind på livet af alle, de møder. I dag er vejret smukt, og Andri og Tomas skal spise frokost hos kokken Keli "Rock". Her bliver Andri tvunget til at filetere friskfangede fisk, men fiskestanken er så slem, at han med stor glæde dykker ned i et skønt svømmebassin. Nu skal det gå stærkt , for der er meget mere på dagens program. Tilladt for: A.</desc>
   <category>Fakta</category>
  </programme>
- <programme start="20261109062000 +0000" stop="20261109065000 +0000" channel="DR2.dk">
-  <title lang="da">Store danskere: John Mogensen</title>
-  <desc lang="da">Sæson: 2013. Episode: 2. 'John Mogensen'. I dag, mere end 35 år efter hans død, kender de fleste danskere ham stadig som folkets John med de røde seler og de glade sange. Men bag den joviale facade kæmpede John Mogensen gennem hele sit liv med præstationsangst, alkohol og uforløste kunstnerdrømme. Få historien om en af Danmarks mest populære sangere gennem tiden i det første tv-portræt af John Mogensen nogensinde. Tilrettelæggelse: Janus Køster-Rasmussen Medvirkende: Anne Røgilds, Mads Baastrup. Tilladt for: 7.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261109065000 +0000" stop="20261109070000 +0000" channel="DR2.dk">
-  <title lang="da">Tænkepauser: Kærlighed</title>
-  <desc lang="da">Sæson: 1. Episode: 5. 'Kærlighed'. Kærligheden kan få dig til at overvinde alt - og den kan give dig evige sorger. Igennem skønne animerede figurer oplever vi, at kærligheden er overalt: Den er et menneskeligt faktum og spænder bredt fra det tætte, intense og erotiske forhold til vores børn, til venskaber og fra lykke til lidelse. Historisk har den altid fået førstepladsen, og popsangere synger stadig med på Paulus' ord: 'Størst er kærligheden.' Også når det gælder vinterbadning. Tilladt for: A.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261109070000 +0000" stop="20261109070500 +0000" channel="DR2.dk">
-  <title lang="da">Radioavisen</title>
-  <desc lang="da">Sæson: 2026. '09.11.2026'. Bliv opdateret på de seneste nyheder fra ind- og udland. Tilladt for: A.</desc>
+ <programme start="20261111060000 +0000" stop="20261111061000 +0000" channel="DR1.dk">
+  <title lang="da">TVA</title>
+  <desc lang="da">Sæson: 2026. '11.11.2026'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261109070500 +0000" stop="20261109073000 +0000" channel="DR2.dk">
-  <title lang="da">Morgenandagten</title>
-  <desc lang="da">Sæson: 2026. Episode: 262. '09.11.2026'. Morgenandagten fra Vor Frue Kirke, Københavns Domkirke. Tilladt for: A.</desc>
-  <category>Kunst</category>
- </programme>
- <programme start="20261109073000 +0000" stop="20261109110000 +0000" channel="DR2.dk">
+ <programme start="20261111061000 +0000" stop="20261111073000 +0000" channel="DR1.dk">
   <title lang="da">Seneste nyt fra TVA</title>
-  <desc lang="da">Sæson: 2026. '09.11.2026 08:30.'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
+  <desc lang="da">Sæson: 2026. '11.11.2026'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111073000 +0000" stop="20261111081000 +0000" channel="DR1.dk">
+  <title lang="da">Horisont: Putins smid væk-agenter</title>
+  <desc lang="da">Sæson: 2026. Episode: 26. 'Putins smid væk-agenter'. Tre tyske journalister går undercover for at afsløre russiske spionnetværk i Tyskland. Det bliver en farlig jagt, som trækker tråde til hele Europa - og som ender i trusler på livet. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111081000 +0000" stop="20261111083000 +0000" channel="DR1.dk">
+  <title lang="da">P3 Essensen - Er hun Nordkoreas nye leder?</title>
+  <desc lang="da">Sæson: 2. Episode: 70. 'Er hun Nordkoreas nye leder?'. En lille pige dukker op i medierne i 2022 ved siden af Kim Jong-un. Det viser sig, at hun er hans datter, Kim Ju-ae. Indtil da havde hendes eksistens udelukkende været baseret på rygter. Eksperter begynder straks at spekulere i, om hun er Nordkoreas næste diktator. I denne video ser Jo nærmere på rygterne, det billedmateriale, der er kommet frem, og spekulationerne om Kim Ju-ae for at blive klogere på, om hun er arving til verdens mest lukkede land. Men hvad er Nordkorea egentlig for et land, og hvorfor holder hele verden så nøje øje med landets udvikling? Vi undersøger også, hvordan Nordkoreas ultimative sikkerhedsgaranti - atomvåben - har påvirket landets rolle i det internationale system. Tilladt for: 11.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111083000 +0000" stop="20261111092500 +0000" channel="DR1.dk">
+  <title lang="da">Aftenshowet</title>
+  <desc lang="da">Sæson: 2026. Episode: 167. 'Episode 167'. DR1s journalistiske talkshow direkte fra Rådhuspladsen i København. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111092500 +0000" stop="20261111101000 +0000" channel="DR1.dk">
+  <title lang="da">Ryd op, før du dør</title>
+  <sub-title lang="da">(7:8)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 7. 'Få styr på dine ting'. 54-årige Doug har en forkærlighed for tikikrus og pølser på hjul. Men hans forlovede Stephanie vil ikke giftes eller flytte ind, før han får ryddet op i sin ekstreme samling og sin døde ekskones ting. Dødsoprydderne hjælper ham med at få styr på rodet i hans hjerte såvel som i hans hjem. Tilladt for: 11.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111101000 +0000" stop="20261111110000 +0000" channel="DR1.dk">
+  <title lang="da">Sporløs UK</title>
+  <sub-title lang="da">13 (1:7)</sub-title>
+  <desc lang="da">Sæson: 13. Episode: 1. 'Smidt ud som spæd'. Paul Connolly havde en brutal barndom. Da han var to uger gammel, smed hans mor ham ud med affaldet. Heldigvis blev han fundet af en nabo og anbragt i en plejefamilie. Gennem sin opvækst havde han kun sporadisk kontakt med sin biologiske familie. Men nu, med hjælp fra hans sagsmappe, håber han at finde ud af mere om sin familie. Men da han tager en DNA-test, opdager han noget meget uventet omkring sin far. Tilladt for: 7.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111110000 +0000" stop="20261111111500 +0000" channel="DR1.dk">
+  <title lang="da">TVA</title>
+  <desc lang="da">Sæson: 2026. '11.11.2026'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111111500 +0000" stop="20261111114500 +0000" channel="DR1.dk">
+  <title lang="da">Bonderøven 2011</title>
+  <sub-title lang="da">(11)</sub-title>
+  <desc lang="da">Sæson: 2011. Episode: 11. 'Frank &amp; Kastaniegaarden: Sæson 2011 – 11. episode'. Gode venner hjælper i dag på Kastanjegården med at få enggræsset hængt til tørre på en såkaldt trådhæsje. Frank vil gerne blive bedre til at høste med le, så han har inviteret Niels til at hjælpe sig med at slå græsset. Og så skal der slynges honning. Bierne har fyldt tavlerne i bistaderne, og endelig kommer Franks konfirmationsgave i brug - en honningslynge, som har stået gemt væk i mange år, men som Frank og Theresa nu skal finde ud af at bruge. Tilladt for: A.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111114500 +0000" stop="20261111121500 +0000" channel="DR1.dk">
+  <title lang="da">Nul stjerner: Landidyl i Sydkorea</title>
+  <desc lang="da">Sæson: 7. Episode: 4. 'Landidyl i Sydkorea'. Efter nogle hæsblæsende dage i pulserende Seoul, gearer Jan og Morten ned og kører ud i det rolige, autentiske og spirituelle Sydkorea. Her oplever de inspirerende munke, cruiseskibe på klipper og penisskulpturer i alle afskygninger. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111121500 +0000" stop="20261111130000 +0000" channel="DR1.dk">
+  <title lang="da">MesterSkaberne</title>
+  <sub-title lang="da">(7:8)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 7. 'MesterSkaberne: Sæson 1 – 7. episode'. Der bliver kamp til stregen i værkstedet når de tre sidste par kæmper om en plads i finalen. For at nå dertil, skal de i den lille kreative opgave forvandle gamle duge om til skoreoler. Og i ugens store opgave bliver parrene for alvor testet, når de skal bygge opbevaringsmøbler af noget så utraditionelt som en tørretumbler. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111130000 +0000" stop="20261111132500 +0000" channel="DR1.dk">
+  <title lang="da">Hammerslag 2024 - Husbåden</title>
+  <desc lang="da">Sæson: 2024. Episode: 2. 'Husbåden'. Husbåde i København er på programmet, når Sofie Østergaard byder velkommen indenfor i to meget forskellige hjem. Kristine Virén og Lars Lyng konkurrerer mod Mira Lie Nielsen og Christian Torp Carlsen om at gætte prisen på en gammel flodpram fra Holland, der nu er omdannet til 50 kvadratmeter husbåd. Til slut bliver eksperterne blæst bagover af begejstring over en gammel bilfærge, der er blevet forvandlet til et hjem med et utal af kreative løsninger. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111132500 +0000" stop="20261111135500 +0000" channel="DR1.dk">
+  <title lang="da">Kender Du Typen? 2021 - Med nypudsede sko og lakridspiber</title>
+  <desc lang="da">Sæson: 2021. Episode: 2. 'Med nypudsede sko og lakridspiber'. Hvem er det, der aldrig falder i søvn foran fjernsynet og som elsker lakridspiber? Det skal livsstilseksperterne Anne Glad Wagner og Flemming Møldrup regne ud, når Kender Du Typen? besøger en herskabslejlighed på Frederiksberg, der rummer et utal af nypudsede sko og masser af bøger. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111135500 +0000" stop="20261111152500 +0000" channel="DR1.dk">
+  <title lang="da">Kriminalkommissær Barnaby</title>
+  <sub-title lang="da">15 (2)</sub-title>
+  <desc lang="da">Sæson: 15. Episode: 2. 'Mordet på uskylden'. Krimiserie. Efter 18 år i fængsel for mord vender Grady Felton hjem til sin fødeegn. Det vækker vrede, ikke mindst blandt mordofferets familie. Da advokaten, der forsvarede Grady, findes myrdet, havner Grady igen i politiets søgelys. Men denne gang er Gradys alibi solidt. Har han mon en medsammensvoren? Barnaby og Jones går på jagt efter svaret. Instruktør: Renny Rye. Medvirkende: Neil Dudgeon, Jason Hughes, Fiona Dolman, Tamzin Malleson. Tilladt for: 11.</desc>
+  <category>Serier</category>
+ </programme>
+ <programme start="20261111152500 +0000" stop="20261111161500 +0000" channel="DR1.dk">
+  <title lang="da">Min familie og andre dyr</title>
+  <sub-title lang="da">2 (3:6)</sub-title>
+  <desc lang="da">Sæson: 2. Episode: 3. 'Min familie og andre dyr II'. Louisa har svært ved at forlig sig med, at Larry flytter ud, og da det går op for hende, at alle hendes børn en dag flytter hjemmefra, kaster hun sig beslutsomt ind i forholdet til Hugh. Imens er resten af Durrell-familien i tvivl om, hvornår deres mor har fødselsdag - men vælger alligevel at holde en fest. Instruktør: Steve Barron. Medvirkende: Keeley Hawes, Josh O'Connor, Milo Parker, Daisy Waterstone. Tilladt for: 11.</desc>
+  <category>Serier</category>
+ </programme>
+ <programme start="20261111161500 +0000" stop="20261111163000 +0000" channel="DR1.dk">
+  <title lang="da">TVA</title>
+  <desc lang="da">Sæson: 2026. '11.11.2026'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111163000 +0000" stop="20261111170000 +0000" channel="DR1.dk">
+  <title lang="da">Deadline</title>
+  <desc lang="da">Sæson: 2026. Episode: 174. '11.11.2026'. Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
  <programme start="20261109110000 +0000" stop="20261109161500 +0000" channel="DR2.dk">
@@ -2052,85 +1994,94 @@
   <desc lang="da">Sæson: 1. Episode: 1. 'Mediemogulens privilegerede datter'. Hun var Jeffrey Epsteins partner og blev dømt for sexhandel af mindreårige i USA i 2021. Men hvem er Ghislaine Maxwell? Her dykker vi ned i de tidlige år af hendes liv - fra opvæksten i en velstående, britisk familie og sin fars øjesten, over tiden på Oxford universitet og videre til New York i begyndelsen af 1990'erne. Lå det i kortene, at hun ville blive kvinden, der lokkede unge piger til at have sex med Jeffrey Epstein? Instruktør: Erica Gornall. Tilladt for: 15.</desc>
   <category>Fakta</category>
  </programme>
- <programme start="20261108195000 +0000" stop="20261108202000 +0000" channel="TV2.dk">
-  <title lang="da">Aften News</title>
-  <desc lang="da">'Aften News'. Hvad er der sket i dag? Få seneste nyheder fra både Danmark og udlandet i 'Aften News'. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261108202000 +0000" stop="20261108220000 +0000" channel="TV2.dk">
-  <title lang="da">Mand op!</title>
-  <desc lang="da">'Mand op!'. En lille gruppe mænd har fået nok! Kvinderne har fået for meget magt - de har domineret samfundet alt for længe, har overhalet mændene indenom og gjort dem ufrivilligt barnløse. Rasmus har derfor startet den hemmelige undergrundsgruppe Mand Op, så om dagen arbejder han i en fagforening, og om natten er han og hans venner frihedskæmpere. De er på en mission for at genetablere den naturlige orden fra de gode gamle dage, hvor mænd styrede, og kvinderne fødte deres børn og ydede dem omsorg. Tilladt for: 11.</desc>
-  <category>Film</category>
- </programme>
- <programme start="20261108220000 +0000" stop="20261108225500 +0000" channel="TV2.dk">
-  <title lang="da">Den som dræber - Fanget af mørket</title>
-  <desc lang="da">Sæson: 1. Episode: 5. 'Afsnit 5'. En kjole, som tilhørte det første offer Natasha, bliver fundet, og det viser sig at Anders Kjeldsen har holdt den skjult. Stine er ved at miste forstanden. Medvirkende: Natalie Madueño, Tobias Santelmann, Kenneth M. Christensen, Signe Egholm Olsen. Tilladt for: 15.</desc>
-  <category>Serier</category>
- </programme>
- <programme start="20261108225500 +0000" stop="20261108234000 +0000" channel="TV2.dk">
-  <title lang="da">Den som dræber - Fanget af mørket</title>
-  <desc lang="da">Sæson: 1. Episode: 6. 'Den som dræber - Fanget af mørket'. Anders efterlyses officielt, og Louise mistænker at han har en kvindelig partner. De tre kvinder på gården bliver identificeret, og politiet indser hvor kvinderne kan have mødt deres morder. Medvirkende: Natalie Madueño, Tobias Santelmann, Kenneth M. Christensen, Signe Egholm Olsen. Tilladt for: 15.</desc>
-  <category>Serier</category>
- </programme>
- <programme start="20261108234000 +0000" stop="20261109004000 +0000" channel="TV2.dk">
-  <title lang="da">Velkommen til luksushotellet</title>
-  <desc lang="da">Sæson: 1. Episode: 1. 'Årets vigtigste middag'. Michel Roux, der er gastronomisk chef på hotellet, er vært ved årets største middag på hotellet, og souschef Oliver skal håndtere en kulinarisk krise. Alice gør en 10.000 punds-suite klar, og bryllupsmanager Mery hjælper et par med deres drømmebryllup. Tilladt for: A.</desc>
+ <programme start="20261110223000 +0000" stop="20261110233500 +0000" channel="DR2.dk">
+  <title lang="da">Mishandlet af mor</title>
+  <desc lang="da">'Mishandlet af mor'. Britisk dokumentar fra 2025. (Abused By Mum: The Ruby Franke Scandal) Hun mishandlede sine børn. Den kendte youtuber Ruby Franke postede videoer på nettet om børneopdragelse og familiens hverdagsliv. Det billede, de viste verden, var næsten perfekt - og tiltrak millioner af følgere. Men bag kulisserne, gemte der sig en historie om misbrug, manipulation og vold. Hvordan gik den populære influencer fra et perfekt familieliv til at risikere 30 års fængsel for børnemishandling? Tilladt for: 11.</desc>
   <category>Fakta</category>
  </programme>
- <programme start="20261109004000 +0000" stop="20261109013500 +0000" channel="TV2.dk">
-  <title lang="da">Motorvejspatruljen</title>
-  <desc lang="da">Sæson: 10. Episode: 8. 'Motorvejspatruljen'. Efter et spektakulært uheld flygter en ung bilist fra gerningsstedet, mens en mistænkelig BMW tiltrækker politiets opmærksomhed ved en tankstation. Tilladt for: 11.</desc>
+ <programme start="20261110233500 +0000" stop="20261111001500 +0000" channel="DR2.dk">
+  <title lang="da">Jerusalem - Kampen om den hellige by</title>
+  <sub-title lang="da">(6:6)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 6. 'Alles og ingens hovedstad'. Jerusalem, 1966. Det palæstinensiske flygtningeproblem efter krigen i 1948-49 er ikke løst. Og i sommeren 1967 bryder en ny krig ud. Men de israelske tropper sejrer overlegent over de egyptiske og jordanske styrker under Seksdageskrigen. Kampe finder sted midt i Jerusalems gamle by, hvor jødiske helligdomme blive generobret af Israel. Og Israel besætter bl.a. Gaza og Vestbredden, hvilket får langvarige konsekvenser. Medvirkende: Ewan McGregor, Fernando Gil, Anton Antoniadis, Tábata Cerezo. Tilladt for: 11.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111001500 +0000" stop="20261111011000 +0000" channel="DR2.dk">
+  <title lang="da">Dagbog fra La Paz</title>
+  <desc lang="da">'Dagbog fra La Paz'. Mød fire unge mennesker, der bor på gaderne i byen La Paz, Bolivia, i hjertet af Cordillera Real-bjergkæden. Livet er fyldt med udfordringer i form af hjemløshed, stofmisbrug og fattigdom - en realitet for hundredtusindvis af børn i La Paz. Tilladt for: 11.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111011000 +0000" stop="20261111020500 +0000" channel="DR2.dk">
+  <title lang="da">Guruens disciple</title>
+  <desc lang="da">'Guruens disciple'. Hvor fri er vores tænkning, når andre bestemmer, hvad vi skal tro på? 11-årige Satyarth og 12-årige Hari begynder på den hinduistiske skole Vidya Mutth ved Ganges. Her kræver den karismatiske, men kontroversielle guru Avimuktesh elevernes fulde hengivenhed. De barberer håret af, ifører sig safranfarvede klæder og afskærer sig fra omverdenen. Som året går, bliver deres frihed til at tænke begrænset. Mens Hari tager guruens verdenssyn til sig, gør Satyarth modstand. Indisk dokumentar fra 2026. (Why Freedom: Catching Them Young) Tilladt for: 11.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111020500 +0000" stop="20261111030000 +0000" channel="DR2.dk">
+  <title lang="da">Stewardesserne</title>
+  <sub-title lang="da">(2:2)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 2. 'Frihed, lighed og søsterskab'. I 1950'erne og 60'erne markedsfører flyselskaberne stewardesserne som Barbie-dukker. De bliver mere og mere seksualiserede, må ikke være gravide eller overvægtige - og de skal stoppe, når de fylder 32 år eller bliver gift. Forskelsbehandlingen og racediskriminationen er massiv. Men grupper som 'Stewardesses for Women's Rights' opstår og kulminerer i et gruppesøgsmål, der ændrer arbejdsrettigheder og sikrer større ligeløn. Tilladt for: 11.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="DR2.dk">
+  <title lang="da">Deadline</title>
+  <desc lang="da">Sæson: 2026. Episode: 173. 'Deadline'. Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111033000 +0000" stop="20261111040000 +0000" channel="DR2.dk">
+  <title lang="da">Deadline</title>
+  <desc lang="da">Sæson: 2026. Episode: 172. 'Deadline'. Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111040000 +0000" stop="20261111042500 +0000" channel="DR2.dk">
+  <title lang="da">Deadline: Et nyt USA, Løkke?</title>
+  <desc lang="da">Sæson: 2026. Episode: 171. 'Et nyt USA, Løkke?'. Kan en demokratisk jordskredssejr klinke skårene i det anspændte forhold mellem USA og Europa? Eller skal vi én gang for alle vænne os til at klare tingene selv - ikke mindst når det gælder Ukraine? Issa Jeppesen spørger den danske udenrigsminister i mulighedernes land. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111042500 +0000" stop="20261111050000 +0000" channel="DR2.dk">
+  <title lang="da">Deadline: Er USA normalt igen?</title>
+  <desc lang="da">Sæson: 2026. Episode: 170. 'Er USA normalt igen?'. En historisk stor sejr til Demokraterne har ændret fortællingen om amerikansk politik - og måske også om politik i Vesten lige nu. Men hvad fortæller valgresultatet? Vært: Christian Bennike Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111050000 +0000" stop="20261111054000 +0000" channel="DR2.dk">
+  <title lang="da">Historien om den norske kongefamilie</title>
+  <sub-title lang="da">(6:7)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 6. 'Tid til eftertanke'. I dag har kong Harald og dronning Sonja begge mulighed for at bruge mere tid på egne interesser, end de tidligere har haft. Kong Harald har gennem årene rejst i mange lande, ikke mindst til nogle af verdens mere utilgængelige steder, hvor han med særlig personlig interesse har besøgt mennesker, der lever i pagt med den natur, som han selv holder så meget af. Dronning Sonja har på sin side fået mulighed for at udfolde sine kunstneriske sider. Nordvision fra Norge. Tilladt for: A.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111054000 +0000" stop="20261111060000 +0000" channel="DR2.dk">
+  <title lang="da">Mens vi venter på at dø - Dyrker vi wellness</title>
+  <desc lang="da">Sæson: 1. Episode: 8. 'Dyrker vi wellness'. Med udgangspunkt i udtrykket "vi kan lige så godt have det sjovt, når vi alligevel er her" tager vennerne Jørgen Skouboe og John Dahl ud for at dyrke de små drengedrømme, som ellers så ofte drukner i hverdagens travle fornuftsrutiner. I denne uge udforsker John og Jørgen begrebet "wellness for mænd", hvilket bl.a. inkluderer bobleplast, rystepudsere og gaffatape. Med sig har de sjove anekdoter, gode øl, fin tobak - og ikke mindst masser af vildt og fascinerende grej, som skal prøves af. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111060000 +0000" stop="20261111070000 +0000" channel="DR2.dk">
+  <title lang="da">Den klassiske musikquiz</title>
+  <sub-title lang="da">(7:8)</sub-title>
+  <desc lang="da">Sæson: 5. Episode: 7. 'Den klassiske musikquiz'. Phillip Faber er den veloplagte vært, der forsøger at holde styr på de to holdkaptajner Frederik Cilius og Mathias Hammer. Med sig har de Katrine Gislinge, Teresa la Cour, John Kruse og Nikolaj Koppel. DR SymfoniOrkestret og dirigent Petr Popelka står for musikken. Er det muligt ud fra dirigentens gestik at gennemskue, hvad han dirigerer, uden at orkestret spiller til? Kan man fremføre orkestermusik på plastikrør og slagtøjsinstrumenter? Hvor svært er det at genkende musik spillet bagfra? Og kan det lade sig gøre at finde frem til et stykke musik efter bare en enkelt tone? Tilladt for: A.</desc>
   <category>Show</category>
  </programme>
- <programme start="20261109013500 +0000" stop="20261109022500 +0000" channel="TV2.dk">
-  <title lang="da">Det rullende auktionshus</title>
-  <desc lang="da">Sæson: 1. Episode: 1. 'Det rullende auktionshus'. Angus og hans team hjælper søstrene Kay og Tracey, der rydder op i deres tantes hjem. Særligt nogle små, oversete genstande overrasker, da hammeren falder. Teamets næste opgave afslører lukrative skatte, der har været gemt i mere end 50 år. Tilladt for: A.</desc>
+ <programme start="20261111070000 +0000" stop="20261111070500 +0000" channel="DR2.dk">
+  <title lang="da">Radioavisen</title>
+  <desc lang="da">Sæson: 2026. '11.11.2026'. Bliv opdateret på de seneste nyheder fra ind- og udland. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111070500 +0000" stop="20261111073000 +0000" channel="DR2.dk">
+  <title lang="da">Morgenandagten</title>
+  <desc lang="da">Sæson: 2026. Episode: 264. '11.11.2026'. Morgenandagten fra Vor Frue Kirke, Københavns Domkirke. Tilladt for: A.</desc>
+  <category>Kunst</category>
+ </programme>
+ <programme start="20261111073000 +0000" stop="20261111110000 +0000" channel="DR2.dk">
+  <title lang="da">Seneste nyt fra TVA</title>
+  <desc lang="da">Sæson: 2026. '11.11.2026 08:30.'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111110000 +0000" stop="20261111161500 +0000" channel="DR2.dk">
+  <title lang="da">Seneste nyt fra TVA</title>
+  <desc lang="da">Sæson: 2026. '11.11.2026 12:00.'. TV Avisen giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111161500 +0000" stop="20261111170500 +0000" channel="DR2.dk">
+  <title lang="da">Husker du...</title>
+  <desc lang="da">Sæson: 4. Episode: 8. '1997'. I 1997 bliver Prinsesse Diana dræbt i en trafikulykke i Paris, og verden er i sorg. En plejehjemsassistent bliver udråbt til at være danmarkshistoriens værste massemorder, men "damen i den røde jakke" viser sig at være uskyldig. Den Store Nordiske Rockerkrig har krævet 11 dødsofre, men i 1997 slutter Hells Angels og Bandidos endelig fred. Casper Christensen og Tæskeholdet lader den indre drengerøv få frit spil, mens pigerne hører Spice Girls og kræver Girl Power. Tilladt for: A.</desc>
   <category>Fakta</category>
- </programme>
- <programme start="20261109022500 +0000" stop="20261109030000 +0000" channel="TV2.dk">
-  <title lang="da">Vild indretning ved verdens ende</title>
-  <desc lang="da">Sæson: 1. Episode: 1. 'Vild indretning ved verdens ende'. Australske Banjo Beale starter en indretningsvirksomhed op på Isle of Mull, hvor han bor sammen med sin mand, Ro. I seks episoder følger vi Banjo på opgaver i det ekstreme klima, som de små, skotske øer ofte oplever, og han får hjælp af lokale håndværkere. Banjo og hans team får først til opgave at renovere en families fiskebutik. Spørgsmålet er, om han kan få dem med på sine vilde ideer? Tilladt for: A.</desc>
-  <category>Fritid</category>
- </programme>
- <programme start="20261109030000 +0000" stop="20261109050000 +0000" channel="TV2.dk">
-  <title lang="da">Nyhederne og Vejret</title>
-  <desc lang="da">Sæson: 2026. '09.11.2026 04:00.'. Nyhederne fra ind- og udland samt en kort gennemgang af vejret for i dag og de næste dage. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109050000 +0000" stop="20261109053000 +0000" channel="TV2.dk">
-  <title lang="da">Nyhederne, Sporten og Vejret</title>
-  <desc lang="da">Sæson: 2026. '09.11.2026 06:00.'. Nyhederne, sporten og vejret. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109053000 +0000" stop="20261109110000 +0000" channel="TV2.dk">
-  <title lang="da">Go' morgen Danmark</title>
-  <desc lang="da">Sæson: 2026. Episode: 222. 'Go' morgen Danmark'. 'Go' morgen Danmark' er hele Danmarks aktualitet- og livsstilsprogram. Start dagen med hygge og høje grin - og få stof til eftertanke og samtaleemner, man har lyst til at dele resten af dagen. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109110000 +0000" stop="20261109113000 +0000" channel="TV2.dk">
-  <title lang="da">12 News</title>
-  <desc lang="da">Sæson: 2026. '09.11.2026 12:00.'. 12 Nyhederne, Sporten og Vejret. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109113000 +0000" stop="20261109122000 +0000" channel="TV2.dk">
-  <title lang="da">Beliggenhed, beliggenhed, beliggenhed</title>
-  <desc lang="da">Sæson: 7. Episode: 3. 'På boligjagt i Nordsjælland og omkring Aalborg'. Karen og Flemming har solgt huset i Fredericia for at komme tættere på børn og børnebørn i Holte nord for København. Men priserne er noget anderledes der, end hvad de er vant til, så TV 2s boligekspert Sara Lygum får sin sag for, når hun skal finde en egnet bolig. Det unge nygifte par, Trine og Daniel, er på jagt efter deres første hjem, hvor de kan se sig selv stifte familie og bo i mange år fremover. Men da Christian Borregaard ikke kan finde drømmehuset, forsøger han at finde nogle boliger med de rigtige kompromiser. Tilladt for: A.</desc>
-  <category>Fritid</category>
- </programme>
- <programme start="20261109122000 +0000" stop="20261109125500 +0000" channel="TV2.dk">
-  <title lang="da">Sæt pris på Danmark</title>
-  <desc lang="da">Sæson: 10. Episode: 1. 'Sydvestfyn'. Eva Jin og Victor Lander udforsker Sydvestfyn, hvor de skal stikke asparges og smage på lækkerier - og så bliver deres boldøje testet i mere end en forstand. Tilladt for: A.</desc>
-  <category>Fritid</category>
- </programme>
- <programme start="20261109125500 +0000" stop="20261109132500 +0000" channel="TV2.dk">
-  <title lang="da">Beier på alpehotellet</title>
-  <desc lang="da">Sæson: 1. Episode: 4. 'Der er alt for mange ting, vi ikke har styr på'. Med kun én måned til åbningen er Lene og Anders presset, og det bliver ikke bedre af, at den nye kok opdager, at køkkenet ikke er klar. Samtidig vælter det ind med pakker og bookinger. Og midt i kaosset må Lene pludselig hjælpe en ko med at kælve. Tilladt for: A.</desc>
-  <category>Fritid</category>
- </programme>
- <programme start="20261109132500 +0000" stop="20261109140500 +0000" channel="TV2.dk">
-  <title lang="da">Beier på alpehotellet</title>
-  <desc lang="da">Sæson: 1. Episode: 5. 'Vi har det med at presse citronen'. Der er 14 dage til, de første gæster tjekker ind, og hotelhverdagen begynder for alvor at melde sig. Vagtplanerne skal lægges, men spørgsmålet er, hvor lang tid det tager at gøre ét værelse rent. Lene griber selv kost, spand og stopur for at finde ud af det. Samtidig får hotellet besøg af graffitikunstner Richard Holmes, der skal realisere Lenes kreative idé. Tilladt for: A.</desc>
-  <category>Fritid</category>
  </programme>
  <programme start="20261109140500 +0000" stop="20261109145500 +0000" channel="TV2.dk">
   <title lang="da">Motorvejspatruljen</title>
@@ -2367,109 +2318,109 @@
   <desc lang="da">Sæson: 1. Episode: 5. 'Et afslørende blik'. Et foruroligende syn på en medpassagers telefon udløser en omfattende efterforskning. Samtidig jagter politiet tyvene bag en række tyverier af luksusbiler. Tilladt for: 15.</desc>
   <category>Fakta</category>
  </programme>
- <programme start="20261108201000 +0000" stop="20261108203500 +0000" channel="TV2Syd.dk">
-  <title lang="da">TVSYD.DK</title>
-  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+ <programme start="20261110222000 +0000" stop="20261110231500 +0000" channel="TV2.dk">
+  <title lang="da">24 timer på skadestuen</title>
+  <desc lang="da">Sæson: 19. Episode: 12. '24 timer på skadestuen'. 35-årige Richard er kollapset derhjemme, og lægerne frygter, at årsagen er alvorlig. En tagreparation er gået helt galt, og Colin må en tur på skadestuen. Medvirkende: Anthony Philipson. Tilladt for: 11.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261110231500 +0000" stop="20261111000500 +0000" channel="TV2.dk">
+  <title lang="da">Motorvejspatruljen</title>
+  <desc lang="da">Sæson: 2. Episode: 1. 'Motorvejspatruljen'. Vi er tilbage på vejene med Cheshires betjente - og på M56 er der sket et større sammenstød med flere køretøjer - og en kvinde, der er fastklemt i en bil. Tilladt for: 11.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111000500 +0000" stop="20261111004000 +0000" channel="TV2.dk">
+  <title lang="da">Grænsepatruljen Australien</title>
+  <desc lang="da">Sæson: 10. Episode: 19. 'Grænsepatruljen'. Hver dag rejser flere end 20.000 passagerer ind i Australien med skib eller fly, og de skal alle igennem grænsekontrollen, før de bliver lukket ind i landet. De mange kvinder og mænd, der bogstavelig talt udgør Australiens frontlinje, er bl.a. på udkig efter rejsende, der måske ikke er, hvad de udgiver sig for, narkokurerer, illegale immigranter og mulige terrorister. Medvirkende: Grant Bowler, Chris Spradlin, Andy Trieu. Tilladt for: 11.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111004000 +0000" stop="20261111011000 +0000" channel="TV2.dk">
+  <title lang="da">Grænsepatruljen Australien</title>
+  <desc lang="da">Sæson: 10. Episode: 20. 'Grænsepatruljen'. Hver dag rejser flere end 20.000 passagerer ind i Australien med skib eller fly, og de skal alle igennem grænsekontrollen, før de bliver lukket ind i landet. De mange kvinder og mænd, der bogstavelig talt udgør Australiens frontlinje, er bl.a. på udkig efter rejsende, der måske ikke er, hvad de udgiver sig for, narkokurerer, illegale immigranter og mulige terrorister. Medvirkende: Grant Bowler, Chris Spradlin, Andy Trieu. Tilladt for: 11.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111011000 +0000" stop="20261111014500 +0000" channel="TV2.dk">
+  <title lang="da">Ja for Fanø!</title>
+  <desc lang="da">Sæson: 5. Episode: 3. 'Rejsegilde a la Jeanett'. Kransen stryger til tops over tilbygningen til Musebo, og Jeanett ruller den røde løber ud. Det er blevet tid til den helt store rejsegildefest. Men inden Jeanetts 100 kærlighedsgæster kan slå sig løs i selskab med DJ, foodtruck og en velassorteret bar, så skal haven gøres hyggelig. Der skal også lige styr på Johnny, som kører med sine helt egne deadlines for malerilevering. Og midt i det hele får Jeanett en særlig leverance med stor betydning for Walk of Fame Fanø. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111014500 +0000" stop="20261111022500 +0000" channel="TV2.dk">
+  <title lang="da">Ja for Fanø!</title>
+  <desc lang="da">Sæson: 5. Episode: 4. 'Johnny og Jeanett på nye afveje'. Johnny og Jeanett tager på nye eventyr på landevejen mellem Nordby og Sønderho, og det går ikke stille for sig, når Jeanett skaber trafikkaos og generel forvirring. Komikeren Thomas Warberg er taget en hel uge til Fanø for at skrive på sit nyeste show og teste det på Realen, der endelig kan invitere publikum inden for efter nedlukningen. Jeanett bliver udfordret på teknikken, og Johnny, ja, han er ikke til megen hjælp. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111022500 +0000" stop="20261111030000 +0000" channel="TV2.dk">
+  <title lang="da">Hofleverandørerne</title>
+  <desc lang="da">Sæson: 1. Episode: 7. 'Hofleverandørerne'. Hos Bering House of Flowers står Bjarne Als på tærsklen til en ny, digital verden. Han vil nemlig hoppe med på bølgen og få opdateret butikkens facebookside. Men nymodens teknik kræver nymodens inspiration, og Bjarne er derfor taget på Statens Museum for Kunst for at lade sig inspirere til nye dekorationer. Hos A. C. Perchs blæser der også nye vinde. Den 178 år gamle butik vil udvide med en ny forretning i Oslo. og Stine og Christian er taget til Norges hovedstad for at finde den helt rigtige beliggenhed. Hos Birger Christensen er der kommet nye varer hjem. Det betyder. at hele huset skal oplæres i den kommende sæsons trends og tendenser. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111030000 +0000" stop="20261111050000 +0000" channel="TV2.dk">
+  <title lang="da">Nyhederne og Vejret</title>
+  <desc lang="da">Sæson: 2026. '11.11.2026 04:00.'. Nyhederne fra ind- og udland samt en kort gennemgang af vejret for i dag og de næste dage. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108203500 +0000" stop="20261108210000 +0000" channel="TV2Syd.dk">
-  <title lang="da">Nyheder fra TV 2/Østjylland</title>
-  <desc lang="da">'Nyheder fra TV 2/Østjylland'. Nyhederne fra TV2 Østjylland. Tilladt for: A.</desc>
+ <programme start="20261111050000 +0000" stop="20261111053000 +0000" channel="TV2.dk">
+  <title lang="da">Nyhederne, Sporten og Vejret</title>
+  <desc lang="da">Sæson: 2026. '11.11.2026 06:00.'. Nyhederne, sporten og vejret. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108210000 +0000" stop="20261108212500 +0000" channel="TV2Syd.dk">
-  <title lang="da">Nyheder fra TV 2/Fyn</title>
-  <desc lang="da">'Nyheder fra TV 2/Fyn'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+ <programme start="20261111053000 +0000" stop="20261111110000 +0000" channel="TV2.dk">
+  <title lang="da">Go' morgen Danmark</title>
+  <desc lang="da">Sæson: 2026. Episode: 224. 'Go' morgen Danmark'. 'Go' morgen Danmark' er hele Danmarks aktualitet- og livsstilsprogram. Start dagen med hygge og høje grin - og få stof til eftertanke og samtaleemner, man har lyst til at dele resten af dagen. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108212500 +0000" stop="20261108215000 +0000" channel="TV2Syd.dk">
-  <title lang="da">Nyheder fra TV MidtVest</title>
-  <desc lang="da">'Nyheder fra TV MidtVest'. Gårsdagens nyheder fra TV Midt/Vest Tilladt for: A.</desc>
+ <programme start="20261111110000 +0000" stop="20261111113000 +0000" channel="TV2.dk">
+  <title lang="da">12 News</title>
+  <desc lang="da">Sæson: 2026. '11.11.2026 12:00.'. 12 Nyhederne, Sporten og Vejret. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108215000 +0000" stop="20261108230000 +0000" channel="TV2Syd.dk">
-  <title lang="da">TVSYD.DK</title>
-  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+ <programme start="20261111113000 +0000" stop="20261111121500 +0000" channel="TV2.dk">
+  <title lang="da">Beliggenhed, beliggenhed, beliggenhed</title>
+  <desc lang="da">Sæson: 8. Episode: 5. 'På boligjagt i Herning og Nordsjælland'. Boligeksperterne Sara Lygum og Christian Borregaard skal denne gang hjælpe to par, der er vidt forskellige steder i livet, men som alligevel søger lidt det samme. Nina og Andreas har endnu ikke børn og har heller ikke planer om det foreløbigt, men leder alligevel efter en bolig i Herning, som kan rumme en større børnefamilie. De vil gerne have rammerne på plads, før de begynder at overveje at stifte familie. Det andet par, Signe og Andreas, drømmer også om et hus med plads til børn, men de har allerede har et barn på halvandet og et mere på vej. De bor i en lille toværelses lejlighed på Nørrebro i København. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111121500 +0000" stop="20261111125500 +0000" channel="TV2.dk">
+  <title lang="da">Sæt pris på Danmark</title>
+  <desc lang="da">Sæson: 10. Episode: 3. 'Kalundborg og omegn'. Martin Johannes Larsen og Ruben Søltoft forsøger at ramme plet på prisen, når de smager på druer og pølser - og så kommer deres åndedræt på prøve i Havnsø. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111125500 +0000" stop="20261111132500 +0000" channel="TV2.dk">
+  <title lang="da">Beier på alpehotellet</title>
+  <desc lang="da">Sæson: 2025. Episode: 2. 'Fuld smadder på sommersæsonen'. Hotellet står næsten klar til sommersæsonen, men Anders mangler stadig at opfinde et vandingsanlæg til alle blomsterkasserne, og Lene begynder at få stress på. Der bliver dog tid til et prøvedyp i Achensee-søen, for at se om de kan anbefale stedet til deres gæster. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111132500 +0000" stop="20261111140500 +0000" channel="TV2.dk">
+  <title lang="da">Beier på alpehotellet</title>
+  <desc lang="da">Sæson: 2025. Episode: 3. 'Vi må smide, hvad vi har i hænderne'. Efter tabet af familiens hund, Bruce Wayne, er Lene blevet hundeskruk, og hun nusser efterhånden med alle de dyr, hun møder. Nu er spørgsmålet, om Lene og Anders er klar til at få en ny hund? For at lindre savnet giver naboerne Lene en helt særlig fødselsdagsgave - geden Mogens! Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111140500 +0000" stop="20261111145500 +0000" channel="TV2.dk">
+  <title lang="da">Motorvejspatruljen</title>
+  <desc lang="da">Sæson: 2. Episode: 3. 'Motorvejspatruljen'. Et akutopkald fører til en større forfølgelse af en bil for at redde et barn. Den mistænkte spores til at køre på M6, men er chaufføren alene? Tilladt for: 11.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111145500 +0000" stop="20261111152500 +0000" channel="TV2.dk">
+  <title lang="da">Grænsepatruljen Australien</title>
+  <desc lang="da">Sæson: 11. Episode: 3. 'Grænsepatruljen'. Hver dag rejser flere end 20.000 passagerer ind i Australien med skib eller fly, og de skal alle igennem grænsekontrollen, før de bliver lukket ind i landet. De mange kvinder og mænd, der bogstavelig talt udgør Australiens frontlinje, er bl.a. på udkig efter rejsende, der måske ikke er, hvad de udgiver sig for, narkokurerer, illegale immigranter og mulige terrorister. Medvirkende: Grant Bowler, Chris Spradlin, Andy Trieu. Tilladt for: 11.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111152500 +0000" stop="20261111160000 +0000" channel="TV2.dk">
+  <title lang="da">Grænsepatruljen Australien</title>
+  <desc lang="da">Sæson: 11. Episode: 4. 'Grænsepatruljen'. Hver dag rejser flere end 20.000 passagerer ind i Australien med skib eller fly, og de skal alle igennem grænsekontrollen, før de bliver lukket ind i landet. De mange kvinder og mænd, der bogstavelig talt udgør Australiens frontlinje, er bl.a. på udkig efter rejsende, der måske ikke er, hvad de udgiver sig for, narkokurerer, illegale immigranter og mulige terrorister. Medvirkende: Grant Bowler, Chris Spradlin, Andy Trieu. Tilladt for: 11.</desc>
+  <category>Fakta</category>
+ </programme>
+ <programme start="20261111160000 +0000" stop="20261111161000 +0000" channel="TV2.dk">
+  <title lang="da">17 News</title>
+  <desc lang="da">Sæson: 2026. '11.11.2026 17:00.'. Få seneste nyheder fra både Danmark og udlandet. Tilladt for: A.</desc>
+  <category>Politik</category>
+ </programme>
+ <programme start="20261111161000 +0000" stop="20261111162000 +0000" channel="TV2.dk">
+  <title lang="da">Regionale nyheder</title>
+  <desc lang="da">'11.11.2026, 16:10.'. TV 2's nyheder, som stiller skarpt på aktuelle temaer fra din region. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108230000 +0000" stop="20261109053000 +0000" channel="TV2Syd.dk">
-  <title lang="da">Direkte fra storkereden</title>
-  <desc lang="da">'Direkte fra storkereden'. Direkte fra storkereden i Smedager Tilladt for: A.</desc>
-  <category>Ukendt</category>
- </programme>
- <programme start="20261109053000 +0000" stop="20261109055500 +0000" channel="TV2Syd.dk">
-  <title lang="da">Min Oldefars krig 2:4 Sporet fører til Frankrig</title>
-  <desc lang="da">Episode: 2. 'Min Oldefars krig Sporet fører til Frankrig'. Sammen med Museumsinspektør Rene Rasmussen fra Museeum Sønderjylland afsøger Jens Christian diverse arkivalier for at finde ud af mere om sin oldefars færden under 1. Verdenskrig. Gemt i de historiske arkiver finder de spor, der fører til Frankrig, hvor oldefaren mistede livet i de intense skyttegravskampe i Argonne-regionen. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109055500 +0000" stop="20261109060000 +0000" channel="TV2Syd.dk">
-  <title lang="da">TVSYD.DK</title>
-  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109060000 +0000" stop="20261109062500 +0000" channel="TV2Syd.dk">
-  <title lang="da">Nyheder fra TV 2/Østjylland</title>
-  <desc lang="da">'Nyheder fra TV 2/Østjylland'. Nyhederne fra TV2 Østjylland. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109062500 +0000" stop="20261109063000 +0000" channel="TV2Syd.dk">
-  <title lang="da">TVSYD.DK</title>
-  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109063000 +0000" stop="20261109065500 +0000" channel="TV2Syd.dk">
-  <title lang="da">Nyheder fra TV 2/Fyn</title>
-  <desc lang="da">'Nyheder fra TV 2/Fyn'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109065500 +0000" stop="20261109070000 +0000" channel="TV2Syd.dk">
-  <title lang="da">TVSYD.DK</title>
-  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109070000 +0000" stop="20261109072500 +0000" channel="TV2Syd.dk">
-  <title lang="da">Nyheder fra TV MidtVest</title>
-  <desc lang="da">'Nyheder fra TV MidtVest'. Gårsdagens nyheder fra TV Midt/Vest Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109072500 +0000" stop="20261109073000 +0000" channel="TV2Syd.dk">
-  <title lang="da">TVSYD.DK</title>
-  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109073000 +0000" stop="20261109075500 +0000" channel="TV2Syd.dk">
-  <title lang="da">Min Oldefars krig 2:4 Sporet fører til Frankrig</title>
-  <desc lang="da">Episode: 2. 'Min Oldefars krig Sporet fører til Frankrig'. Sammen med Museumsinspektør Rene Rasmussen fra Museeum Sønderjylland afsøger Jens Christian diverse arkivalier for at finde ud af mere om sin oldefars færden under 1. Verdenskrig. Gemt i de historiske arkiver finder de spor, der fører til Frankrig, hvor oldefaren mistede livet i de intense skyttegravskampe i Argonne-regionen. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109075500 +0000" stop="20261109080000 +0000" channel="TV2Syd.dk">
-  <title lang="da">TVSYD.DK</title>
-  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109080000 +0000" stop="20261109082500 +0000" channel="TV2Syd.dk">
-  <title lang="da">Nyheder fra TV 2/Østjylland</title>
-  <desc lang="da">'Nyheder fra TV 2/Østjylland'. Nyhederne fra TV2 Østjylland. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109082500 +0000" stop="20261109083000 +0000" channel="TV2Syd.dk">
-  <title lang="da">TVSYD.DK</title>
-  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109083000 +0000" stop="20261109085500 +0000" channel="TV2Syd.dk">
-  <title lang="da">Nyheder fra TV 2/Fyn</title>
-  <desc lang="da">'Nyheder fra TV 2/Fyn'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109085500 +0000" stop="20261109090000 +0000" channel="TV2Syd.dk">
-  <title lang="da">TVSYD.DK</title>
-  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109090000 +0000" stop="20261109092500 +0000" channel="TV2Syd.dk">
-  <title lang="da">Nyheder fra TV MidtVest</title>
-  <desc lang="da">'Nyheder fra TV MidtVest'. Gårsdagens nyheder fra TV Midt/Vest Tilladt for: A.</desc>
+ <programme start="20261111162000 +0000" stop="20261111170000 +0000" channel="TV2.dk">
+  <title lang="da">Go' aften Live</title>
+  <desc lang="da">Sæson: 2026. Episode: 197. '11.11.2026 17:20.'. Dagsaktuelt talkshow Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
  <programme start="20261109092500 +0000" stop="20261109161000 +0000" channel="TV2Syd.dk">
@@ -2712,115 +2663,100 @@
   <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108191500 +0000" stop="20261108202500 +0000" channel="TV2Fri.dk">
-  <title lang="da">Den store britiske bagedyst</title>
-  <desc lang="da">Sæson: 12. Episode: 10. 'The Final'. De tre tilbageværende bagere skal fremstille en gulerodskage, der kan hive sejren hjem, klare sig bedst i den ukendte udfordring, der er baseret på en belgisk opskrift og arrangere en banket, der kunne være Den Gale Hattemagers produkt. Instruktør: Jeanette Goulbourn. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261108202500 +0000" stop="20261108212000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Flotte forvandlinger</title>
-  <desc lang="da">Sæson: 1. Episode: 5. 'Flotte forvandlinger'. Charlene og Matt er trætte af at flytte, hver gang huset giver problemer. Nu vil de blive boende, og kampen tages op mod en problemfyldt stueetage og baghave. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261108212000 +0000" stop="20261108222000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Flotte forvandlinger</title>
-  <desc lang="da">Sæson: 2. Episode: 1. 'Flotte forvandlinger'. I Essex drømmer Gemma om en ny have, mens hendes mand, Scott, ønsker sig et nyt køkken. George hjælper parret med at finde den rette løsning. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261108222000 +0000" stop="20261108231500 +0000" channel="TV2Fri.dk">
-  <title lang="da">Han, hun og drømmeslottet</title>
-  <desc lang="da">Sæson: 8. Episode: 6. 'Farveplader, rendering og en gammel garage'. Dick og Angel fordyber sig i farvekort og modeller under renoveringen af slottet, og så finder de et gammelt trug, der har været brugt til fremstilling af æblecider. Instruktører: Miles Carter, Ashley Golder, Jonathan Hales. Medvirkende: Tracy-Ann Oberman. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261108231500 +0000" stop="20261109001000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Han, hun og drømmeslottet</title>
-  <desc lang="da">Sæson: 8. Episode: 7. 'Blæksprutte Vanvid og Nøgleformning'. Arbejdet på slottets tag og ydermure fortsætter, men Dick og Angel støder på flere udfordringer. Og lykkes det for Angels far, Steve, at lave en ekstra hoveddørsnøgle i sølv ud fra den gamle, som er 150 år? Instruktører: Ashley Golder, Jonathan Hales. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261109001000 +0000" stop="20261109011000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Guld eller gejl</title>
-  <desc lang="da">Sæson: 12. Episode: 24. 'Guld eller gejl'. Værdifuldt eller værdiløst? Et hold af dygtige opkøbere vurderer sælgernes effekter og giver den bedste pris. Tilladt for: A.</desc>
-  <category>Kunst</category>
- </programme>
- <programme start="20261109011000 +0000" stop="20261109020000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Guld eller gejl</title>
-  <desc lang="da">Sæson: 12. Episode: 15. 'Guld eller gejl'. Værdifuldt eller værdiløst? Et hold af dygtige opkøbere vurderer sælgernes effekter og giver den bedste pris. Tilladt for: A.</desc>
-  <category>Kunst</category>
- </programme>
- <programme start="20261109020000 +0000" stop="20261109030000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Guld eller gejl</title>
-  <desc lang="da">Sæson: 12. Episode: 16. 'Guld eller gejl'. Værdifuldt eller værdiløst? Et hold af dygtige opkøbere vurderer sælgernes effekter og giver den bedste pris. Tilladt for: A.</desc>
-  <category>Kunst</category>
- </programme>
- <programme start="20261109030000 +0000" stop="20261109035500 +0000" channel="TV2Fri.dk">
-  <title lang="da">Fantasifulde rum UK</title>
-  <desc lang="da">Sæson: 13. Episode: 3. 'Fantasifulde rum'. Med byggeerfaring fra Hollywood skaber en familie et glampingsted, og George ser et gammelt portugisisk hjem med moderne forvandlinger. Tilladt for: A.</desc>
-  <category>Fritid</category>
- </programme>
- <programme start="20261109035500 +0000" stop="20261109044500 +0000" channel="TV2Fri.dk">
-  <title lang="da">Fantasifulde rum UK</title>
-  <desc lang="da">Sæson: 13. Episode: 4. 'Fantasifulde rum'. En gammel kending viser sit nye, kageinspirerede byggeprojekt frem. George besøger også en livsforandrende familiebil og oplever Portugals smalleste hus. Tilladt for: A.</desc>
-  <category>Fritid</category>
- </programme>
- <programme start="20261109044500 +0000" stop="20261109053000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Fantasifulde rum UK</title>
-  <desc lang="da">Sæson: 13. Episode: 5. 'Fantasifulde rum'. I en amerikansk skolebus møder George et ungt par, der forsøger at skabe et hjem. Han oplever et unikt byggeri, hvor gamle kølerum skal blive til en øko-hytte. Tilladt for: A.</desc>
-  <category>Fritid</category>
- </programme>
- <programme start="20261109053000 +0000" stop="20261109053500 +0000" channel="TV2Fri.dk">
-  <title lang="da">Godnat</title>
-  <desc lang="da">'Godnat'. Godnat. Tilladt for: A.</desc>
+ <programme start="20261110230000 +0000" stop="20261111053000 +0000" channel="TV2Syd.dk">
+  <title lang="da">Direkte fra storkereden</title>
+  <desc lang="da">'Direkte fra storkereden'. Direkte fra storkereden i Smedager Tilladt for: A.</desc>
   <category>Ukendt</category>
  </programme>
- <programme start="20261109053500 +0000" stop="20261109063000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Drømmeslot på højkant</title>
-  <desc lang="da">Sæson: 1. Episode: 11. 'Chateau DIY - Win The Dream'. Fire nye par starter i tredje heat og omdanner to udhuse til luksuriøse spisestuer i en intens holdudfordring. Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111053000 +0000" stop="20261111055500 +0000" channel="TV2Syd.dk">
+  <title lang="da">Nyheder fra tvSyd</title>
+  <desc lang="da">'Nyheder fra tvSyd'. Dagens nyheder og aktuelle reportager Tilladt for: A.</desc>
+  <category>Nyheder</category>
  </programme>
- <programme start="20261109063000 +0000" stop="20261109072500 +0000" channel="TV2Fri.dk">
-  <title lang="da">Drømmeslot på højkant</title>
-  <desc lang="da">Sæson: 1. Episode: 12. 'Chateau DIY - Win The Dream'. Janet og Philip hjælper Max med at bedømme spisestuerne. Desværre brister drømmen for et af parrene i heat tre, og de må desværre forlade Frankrig. Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111055500 +0000" stop="20261111060000 +0000" channel="TV2Syd.dk">
+  <title lang="da">TVSYD.DK</title>
+  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+  <category>Nyheder</category>
  </programme>
- <programme start="20261109072500 +0000" stop="20261109084000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Den store britiske bagedyst</title>
-  <desc lang="da">Sæson: 15. Episode: 1. 'Den store britiske bagedyst'. En and, en sko eller en symaskine – hvilken bagers kage kommer i den bedste forklædning? Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111060000 +0000" stop="20261111062500 +0000" channel="TV2Syd.dk">
+  <title lang="da">Nyheder fra TV 2/Østjylland</title>
+  <desc lang="da">'Nyheder fra TV 2/Østjylland'. Nyhederne fra TV2 Østjylland. Tilladt for: A.</desc>
+  <category>Nyheder</category>
  </programme>
- <programme start="20261109084000 +0000" stop="20261109095000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Den store britiske bagedyst</title>
-  <desc lang="da">Sæson: 15. Episode: 2. 'Den store britiske bagedyst'. Det er sødt, skørt og dramatisk, når deltagerne får til opgave at lave et dukketeater af småkager! Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111062500 +0000" stop="20261111063000 +0000" channel="TV2Syd.dk">
+  <title lang="da">TVSYD.DK</title>
+  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+  <category>Nyheder</category>
  </programme>
- <programme start="20261109095000 +0000" stop="20261109102500 +0000" channel="TV2Fri.dk">
-  <title lang="da">Loppe Deluxe</title>
-  <desc lang="da">Sæson: 2. Episode: 6. 'Lille'. Hvad er brugte postkort værd? Og er franskmændene til at slå gode handler af med? De to Loppe Deluxe hold er denne gang blevet sendt til den franske by Lille nord for Paris. Her bliver flere af byens gader en gang om året spærret af og forvandlet til et mangfoldigt 'tøm-garagen' marked. Hvem finder, køber og videresælger de bedste lopper med størst gevinst? Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111063000 +0000" stop="20261111065500 +0000" channel="TV2Syd.dk">
+  <title lang="da">Nyheder fra TV 2/Fyn</title>
+  <desc lang="da">'Nyheder fra TV 2/Fyn'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
  </programme>
- <programme start="20261109102500 +0000" stop="20261109110000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Loppe Deluxe</title>
-  <desc lang="da">Sæson: 2. Episode: 7. 'Dragør'. Kan man øge værdien af en Børge Mogensen-stol ved at male på den? Og kan man købe for mange ting på et loppemarked - når nu alt skal sælges videre med størst mulig gevinst indenfor to uger? De to 'Loppe Deluxe'-hold skal denne gang dyste på Dragør Marked uden for København. Her er tivoli, øltelte, ponyridning og 500 kræmmerstande - med alt fra nylonstrømper og kattemad til grønlandske mokkasiner og danske designklassikere. Hvilket hold finder, køber og videresælger de bedste loppefund med størst gevinst? Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111065500 +0000" stop="20261111070000 +0000" channel="TV2Syd.dk">
+  <title lang="da">TVSYD.DK</title>
+  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+  <category>Nyheder</category>
  </programme>
- <programme start="20261109110000 +0000" stop="20261109113500 +0000" channel="TV2Fri.dk">
-  <title lang="da">Loppe Deluxe</title>
-  <desc lang="da">Sæson: 2. Episode: 8. 'Silkeborg Bagagerumsmarked'. Hvad koster en gammel legetøjshest, som begge hold er interesserede i? Og hvorfor er den egentlig interessant? De to hold skal i denne uge dyste på Silkeborg Bagagerumsmarked, der hver søndag fra april til september slår bagsmækken op for handlende i området. Se med og find ud af, hvem der får pengene til at vokse mest og dermed vinder konkurrencen. Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111070000 +0000" stop="20261111072500 +0000" channel="TV2Syd.dk">
+  <title lang="da">Nyheder fra TV MidtVest</title>
+  <desc lang="da">'Nyheder fra TV MidtVest'. Gårsdagens nyheder fra TV Midt/Vest Tilladt for: A.</desc>
+  <category>Nyheder</category>
  </programme>
- <programme start="20261109113500 +0000" stop="20261109123000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Ryd op i dit liv</title>
-  <desc lang="da">Sæson: 3. Episode: 1. 'Ryd op i dit liv'. Livet ændrede sig dramatisk for Bec og Julian, og nu roder deres hjem. Mens Peter udfordrer Bec, kæmper teamet for at nå i mål med deres ambitiøse planer. Medvirkende: Gyton Grantley. Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111072500 +0000" stop="20261111073000 +0000" channel="TV2Syd.dk">
+  <title lang="da">TVSYD.DK</title>
+  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+  <category>Nyheder</category>
  </programme>
- <programme start="20261109123000 +0000" stop="20261109132000 +0000" channel="TV2Fri.dk">
-  <title lang="da">Ryd op i dit liv</title>
-  <desc lang="da">Sæson: 3. Episode: 2. 'Ryd op i dit liv'. Jills eksmand efterlod en mandehule, og for hende er den fyldt med dårlige minder. Teamet vil forvandle hulen til et afslappende rum for Jill og hendes døtre. Medvirkende: Gyton Grantley. Tilladt for: A.</desc>
-  <category>Show</category>
+ <programme start="20261111073000 +0000" stop="20261111075500 +0000" channel="TV2Syd.dk">
+  <title lang="da">Nyheder fra tvSyd</title>
+  <desc lang="da">'Nyheder fra tvSyd'. Dagens nyheder og aktuelle reportager Tilladt for: A.</desc>
+  <category>Nyheder</category>
  </programme>
- <programme start="20261109132000 +0000" stop="20261109141500 +0000" channel="TV2Fri.dk">
-  <title lang="da">Værkstedet UK</title>
-  <desc lang="da">Episode: 7. 'Værkstedet (UK)'. En fin kasse til fiskegrej trænger til en kærlig hånd. En dukke med en særlig historie bliver vakt til live igen. Og en æske til barbergrej får nyt liv. Tilladt for: A.</desc>
-  <category>Fritid</category>
+ <programme start="20261111075500 +0000" stop="20261111080000 +0000" channel="TV2Syd.dk">
+  <title lang="da">TVSYD.DK</title>
+  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111080000 +0000" stop="20261111082500 +0000" channel="TV2Syd.dk">
+  <title lang="da">Nyheder fra TV 2/Østjylland</title>
+  <desc lang="da">'Nyheder fra TV 2/Østjylland'. Nyhederne fra TV2 Østjylland. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111082500 +0000" stop="20261111083000 +0000" channel="TV2Syd.dk">
+  <title lang="da">TVSYD.DK</title>
+  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111083000 +0000" stop="20261111085500 +0000" channel="TV2Syd.dk">
+  <title lang="da">Nyheder fra TV 2/Fyn</title>
+  <desc lang="da">'Nyheder fra TV 2/Fyn'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111085500 +0000" stop="20261111090000 +0000" channel="TV2Syd.dk">
+  <title lang="da">TVSYD.DK</title>
+  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111090000 +0000" stop="20261111092500 +0000" channel="TV2Syd.dk">
+  <title lang="da">Nyheder fra TV MidtVest</title>
+  <desc lang="da">'Nyheder fra TV MidtVest'. Gårsdagens nyheder fra TV Midt/Vest Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111092500 +0000" stop="20261111161000 +0000" channel="TV2Syd.dk">
+  <title lang="da">TVSYD.DK</title>
+  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111161000 +0000" stop="20261111162000 +0000" channel="TV2Syd.dk">
+  <title lang="da">Kort nyhedsoversigt</title>
+  <desc lang="da">'Kort nyhedsoversigt'. Kort nyhedsoversigt Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111162000 +0000" stop="20261111172000 +0000" channel="TV2Syd.dk">
+  <title lang="da">TVSYD.DK</title>
+  <desc lang="da">'TVSYD.DK'. Nyheder fra tvsyd.dk Tilladt for: A.</desc>
+  <category>Nyheder</category>
  </programme>
  <programme start="20261109141500 +0000" stop="20261109150500 +0000" channel="TV2Fri.dk">
   <title lang="da">Værkstedet UK</title>
@@ -3027,120 +2963,120 @@
   <desc lang="da">Sæson: 2. Episode: 2. 'Krejlerkongen - julespecial'. 'Krejlerkongen' fortsætter det gode julehumør, og Gertrud Sand fra 'The Julekalender', alias Carsten Knudsen, møder tv-vært Michèle Bellaiche i krejlerdysten. Er du til julestemning, god underholdning og gode historier, så kig med, når Andreas Bo og Annette Heick bakker deres gæster op, mens Lasse Rimmer svinger julehammeren. Tilladt for: A.</desc>
   <category>Show</category>
  </programme>
- <programme start="20261108201000 +0000" stop="20261108203500 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Søndagsræs</title>
-  <desc lang="da">'Rally Sprint Juelsminde'. Rallysprint EC-SIKRING blev kørt i Juelsminde indre by og var derfor udfordrende for kørerne med masser af smalle villaveje og skarpe sving. Tilladt for: A.</desc>
-  <category>Sport</category>
- </programme>
- <programme start="20261108203500 +0000" stop="20261108205000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Future of Work</title>
-  <desc lang="da">'Future of Work - disciplineret empati'. Når vi går på arbejde, bruger vi en masse energi på at styre vores følelser. Det er mest tydeligt i konfliktfyldte miljøer som f.eks. hos politiet. Men det gælder også på alle mulige andre arbejdspladser. Tilladt for: A.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261108205000 +0000" stop="20261108210000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">OPLEV</title>
-  <desc lang="da">'OPLEV - Ægte pub-mad på Nørrebro'. Vi går på engelsk pub, besøger familien Greves hjemmelavede spøgelseshus og taler med bogaktuelle Emil Poulsen. Tilladt for: A.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261108210000 +0000" stop="20261108212000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Velkommen til magten</title>
-  <desc lang="da">Sæson: 1. Episode: 12. 'Vil redde Corona Camping'. Selv om Corona Camping i årevis har brudt loven, vil Køges nye borgmester finde en lovlig løsning for beboerne. Tilladt for: A.</desc>
-  <category>Politik</category>
- </programme>
- <programme start="20261108212000 +0000" stop="20261108214000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder 19:30</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder 19.30'. TV 2 Kosmopol sender nyheder, reportager og interviews fra hele regionen. Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261108214000 +0000" stop="20261108220000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Kosmopol forklarer</title>
-  <desc lang="da">'COP15 og 905 ulovlige anholdelser'. Klimatopmødet COP15 i København tilbage i 2009 førte til store demonstrationer, og 905 personer endte med at blive anholdt under forhold, der senere blev kendt ulovlige. Tilladt for: +15 Tilladt for: A.</desc>
-  <category>Fakta</category>
- </programme>
- <programme start="20261108220000 +0000" stop="20261108220500 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Christel er enlig mor</title>
-  <desc lang="da">'Christel er enlig mor'. I en gammel villa på Frederiksberg bor en gruppe mennesker i et helt unikt kollektiv. Her deler 12 enlige forældre hjem med hinanden - og med deres børn. Tilladt for: A.</desc>
-  <category>Ukendt</category>
- </programme>
- <programme start="20261108220500 +0000" stop="20261108221000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Amin har købt et forsamlingshus</title>
-  <desc lang="da">'Amin har købt et forsamlingshus'. Amin Jensen har altid drømt om at eje et forsamlingshus på landet, og endelig er dømmen blevet til virkelighed. Tilladt for: A.</desc>
-  <category>Ukendt</category>
- </programme>
- <programme start="20261108221000 +0000" stop="20261108221500 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Mihi taler dansk med fremmede</title>
-  <desc lang="da">'Mihi taler dansk med fremmede'. Japanske Mihi Kudo har fundet sin egen måde at øve det danske sprog på. Hun stopper danskere på gaden og spørger, om de vil tale dansk med hende. Tilladt for: A.</desc>
+ <programme start="20261110223000 +0000" stop="20261110232500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Værkstedet UK</title>
+  <desc lang="da">Sæson: 3. Episode: 1. 'Værkstedet (UK)'. Jay Blades og hans dygtige stab skal se på et gammelt lommeur, forsøge at istandsætte en smørdrittel og en Louis Vuitton-taske. Tilladt for: A.</desc>
   <category>Fritid</category>
  </programme>
- <programme start="20261108221500 +0000" stop="20261108222000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Elisa bliver den skaldede kæreste</title>
-  <desc lang="da">'Elisa bliver den skaldede kæreste'. Elisa og Thor har været kærester i kun 8 måneder, da Elisa får stillet den værst tænkelige diagnose. Tilladt for: A.</desc>
-  <category>Fakta</category>
+ <programme start="20261110232500 +0000" stop="20261111001500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Værkstedet UK</title>
+  <desc lang="da">Sæson: 3. Episode: 2. 'Værkstedet (UK)'. Det dygtige team kommer på hårdt arbejde, da der skal restaureres et flænget maleri, en fin stok med abehoved og et gammelt teleskop. Tilladt for: A.</desc>
+  <category>Fritid</category>
  </programme>
- <programme start="20261108222000 +0000" stop="20261108223000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">OPLEV</title>
-  <desc lang="da">'OPLEV - Ægte pub-mad på Nørrebro'. Vi går på engelsk pub, besøger familien Greves hjemmelavede spøgelseshus og taler med bogaktuelle Emil Poulsen. Tilladt for: A.</desc>
-  <category>Fakta</category>
+ <programme start="20261111001500 +0000" stop="20261111011500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Guld eller gejl</title>
+  <desc lang="da">Sæson: 12. Episode: 26. 'Guld eller gejl'. Værdifuldt eller værdiløst? Et hold af dygtige opkøbere vurderer sælgernes effekter og giver den bedste pris. Tilladt for: A.</desc>
+  <category>Kunst</category>
  </programme>
- <programme start="20261108223000 +0000" stop="20261108225500 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyhederne for præcis 30 år siden</title>
-  <desc lang="da">Sæson: 2026. 'Nyhederne for præcis 30 år siden 3/11-1996'. Hvad skete der i hovedstadsområdet for 30 år siden? Vi har været i arkivet og fundet den nyhedsudsendelse frem, som blev vist på denne dag for præcis 30 år siden. Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111011500 +0000" stop="20261111021500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Guld eller gejl</title>
+  <desc lang="da">Sæson: 12. Episode: 19. 'Guld eller gejl'. Værdifuldt eller værdiløst? Et hold af dygtige opkøbere vurderer sælgernes effekter og giver den bedste pris. Tilladt for: A.</desc>
+  <category>Kunst</category>
  </programme>
- <programme start="20261108225500 +0000" stop="20261109050000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111021500 +0000" stop="20261111031500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Guld eller gejl</title>
+  <desc lang="da">Sæson: 12. Episode: 20. 'Guld eller gejl'. Værdifuldt eller værdiløst? Et hold af dygtige opkøbere vurderer sælgernes effekter og giver den bedste pris. Tilladt for: A.</desc>
+  <category>Kunst</category>
  </programme>
- <programme start="20261109050000 +0000" stop="20261109063000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111031500 +0000" stop="20261111040500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Bolighjælp på vej</title>
+  <desc lang="da">Sæson: 12. Episode: 4. 'Bolighjælp på vej'. Hos familien Granlund i Ockelbo er der brug for hjælp. Matte, Willy og Lotte henter inspiration i naturen, når de skal renovere familiens hus. Tilladt for: A.</desc>
+  <category>Show</category>
  </programme>
- <programme start="20261109063000 +0000" stop="20261109065000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder 19:30</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder 19.30'. TV 2 Kosmopol sender nyheder, reportager og interviews fra hele regionen. Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111040500 +0000" stop="20261111045500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Bolighjælp på vej</title>
+  <desc lang="da">Sæson: 12. Episode: 5. 'Bolighjælp på vej'. I Tjerp har familien Limér brug for hjælp til at få styr på deres have, og den udfordring tager teamet gerne op. Tilladt for: A.</desc>
+  <category>Show</category>
  </programme>
- <programme start="20261109065000 +0000" stop="20261109073000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111045500 +0000" stop="20261111054000 +0000" channel="TV2Fri.dk">
+  <title lang="da">Bolighjælp på vej</title>
+  <desc lang="da">Sæson: 12. Episode: 6. 'Bolighjælp på vej'. Familien Emanuelsson bor på en præstegård i Tidaholm. Huset er så stort, at det er sjældent, at familien er samlet på samme sted, men det laver Matte, Willy og Lotta om på. Et nyt køkken bliver fremover familiens samlingspunkt. Tilladt for: A.</desc>
+  <category>Show</category>
  </programme>
- <programme start="20261109073000 +0000" stop="20261109075000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Søndagsræs</title>
-  <desc lang="da">'Rally Sprint Juelsminde'. Rallysprint EC-SIKRING blev kørt i Juelsminde indre by og var derfor udfordrende for kørerne med masser af smalle villaveje og skarpe sving. Tilladt for: A.</desc>
-  <category>Sport</category>
+ <programme start="20261111054000 +0000" stop="20261111055500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Godnat</title>
+  <desc lang="da">'Godnat'. Godnat. Tilladt for: A.</desc>
+  <category>Ukendt</category>
  </programme>
- <programme start="20261109075000 +0000" stop="20261109083000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111055500 +0000" stop="20261111065000 +0000" channel="TV2Fri.dk">
+  <title lang="da">Drømmeslot på højkant</title>
+  <desc lang="da">Sæson: 1. Episode: 15. 'Chateau DIY - Win The Dream'. De to sidste par i heat tre skal være værter for en event. Max og hans to gæstedommere sender ét par videre - og et par hjem. Tilladt for: A.</desc>
+  <category>Show</category>
  </programme>
- <programme start="20261109083000 +0000" stop="20261109085000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder 19:30</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder 19.30'. TV 2 Kosmopol sender nyheder, reportager og interviews fra hele regionen. Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111065000 +0000" stop="20261111074500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Drømmeslot på højkant</title>
+  <desc lang="da">Sæson: 1. Episode: 16. 'Chateau DIY - Win The Dream'. De tre finalepar er tilbage i Frankrig, hvor de skal have gang i kreative løsninger - og de bedste af slagsen, for kun ét par kan vinde slottet. Tilladt for: A.</desc>
+  <category>Show</category>
  </programme>
- <programme start="20261109085000 +0000" stop="20261109093000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111074500 +0000" stop="20261111084500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Den store britiske bagedyst</title>
+  <desc lang="da">Sæson: 15. Episode: 5. 'Pastry week'. Der er både det søde og det salte, når deltagerne hver især skal bage 12 snorlige tærter, efterfulgt af klassisk, græsk bagværk. Tilladt for: A.</desc>
+  <category>Show</category>
  </programme>
- <programme start="20261109093000 +0000" stop="20261109095000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder 19:30</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder 19.30'. TV 2 Kosmopol sender nyheder, reportager og interviews fra hele regionen. Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111084500 +0000" stop="20261111095500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Den store britiske bagedyst</title>
+  <desc lang="da">Sæson: 15. Episode: 6. 'Den store britiske bagedyst'. Bagerne fejrer efteråret med tærter og krydderkager og afslutter festen med grøntsagsmesterværker. Tilladt for: A.</desc>
+  <category>Show</category>
  </programme>
- <programme start="20261109095000 +0000" stop="20261109103000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111095500 +0000" stop="20261111103000 +0000" channel="TV2Fri.dk">
+  <title lang="da">Loppe Deluxe</title>
+  <desc lang="da">Sæson: 3. Episode: 1. 'Hillerød Kræmmermarked'. De to hold skal med 4.000 kr. på lommen finde genbrugsskatte på det populære Hillerød Kræmmermarked. Og faktisk gør et af holdene et vaskeægte scoop! Hvad finder de, og hvor meget får de for det, når fundet efterfølgende bliver solgt videre? Og er det nok til at vinde konkurrencen? Hillerød Kræmmermarked, som finder sted i det smukke Nordsjælland, byder på en blanding af nye ting, lopper og forlystelser. I 35 år er markedet blevet holdt en gang om året med op mod 70.000 besøgende hver gang. Tilladt for: A.</desc>
+  <category>Show</category>
  </programme>
- <programme start="20261109103000 +0000" stop="20261109105000 +0000" channel="TV2Lorry.dk">
-  <title lang="da">Nyheder 19:30</title>
-  <desc lang="da">Sæson: 2026. 'Nyheder 19.30'. TV 2 Kosmopol sender nyheder, reportager og interviews fra hele regionen. Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111103000 +0000" stop="20261111110500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Loppe Deluxe</title>
+  <desc lang="da">Sæson: 3. Episode: 2. 'Spejdernes Høstmarked i Ry'. Der er dømt spejderhygge i skoven og budrunde om de eftertragtede lopper, når 'Loppe Deluxe' besøger Spejdernes Høstmarked i Ry. De to hold kommer på en ekstra hård opgave, da der er mange om buddet til den traditionsrige begivenhed. Finder de gode ting, de efterfølgende kan sælge med fortjeneste? Og hvilket hold klarer sig bedst og vinder dermed konkurrencen? Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111110500 +0000" stop="20261111114000 +0000" channel="TV2Fri.dk">
+  <title lang="da">Loppe Deluxe</title>
+  <desc lang="da">Sæson: 3. Episode: 3. 'Malmø'. Kan det betale sig at købe lopper i Sverige? Det får vi svaret på, når de to hold skal dyste på Dronningetorvets Loppemarked i Malmø. Her er der handlende hver søndag fra april til september, men opkøberne er kræsne folk, der ved, hvad de vil have. Lykkes det de to hold at finde gode ting i Sverige og få brugt deres 4000 kroner? Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111114000 +0000" stop="20261111123500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Ryd op i dit liv</title>
+  <desc lang="da">Sæson: 3. Episode: 5. 'Ryd op i dit liv'. Da Luke gennemgik en personlig krise, trøstede han sig selv med mad og nye ting. Nu drukner parrets lille byhus i rod, og teamet er klar til at hjælpe. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111123500 +0000" stop="20261111132500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Ryd op i dit liv</title>
+  <desc lang="da">Sæson: 3. Episode: 6. 'Ryd op i dit liv'. Et kaotisk rod har overtaget Holly og Darrens liv, og som forældre har de glemt deres forhold. Kan teamet skabe et afslappende værested for familien? Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111132500 +0000" stop="20261111142000 +0000" channel="TV2Fri.dk">
+  <title lang="da">Værkstedet UK</title>
+  <desc lang="da">Sæson: 2021. Episode: 11. 'Værkstedet (UK)'. Det dygtige team kommer på arbejde, da en fin jazzguitar skal friskes op. Et ottekantet træbord skal restaureres. Og en fin taske trænger til en kærlig hånd. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111142000 +0000" stop="20261111151500 +0000" channel="TV2Fri.dk">
+  <title lang="da">Værkstedet UK</title>
+  <desc lang="da">Episode: 12. 'Værkstedet (UK)'. Der skal bruges masser af knofedt, da en 200 år gammel vejrhane skal restaureres. En forlovelsesring får nyt liv. Og en gammel pung bliver som ny. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111151500 +0000" stop="20261111155000 +0000" channel="TV2Fri.dk">
+  <title lang="da">Auktionshuset</title>
+  <desc lang="da">Sæson: 7. Episode: 2. 'En Beatle i Bredgade'. Da John Lennon og Yoko Ono i 1970 gæstede Skyum Bjerge ved Thy, fik fire teenagedrenge deres livs oplevelse. De trodsede en snestorm og fik interviewet og fotograferet de to berømtheder. Nu kommer kassettebånd og fotografier fra interviewet på auktion - og det får verdenspressen til at strømme til Bredgade. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111155000 +0000" stop="20261111163000 +0000" channel="TV2Fri.dk">
+  <title lang="da">Krejlerkongen</title>
+  <desc lang="da">Sæson: 17. Episode: 7. 'Med Lise Baastrup og Anna Stokholm'. Lasse Rimmer har inviteret medlemmer af den faste holdkaptajntrup til at komme og dyste. Nu skal den garvede Lise Baastrup, som har været med helt fra programmets start i 2015, dyste mod et noget nyere medlem, skuespiller Anna Stokholm. Holdkaptajner er Anna David og Pelle Hvenegaard. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111163000 +0000" stop="20261111171000 +0000" channel="TV2Fri.dk">
+  <title lang="da">Krejlerkongen</title>
+  <desc lang="da">Sæson: 17. Episode: 8. 'Ugefinale'. I den forgangne uge har medlemmer af gruppen af faste holdkaptajner dystet mod hinanden og vist hvad de kunne, når det kommer til at værdiansætte gamle ting. De to dygtigste er nu i finalen. Tilladt for: A.</desc>
+  <category>Show</category>
  </programme>
  <programme start="20261109105000 +0000" stop="20261109163000 +0000" channel="TV2Lorry.dk">
   <title lang="da">Nyheder fra tv2kosmopol.dk</title>
@@ -3284,7 +3220,7 @@
  </programme>
  <programme start="20261109221000 +0000" stop="20261109223500 +0000" channel="TV2Lorry.dk">
   <title lang="da">Søndagsræs</title>
-  <desc lang="da">'Rally Sprint Juelsminde'. Rallysprint EC-SIKRING blev kørt i Juelsminde indre by og var derfor udfordrende for kørerne med masser af smalle villaveje og skarpe sving. Tilladt for: A.</desc>
+  <desc lang="da">Sæson: 2026. 'Rally Sprint Juelsminde'. Rallysprint EC-SIKRING blev kørt i Juelsminde indre by og var derfor udfordrende for kørerne med masser af smalle villaveje og skarpe sving. Tilladt for: A.</desc>
   <category>Sport</category>
  </programme>
  <programme start="20261109223500 +0000" stop="20261110050000 +0000" channel="TV2Lorry.dk">
@@ -3309,7 +3245,7 @@
  </programme>
  <programme start="20261110073000 +0000" stop="20261110075000 +0000" channel="TV2Lorry.dk">
   <title lang="da">Søndagsræs</title>
-  <desc lang="da">'Rally Sprint Juelsminde'. Rallysprint EC-SIKRING blev kørt i Juelsminde indre by og var derfor udfordrende for kørerne med masser af smalle villaveje og skarpe sving. Tilladt for: A.</desc>
+  <desc lang="da">Sæson: 2026. 'Rally Sprint Juelsminde'. Rallysprint EC-SIKRING blev kørt i Juelsminde indre by og var derfor udfordrende for kørerne med masser af smalle villaveje og skarpe sving. Tilladt for: A.</desc>
   <category>Sport</category>
  </programme>
  <programme start="20261110075000 +0000" stop="20261110083000 +0000" channel="TV2Lorry.dk">
@@ -3487,160 +3423,70 @@
   <desc lang="da">Sæson: 2026. 'Nyhederne for præcis 30 år siden 3/11-1996'. Hvad skete der i hovedstadsområdet for 30 år siden? Vi har været i arkivet og fundet den nyhedsudsendelse frem, som blev vist på denne dag for præcis 30 år siden. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108195400 +0000" stop="20261108203000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+ <programme start="20261111050000 +0000" stop="20261111063000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108203000 +0000" stop="20261108205400 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Fynske Nyheder</title>
-  <desc lang="da">'Fynske Nyheder 1930'. Aktuel nyhedsoversigt med de væsentligste nyheder fra hele Fyn. Tilladt for: A.</desc>
+ <programme start="20261111063000 +0000" stop="20261111065000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder 19:30</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder 19.30'. TV 2 Kosmopol sender nyheder, reportager og interviews fra hele regionen. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108205400 +0000" stop="20261108213000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+ <programme start="20261111065000 +0000" stop="20261111073000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108213000 +0000" stop="20261108215400 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Fynske Nyheder</title>
-  <desc lang="da">'Fynske Nyheder 1930'. Aktuel nyhedsoversigt med de væsentligste nyheder fra hele Fyn. Tilladt for: A.</desc>
+ <programme start="20261111073000 +0000" stop="20261111075000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Søndagsræs</title>
+  <desc lang="da">Sæson: 2026. 'Rally Sprint Juelsminde'. Rallysprint EC-SIKRING blev kørt i Juelsminde indre by og var derfor udfordrende for kørerne med masser af smalle villaveje og skarpe sving. Tilladt for: A.</desc>
+  <category>Sport</category>
+ </programme>
+ <programme start="20261111075000 +0000" stop="20261111083000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108215400 +0000" stop="20261108223000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+ <programme start="20261111083000 +0000" stop="20261111085000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder 19:30</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder 19.30'. TV 2 Kosmopol sender nyheder, reportager og interviews fra hele regionen. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108223000 +0000" stop="20261108225400 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Fynske Nyheder</title>
-  <desc lang="da">'Fynske Nyheder 1930'. Aktuel nyhedsoversigt med de væsentligste nyheder fra hele Fyn. Tilladt for: A.</desc>
+ <programme start="20261111085000 +0000" stop="20261111093000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261108225400 +0000" stop="20261109045000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+ <programme start="20261111093000 +0000" stop="20261111095000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder 19:30</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder 19.30'. TV 2 Kosmopol sender nyheder, reportager og interviews fra hele regionen. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261109045000 +0000" stop="20261109050000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+ <programme start="20261111095000 +0000" stop="20261111103000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261109050000 +0000" stop="20261109080000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+ <programme start="20261111103000 +0000" stop="20261111105000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder 19:30</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder 19.30'. TV 2 Kosmopol sender nyheder, reportager og interviews fra hele regionen. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261109080000 +0000" stop="20261109083700 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Vendepunktet med Lone Stidsen</title>
-  <desc lang="da">'På et splitsekund ændrede hendes liv sig for altid'. Lone Stidsen levede et aktivt liv som forsker i lysdesign, men en bilulykke satte et brat stop for et arbejdsliv, hun elskede. Hun kunne ikke længere læse, skrive eller køre bil. Men nu har hun lært at finde guld, der hvor hun er, og har skabt sig et berigende liv med håndværk og kreativitet. Tilladt for: A.</desc>
-  <category>Ukendt</category>
- </programme>
- <programme start="20261109083700 +0000" stop="20261109084000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+ <programme start="20261111105000 +0000" stop="20261111163000 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder fra tv2kosmopol.dk</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder fra tv2kosmopol.dk'. Nyheder fra tv2kosmopol.dk Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261109084000 +0000" stop="20261109091100 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Lige på med Roland Møller</title>
-  <desc lang="da">'Efter 25 år er Roland Møller stadig ikke sluppet af med sin fortid'. Hvordan slipper man fri af den, man engang var? Roland Møller voksede op i et hårdt miljø i Odense og endte som prisvindende skuespiller med filmroller i Hollywood. Men fortiden slipper ikke helt sit tag, så hvordan bryder man med det, man er? Klaus Knakkergaard, TV 2 Fyns Kulturkommentator, er vært i dette særafsnit. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261109091100 +0000" stop="20261109091500 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+ <programme start="20261111163000 +0000" stop="20261111163500 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Nyheder 17:30</title>
+  <desc lang="da">Sæson: 2026. 'Nyheder 17:30.'. Kort nyhedsoversigt fra hovedstadsregionen. Tilladt for: A.</desc>
   <category>Nyheder</category>
  </programme>
- <programme start="20261109091500 +0000" stop="20261109094400 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Lige på med Carina Bundesen Madsen</title>
-  <desc lang="da">'Lige på med Carina Bundesen Madsen'. Danske elever klarer sig dårligere i Pisa-testen, og på Fyn er karaktergennemsnittet i dansk faldet i alle 10 kommuner siden 2018. Carina Bundesen Madsen, folkeskolelærer og næstformand i Odense Lærerforening, mener, at manglende forberedelsestid, inklusion, flere opgaver og pressede vilkår har været undervejs længe. Løsningen er ligefor, mener hun. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261109094400 +0000" stop="20261109095000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109095000 +0000" stop="20261109101700 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Lige på med Pia Nedergaard</title>
-  <desc lang="da">'Flere ender på gaden i Odense: - Alle kan blive hjemløse'. Antallet af hjemløse i Odense er steget markant på to år. Pia Nedergaard har selv oplevet hjemløshed og mener, at mangel på billige boliger og ændrede regler spiller en central rolle. Men hvad skal der til for at få flere ud af hjemløshed – og hvorfor kan det være svært at blive boende, selv når man får sin egen bolig? Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261109101700 +0000" stop="20261109102000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109102000 +0000" stop="20261109105700 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Vendepunktet med Lone Stidsen</title>
-  <desc lang="da">'På et splitsekund ændrede hendes liv sig for altid'. Lone Stidsen levede et aktivt liv som forsker i lysdesign, men en bilulykke satte et brat stop for et arbejdsliv, hun elskede. Hun kunne ikke længere læse, skrive eller køre bil. Men nu har hun lært at finde guld, der hvor hun er, og har skabt sig et berigende liv med håndværk og kreativitet. Tilladt for: A.</desc>
-  <category>Ukendt</category>
- </programme>
- <programme start="20261109105700 +0000" stop="20261109110000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109110000 +0000" stop="20261109113100 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Lige på med Roland Møller</title>
-  <desc lang="da">'Efter 25 år er Roland Møller stadig ikke sluppet af med sin fortid'. Hvordan slipper man fri af den, man engang var? Roland Møller voksede op i et hårdt miljø i Odense og endte som prisvindende skuespiller med filmroller i Hollywood. Men fortiden slipper ikke helt sit tag, så hvordan bryder man med det, man er? Klaus Knakkergaard, TV 2 Fyns Kulturkommentator, er vært i dette særafsnit. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261109113100 +0000" stop="20261109113500 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109113500 +0000" stop="20261109120400 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Lige på med Carina Bundesen Madsen</title>
-  <desc lang="da">'Lige på med Carina Bundesen Madsen'. Danske elever klarer sig dårligere i Pisa-testen, og på Fyn er karaktergennemsnittet i dansk faldet i alle 10 kommuner siden 2018. Carina Bundesen Madsen, folkeskolelærer og næstformand i Odense Lærerforening, mener, at manglende forberedelsestid, inklusion, flere opgaver og pressede vilkår har været undervejs længe. Løsningen er ligefor, mener hun. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261109120400 +0000" stop="20261109121000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109121000 +0000" stop="20261109123700 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Lige på med Pia Nedergaard</title>
-  <desc lang="da">'Flere ender på gaden i Odense: - Alle kan blive hjemløse'. Antallet af hjemløse i Odense er steget markant på to år. Pia Nedergaard har selv oplevet hjemløshed og mener, at mangel på billige boliger og ændrede regler spiller en central rolle. Men hvad skal der til for at få flere ud af hjemløshed – og hvorfor kan det være svært at blive boende, selv når man får sin egen bolig? Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261109123700 +0000" stop="20261109124000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109124000 +0000" stop="20261109131700 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Vendepunktet med Lone Stidsen</title>
-  <desc lang="da">'På et splitsekund ændrede hendes liv sig for altid'. Lone Stidsen levede et aktivt liv som forsker i lysdesign, men en bilulykke satte et brat stop for et arbejdsliv, hun elskede. Hun kunne ikke længere læse, skrive eller køre bil. Men nu har hun lært at finde guld, der hvor hun er, og har skabt sig et berigende liv med håndværk og kreativitet. Tilladt for: A.</desc>
-  <category>Ukendt</category>
- </programme>
- <programme start="20261109131700 +0000" stop="20261109132000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109132000 +0000" stop="20261109135100 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Lige på med Roland Møller</title>
-  <desc lang="da">'Efter 25 år er Roland Møller stadig ikke sluppet af med sin fortid'. Hvordan slipper man fri af den, man engang var? Roland Møller voksede op i et hårdt miljø i Odense og endte som prisvindende skuespiller med filmroller i Hollywood. Men fortiden slipper ikke helt sit tag, så hvordan bryder man med det, man er? Klaus Knakkergaard, TV 2 Fyns Kulturkommentator, er vært i dette særafsnit. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261109135100 +0000" stop="20261109135500 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
- </programme>
- <programme start="20261109135500 +0000" stop="20261109142400 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Lige på med Carina Bundesen Madsen</title>
-  <desc lang="da">'Lige på med Carina Bundesen Madsen'. Danske elever klarer sig dårligere i Pisa-testen, og på Fyn er karaktergennemsnittet i dansk faldet i alle 10 kommuner siden 2018. Carina Bundesen Madsen, folkeskolelærer og næstformand i Odense Lærerforening, mener, at manglende forberedelsestid, inklusion, flere opgaver og pressede vilkår har været undervejs længe. Løsningen er ligefor, mener hun. Tilladt for: A.</desc>
-  <category>Show</category>
- </programme>
- <programme start="20261109142400 +0000" stop="20261109143000 +0000" channel="TV2Fyn.dk">
-  <title lang="da">Nyheder fra tv2fyn.dk</title>
-  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
-  <category>Nyheder</category>
+ <programme start="20261111163500 +0000" stop="20261111164500 +0000" channel="TV2Lorry.dk">
+  <title lang="da">Klædt på</title>
+  <desc lang="da">'Historien om Dagmar Overby'. Dagmar Overby adopterede og dræbte otte børn. Hun er kendt som Danmarkshistoriens største seriemorder, men hvad var det egentlig, der skete dengang i København tilbage i starten af 1900-tallet. Tilladt for: A.</desc>
+  <category>Fakta</category>
  </programme>
  <programme start="20261109143000 +0000" stop="20261109145700 +0000" channel="TV2Fyn.dk">
   <title lang="da">Lige på med Pia Nedergaard</title>
@@ -3928,6 +3774,128 @@
   <category>Nyheder</category>
  </programme>
  <programme start="20261110215700 +0000" stop="20261111045000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111045000 +0000" stop="20261111050000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111050000 +0000" stop="20261111080000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111080000 +0000" stop="20261111090400 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Vendepunktet med Gudrun Marie Schmidt</title>
+  <desc lang="da">'Hun fik en fremmed kvindes tøj – så begyndte en gammel drøm at leve'. Det begyndte med en SMS og en flok sorte plasticsække fyldt med tøj. Ud af tøjet voksede hendes debutbog "Sting, Saks, begær" om, hvordan vores tøj fortæller om vores identitet, minder, krop og længsler. Gudrun Marie Schmidt står et begejstret sted i livet og fortæller om, hvorfor det aldrig er for sent at stikke hånden ned i sin egen “poetiske lomme” og finde ud af, hvad der ligger dér. Tilladt for: A.</desc>
+  <category>Ukendt</category>
+ </programme>
+ <programme start="20261111090400 +0000" stop="20261111091000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111091000 +0000" stop="20261111093400 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Lige på med Bjarne Henning Jensen</title>
+  <desc lang="da">'Vil du have mere i løn? Du skal kunne sige ét bestemt tal'. Hvad er du egentlig værd i løn, og hvordan får du din chef til at betale det? Ledelsesrådgiver Bjarne Henning Jensen deler sine råd til lønforhandlinger - fra at finde det rigtige beløb og kende sin markedsværdi til at håndtere et nej. Og ifølge ham starter næste lønforhandling allerede, når den nuværende slutter. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111093400 +0000" stop="20261111094000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111094000 +0000" stop="20261111103300 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Et andet liv - med Mai My Humaidan</title>
+  <sub-title lang="da">(4:6)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 4. 'Et bedre liv handler ikke kun om få arbejdstimer'. Han gik fra cocktails og storbyliv til grøntsager, familie og selvforsyning på Langeland. Regin Hohlmann Bennetzen ville ud af hamsterhjulet og tage mere ansvar for sit eget liv. I dag arbejder han ofte mere end 12 timer om dagen – men oplever en helt anden mening med arbejdet. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111103300 +0000" stop="20261111104000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111104000 +0000" stop="20261111110600 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Lige på med Davide Giacalone</title>
+  <desc lang="da">'Lige på: Danskerne spiser for meget kød – sådan skærer du ned'. Danskerne spiser langt mere kød end kostrådene anbefaler, men mange er ikke klar til at skære ned. En ny undersøgelse viser, at 23 procent ligefrem bliver vrede ved tanken om en mere plantebaseret frokost på jobbet. Vi spørger forskeren Davide Giacalone, hvad der skal til for at få danskerne til at vælge mindre kød – uden at give afkald på smag og madglæde. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111110600 +0000" stop="20261111111000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111111000 +0000" stop="20261111121400 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Vendepunktet med Gudrun Marie Schmidt</title>
+  <desc lang="da">'Hun fik en fremmed kvindes tøj – så begyndte en gammel drøm at leve'. Det begyndte med en SMS og en flok sorte plasticsække fyldt med tøj. Ud af tøjet voksede hendes debutbog "Sting, Saks, begær" om, hvordan vores tøj fortæller om vores identitet, minder, krop og længsler. Gudrun Marie Schmidt står et begejstret sted i livet og fortæller om, hvorfor det aldrig er for sent at stikke hånden ned i sin egen “poetiske lomme” og finde ud af, hvad der ligger dér. Tilladt for: A.</desc>
+  <category>Ukendt</category>
+ </programme>
+ <programme start="20261111121400 +0000" stop="20261111122000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111122000 +0000" stop="20261111124400 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Lige på med Bjarne Henning Jensen</title>
+  <desc lang="da">'Vil du have mere i løn? Du skal kunne sige ét bestemt tal'. Hvad er du egentlig værd i løn, og hvordan får du din chef til at betale det? Ledelsesrådgiver Bjarne Henning Jensen deler sine råd til lønforhandlinger - fra at finde det rigtige beløb og kende sin markedsværdi til at håndtere et nej. Og ifølge ham starter næste lønforhandling allerede, når den nuværende slutter. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111124400 +0000" stop="20261111125000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111125000 +0000" stop="20261111134300 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Et andet liv - med Mai My Humaidan</title>
+  <sub-title lang="da">(4:6)</sub-title>
+  <desc lang="da">Sæson: 1. Episode: 4. 'Et bedre liv handler ikke kun om få arbejdstimer'. Han gik fra cocktails og storbyliv til grøntsager, familie og selvforsyning på Langeland. Regin Hohlmann Bennetzen ville ud af hamsterhjulet og tage mere ansvar for sit eget liv. I dag arbejder han ofte mere end 12 timer om dagen – men oplever en helt anden mening med arbejdet. Tilladt for: A.</desc>
+  <category>Fritid</category>
+ </programme>
+ <programme start="20261111134300 +0000" stop="20261111135000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111135000 +0000" stop="20261111141600 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Lige på med Davide Giacalone</title>
+  <desc lang="da">'Lige på: Danskerne spiser for meget kød – sådan skærer du ned'. Danskerne spiser langt mere kød end kostrådene anbefaler, men mange er ikke klar til at skære ned. En ny undersøgelse viser, at 23 procent ligefrem bliver vrede ved tanken om en mere plantebaseret frokost på jobbet. Vi spørger forskeren Davide Giacalone, hvad der skal til for at få danskerne til at vælge mindre kød – uden at give afkald på smag og madglæde. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111141600 +0000" stop="20261111142000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111142000 +0000" stop="20261111152400 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Vendepunktet med Gudrun Marie Schmidt</title>
+  <desc lang="da">'Hun fik en fremmed kvindes tøj – så begyndte en gammel drøm at leve'. Det begyndte med en SMS og en flok sorte plasticsække fyldt med tøj. Ud af tøjet voksede hendes debutbog "Sting, Saks, begær" om, hvordan vores tøj fortæller om vores identitet, minder, krop og længsler. Gudrun Marie Schmidt står et begejstret sted i livet og fortæller om, hvorfor det aldrig er for sent at stikke hånden ned i sin egen “poetiske lomme” og finde ud af, hvad der ligger dér. Tilladt for: A.</desc>
+  <category>Ukendt</category>
+ </programme>
+ <programme start="20261111152400 +0000" stop="20261111153000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111153000 +0000" stop="20261111155400 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Lige på med Bjarne Henning Jensen</title>
+  <desc lang="da">'Vil du have mere i løn? Du skal kunne sige ét bestemt tal'. Hvad er du egentlig værd i løn, og hvordan får du din chef til at betale det? Ledelsesrådgiver Bjarne Henning Jensen deler sine råd til lønforhandlinger - fra at finde det rigtige beløb og kende sin markedsværdi til at håndtere et nej. Og ifølge ham starter næste lønforhandling allerede, når den nuværende slutter. Tilladt for: A.</desc>
+  <category>Show</category>
+ </programme>
+ <programme start="20261111155400 +0000" stop="20261111161000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Nyheder fra tv2fyn.dk</title>
+  <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111161000 +0000" stop="20261111162000 +0000" channel="TV2Fyn.dk">
+  <title lang="da">Fynske Nyheder</title>
+  <desc lang="da">'Fynske Nyheder'. Aktuel nyhedsoversigt med de væsentligste nyheder fra hele Fyn. Tilladt for: A.</desc>
+  <category>Nyheder</category>
+ </programme>
+ <programme start="20261111162000 +0000" stop="20261111172000 +0000" channel="TV2Fyn.dk">
   <title lang="da">Nyheder fra tv2fyn.dk</title>
   <desc lang="da">'Nyheder fra tv2fyn.dk'. Dagens nyheder fra TV2/FYN Tilladt for: A.</desc>
   <category>Nyheder</category>

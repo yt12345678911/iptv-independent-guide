@@ -2,18 +2,18 @@
   "status": "ok",
   "mode": "test-preview",
   "production": false,
-  "built_at": "2026-11-08T22:15:34Z",
-  "output_sha256": "82e8316355d986097551d61e0a7a98f9eafa4df084056e0da4e87fe87752c321",
+  "built_at": "2026-11-09T16:37:31Z",
+  "output_sha256": "ed4c80f46000f6b76d3cdce5373362f5a5fd1c92e5d3f481146f6b4c80f97426",
   "sources": {
     "DK1": {
       "origin": "download",
-      "sha256": "9f232792c69486d4e2bae481cb150e501bc617e05385c5836581f61caa7dc02e",
-      "bytes": 9686765
+      "sha256": "ea5e07bb9367d92653c6bc56ccbcf7d951e4eb7b122ac0451d75f46b19f9fa9b",
+      "bytes": 9807606
     },
     "UK1": {
       "origin": "download",
-      "sha256": "89d4fb82bf83a59d73eccdf2155babbb0c4c9a7471d6b2993431c8d22106cb3a",
-      "bytes": 23564851
+      "sha256": "76333b0fe50484e544617ab56ad030914e313637ff13d20ad120988c115202f8",
+      "bytes": 23765015
     }
   },
   "channels": {
@@ -21,122 +21,122 @@
       "source": "UK1",
       "source_id": "BBC.One.Lon.HD.uk",
       "status": "provisional",
-      "programmes": 50,
-      "now": "BBC News and Weather",
-      "next": "BBC London News",
-      "first_start": "20261108200000 +0000",
-      "last_stop": "20261110223000 +0000",
-      "hours_ahead": 48.2
+      "programmes": 51,
+      "now": "Bridge of Lies",
+      "next": "Pointless",
+      "first_start": "20261109140000 +0000",
+      "last_stop": "20261111171500 +0000",
+      "hours_ahead": 48.6
     },
     "bbc2.uk": {
       "source": "UK1",
       "source_id": "BBC.Two.HD.uk",
       "status": "verified",
-      "programmes": 52,
-      "now": "Later with Jools Holland",
-      "next": "Tinker Tailor Soldier Spy",
-      "first_start": "20261108191000 +0000",
-      "last_stop": "20261110223000 +0000",
-      "hours_ahead": 48.2
+      "programmes": 51,
+      "now": "Vintage Antiques Roadshow",
+      "next": "Flog It!",
+      "first_start": "20261109143000 +0000",
+      "last_stop": "20261111171500 +0000",
+      "hours_ahead": 48.6
     },
     "itv1anglia.uk": {
       "source": "UK1",
       "source_id": "ITV1.HD.uk",
       "status": "provisional",
       "programmes": 52,
-      "now": "ITV News",
-      "next": "Long Lost Family",
-      "first_start": "20261108182500 +0000",
-      "last_stop": "20261110223500 +0000",
-      "hours_ahead": 48.3
+      "now": "Deal or No Deal",
+      "next": "The Chase",
+      "first_start": "20261109140000 +0000",
+      "last_stop": "20261111170000 +0000",
+      "hours_ahead": 48.4
     },
     "channel4.uk": {
       "source": "UK1",
       "source_id": "Channel.4.HD.uk",
       "status": "verified",
-      "programmes": 66,
-      "now": "F1 São Paulo GP Highlights",
-      "next": "The Kitchen",
-      "first_start": "20261108200000 +0000",
-      "last_stop": "20261110230500 +0000",
-      "hours_ahead": 48.8
+      "programmes": 70,
+      "now": "Help! We Bought a Village",
+      "next": "Four in a Bed",
+      "first_start": "20261109141000 +0000",
+      "last_stop": "20261111170000 +0000",
+      "hours_ahead": 48.4
     },
     "DR1.dk": {
       "source": "DK1",
       "source_id": "DR1.dk",
       "status": "verified",
-      "programmes": 71,
-      "now": "Vigil - Mord i Arktis",
-      "next": "Kragepigen",
-      "first_start": "20261108201000 +0000",
-      "last_stop": "20261110224500 +0000",
-      "hours_ahead": 48.5
+      "programmes": 73,
+      "now": "Deadline",
+      "next": "Verdenssituationen med Clement: Vil Trump have krig eller fred?",
+      "first_start": "20261109135500 +0000",
+      "last_stop": "20261111170000 +0000",
+      "hours_ahead": 48.4
     },
     "DR2.dk": {
       "source": "DK1",
       "source_id": "DR2.dk",
       "status": "verified",
-      "programmes": 56,
-      "now": "Police",
-      "next": "Best Sellers",
-      "first_start": "20261108200000 +0000",
-      "last_stop": "20261110223000 +0000",
-      "hours_ahead": 48.2
+      "programmes": 55,
+      "now": "Danmarkshistorien fortalt af Erik Kjersgaard",
+      "next": "De ville dø for sagen: Lise & antifascismen",
+      "first_start": "20261109110000 +0000",
+      "last_stop": "20261111170500 +0000",
+      "hours_ahead": 48.5
     },
     "TV2.dk": {
       "source": "DK1",
       "source_id": "TV.2.dk",
       "status": "verified",
-      "programmes": 63,
-      "now": "Den som dræber - Fanget af mørket",
-      "next": "Den som dræber - Fanget af mørket",
-      "first_start": "20261108195000 +0000",
-      "last_stop": "20261110222000 +0000",
-      "hours_ahead": 48.1
+      "programmes": 68,
+      "now": "Go' aften Live",
+      "next": "18 News",
+      "first_start": "20261109140500 +0000",
+      "last_stop": "20261111170000 +0000",
+      "hours_ahead": 48.4
     },
     "TV2Syd.dk": {
       "source": "DK1",
       "source_id": "TV.SYD.dk",
       "status": "verified",
-      "programmes": 69,
+      "programmes": 67,
       "now": "TVSYD.DK",
-      "next": "Direkte fra storkereden",
-      "first_start": "20261108201000 +0000",
-      "last_stop": "20261110230000 +0000",
+      "next": "Kort nyhedsoversigt",
+      "first_start": "20261109092500 +0000",
+      "last_stop": "20261111172000 +0000",
       "hours_ahead": 48.7
     },
     "TV2Fri.dk": {
       "source": "DK1",
       "source_id": "TV.2.Fri.dk",
       "status": "verified",
-      "programmes": 63,
-      "now": "Flotte forvandlinger",
-      "next": "Han, hun og drømmeslottet",
-      "first_start": "20261108191500 +0000",
-      "last_stop": "20261110223000 +0000",
-      "hours_ahead": 48.2
+      "programmes": 64,
+      "now": "Krejlerkongen",
+      "next": "Beliggenhed, beliggenhed, beliggenhed",
+      "first_start": "20261109141500 +0000",
+      "last_stop": "20261111171000 +0000",
+      "hours_ahead": 48.5
     },
     "TV2Lorry.dk": {
       "source": "DK1",
       "source_id": "Kosmopol.dk",
       "status": "provisional",
-      "programmes": 92,
-      "now": "Elisa bliver den skaldede kæreste",
-      "next": "OPLEV",
-      "first_start": "20261108201000 +0000",
-      "last_stop": "20261111050000 +0000",
-      "hours_ahead": 54.7
+      "programmes": 82,
+      "now": "Nyheder fra tv2kosmopol.dk",
+      "next": "Klædt på",
+      "first_start": "20261109105000 +0000",
+      "last_stop": "20261111164500 +0000",
+      "hours_ahead": 48.1
     },
     "TV2Fyn.dk": {
       "source": "DK1",
       "source_id": "TV.2/Fyn.dk",
       "status": "verified",
-      "programmes": 89,
+      "programmes": 82,
       "now": "Nyheder fra tv2fyn.dk",
       "next": "Fynske Nyheder",
-      "first_start": "20261108195400 +0000",
-      "last_stop": "20261111045000 +0000",
-      "hours_ahead": 54.6
+      "first_start": "20261109143000 +0000",
+      "last_stop": "20261111172000 +0000",
+      "hours_ahead": 48.7
     }
   },
   "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
