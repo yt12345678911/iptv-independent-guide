@@ -2,17 +2,17 @@
   "status": "ok",
   "mode": "test-preview",
   "production": false,
-  "built_at": "2026-11-10T15:01:50Z",
-  "output_sha256": "103675f2ceb1e8c250cfcd232d33de753097626e39a81496eff40d78a31bd8d8",
+  "built_at": "2026-11-10T23:30:58Z",
+  "output_sha256": "d5abb77434c60fc6a0424fdc694a4ffec46f535274b9435f423d6e061eac1ebb",
   "sources": {
     "DK1": {
       "origin": "download",
-      "sha256": "497885d2c17903eaf80a3498b08a58b414fefcb859150fecf563e37ac9450718",
-      "bytes": 9833741
+      "sha256": "4da3c4422a15d8bf5d0070123bce91f5ea4cb61feb8f5379117c0e596cb139b6",
+      "bytes": 9820955
     },
     "UK1": {
       "origin": "download",
-      "sha256": "3df1243aef013c9685d0b94d3ca68017da05b007a5d7e16839d68ae53c382df2",
+      "sha256": "308923811d015dc6261d39638a0a439f8ad72a87f6d186684fc8cf5897d09299",
       "bytes": 23952702
     }
   },
@@ -21,89 +21,89 @@
       "source": "UK1",
       "source_id": "BBC.One.Lon.HD.uk",
       "status": "provisional",
-      "programmes": 49,
-      "now": "Escape to the Country",
-      "next": "The Bidding Room",
-      "first_start": "20261110130000 +0000",
-      "last_stop": "20261112154500 +0000",
-      "hours_ahead": 48.7
+      "programmes": 50,
+      "now": "Knocked Up",
+      "next": "Weather for the Week Ahead",
+      "first_start": "20261110210000 +0000",
+      "last_stop": "20261112234000 +0000",
+      "hours_ahead": 48.2
     },
     "bbc2.uk": {
       "source": "UK1",
       "source_id": "BBC.Two.HD.uk",
       "status": "verified",
-      "programmes": 52,
-      "now": "In Which We Serve",
-      "next": "Vintage Antiques Roadshow",
-      "first_start": "20261110130000 +0000",
-      "last_stop": "20261112163000 +0000",
-      "hours_ahead": 49.5
+      "programmes": 54,
+      "now": "Rise of the Rockstar Chef",
+      "next": "A Course Called Ireland",
+      "first_start": "20261110210000 +0000",
+      "last_stop": "20261113004000 +0000",
+      "hours_ahead": 49.2
     },
     "itv1anglia.uk": {
       "source": "UK1",
       "source_id": "ITV1.HD.uk",
       "status": "provisional",
-      "programmes": 53,
-      "now": "Lingo",
-      "next": "Deal or No Deal",
-      "first_start": "20261110123000 +0000",
-      "last_stop": "20261112160000 +0000",
-      "hours_ahead": 49.0
+      "programmes": 48,
+      "now": "TikTok: Murder Gone Viral - The Mother and Daughter Killers",
+      "next": "TikTok: Murder Gone Viral - The Killing of Sania Khan",
+      "first_start": "20261110210500 +0000",
+      "last_stop": "20261112234500 +0000",
+      "hours_ahead": 48.2
     },
     "channel4.uk": {
       "source": "UK1",
       "source_id": "Channel.4.HD.uk",
       "status": "verified",
-      "programmes": 71,
-      "now": "A Place in the Sun",
-      "next": "Help! We Bought a Village",
-      "first_start": "20261110121000 +0000",
-      "last_stop": "20261112160000 +0000",
+      "programmes": 69,
+      "now": "Gogglebox",
+      "next": "Gogglebox",
+      "first_start": "20261110211500 +0000",
+      "last_stop": "20261113003000 +0000",
       "hours_ahead": 49.0
     },
     "DR1.dk": {
       "source": "DK1",
       "source_id": "DR1.dk",
       "status": "verified",
-      "programmes": 73,
-      "now": "Kriminalkommissær Barnaby",
-      "next": "Min familie og andre dyr",
-      "first_start": "20261110125500 +0000",
-      "last_stop": "20261112152500 +0000",
-      "hours_ahead": 48.4
+      "programmes": 74,
+      "now": "Hotel Romantik Sverige",
+      "next": "Ludwig - Krydsordsdetektiven",
+      "first_start": "20261110211000 +0000",
+      "last_stop": "20261112235000 +0000",
+      "hours_ahead": 48.3
     },
     "DR2.dk": {
       "source": "DK1",
       "source_id": "DR2.dk",
       "status": "verified",
-      "programmes": 49,
-      "now": "Seneste nyt fra TVA",
-      "next": "Supershowet",
-      "first_start": "20261110110000 +0000",
-      "last_stop": "20261112161500 +0000",
-      "hours_ahead": 49.2
+      "programmes": 53,
+      "now": "Mishandlet af mor",
+      "next": "Jerusalem - Kampen om den hellige by",
+      "first_start": "20261110211500 +0000",
+      "last_stop": "20261112235500 +0000",
+      "hours_ahead": 48.4
     },
     "TV2.dk": {
       "source": "DK1",
       "source_id": "TV.2.dk",
       "status": "verified",
-      "programmes": 66,
-      "now": "Grænsepatruljen Australien",
+      "programmes": 65,
+      "now": "Motorvejspatruljen",
       "next": "Grænsepatruljen Australien",
-      "first_start": "20261110125500 +0000",
-      "last_stop": "20261112152500 +0000",
-      "hours_ahead": 48.4
+      "first_start": "20261110213000 +0000",
+      "last_stop": "20261113002000 +0000",
+      "hours_ahead": 48.8
     },
     "TV2Syd.dk": {
       "source": "DK1",
       "source_id": "TV.SYD.dk",
       "status": "verified",
-      "programmes": 65,
-      "now": "TVSYD.DK",
-      "next": "Kort nyhedsoversigt",
-      "first_start": "20261110092500 +0000",
-      "last_stop": "20261112161000 +0000",
-      "hours_ahead": 49.1
+      "programmes": 67,
+      "now": "Direkte fra storkereden",
+      "next": "Nyheder fra tvSyd",
+      "first_start": "20261110212500 +0000",
+      "last_stop": "20261113053000 +0000",
+      "hours_ahead": 54.0
     },
     "TV2Fri.dk": {
       "source": "DK1",
@@ -111,32 +111,32 @@
       "status": "verified",
       "programmes": 63,
       "now": "Værkstedet UK",
-      "next": "Auktionshuset",
-      "first_start": "20261110123000 +0000",
-      "last_stop": "20261112154000 +0000",
-      "hours_ahead": 48.6
+      "next": "Guld eller gejl",
+      "first_start": "20261110211500 +0000",
+      "last_stop": "20261113000000 +0000",
+      "hours_ahead": 48.5
     },
     "TV2Lorry.dk": {
       "source": "DK1",
       "source_id": "Kosmopol.dk",
       "status": "provisional",
-      "programmes": 81,
+      "programmes": 85,
       "now": "Nyheder fra tv2kosmopol.dk",
-      "next": "Nyheder 17:30",
-      "first_start": "20261110105000 +0000",
-      "last_stop": "20261112163000 +0000",
-      "hours_ahead": 49.5
+      "next": "Nyheder fra tv2kosmopol.dk",
+      "first_start": "20261110213000 +0000",
+      "last_stop": "20261113050000 +0000",
+      "hours_ahead": 53.5
     },
     "TV2Fyn.dk": {
       "source": "DK1",
       "source_id": "TV.2/Fyn.dk",
       "status": "verified",
-      "programmes": 80,
-      "now": "Lige på med Thomas Frimor",
+      "programmes": 78,
+      "now": "Nyheder fra tv2fyn.dk",
       "next": "Nyheder fra tv2fyn.dk",
-      "first_start": "20261110125000 +0000",
-      "last_stop": "20261112150500 +0000",
-      "hours_ahead": 48.1
+      "first_start": "20261110213000 +0000",
+      "last_stop": "20261113045000 +0000",
+      "hours_ahead": 53.3
     }
   },
   "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
