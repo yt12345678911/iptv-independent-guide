@@ -2,17 +2,17 @@
   "status": "ok",
   "mode": "test-preview",
   "production": false,
-  "built_at": "2026-11-10T01:38:23Z",
-  "output_sha256": "3ea4c966f63b2459a3161b24c1f218951ffcf042f72ee299e0c58a65837100f9",
+  "built_at": "2026-11-10T15:01:50Z",
+  "output_sha256": "103675f2ceb1e8c250cfcd232d33de753097626e39a81496eff40d78a31bd8d8",
   "sources": {
     "DK1": {
       "origin": "download",
-      "sha256": "fb8df22c041f6fb813ac8f2109e75b8b757d4ca32466d455c075118270a012d2",
-      "bytes": 9813269
+      "sha256": "497885d2c17903eaf80a3498b08a58b414fefcb859150fecf563e37ac9450718",
+      "bytes": 9833741
     },
     "UK1": {
       "origin": "download",
-      "sha256": "7577c0adcf4b99f7ba4d87cf1b13f33756292a30cc7766db0ea5df59ca5b8fdd",
+      "sha256": "3df1243aef013c9685d0b94d3ca68017da05b007a5d7e16839d68ae53c382df2",
       "bytes": 23952702
     }
   },
@@ -21,45 +21,45 @@
       "source": "UK1",
       "source_id": "BBC.One.Lon.HD.uk",
       "status": "provisional",
-      "programmes": 50,
-      "now": "BBC News",
-      "next": "Breakfast",
-      "first_start": "20261109231500 +0000",
-      "last_stop": "20261112060000 +0000",
-      "hours_ahead": 52.4
+      "programmes": 49,
+      "now": "Escape to the Country",
+      "next": "The Bidding Room",
+      "first_start": "20261110130000 +0000",
+      "last_stop": "20261112154500 +0000",
+      "hours_ahead": 48.7
     },
     "bbc2.uk": {
       "source": "UK1",
       "source_id": "BBC.Two.HD.uk",
       "status": "verified",
-      "programmes": 51,
-      "now": "Countryfile",
-      "next": "This is BBC Two",
-      "first_start": "20261109230000 +0000",
-      "last_stop": "20261112021000 +0000",
-      "hours_ahead": 48.5
+      "programmes": 52,
+      "now": "In Which We Serve",
+      "next": "Vintage Antiques Roadshow",
+      "first_start": "20261110130000 +0000",
+      "last_stop": "20261112163000 +0000",
+      "hours_ahead": 49.5
     },
     "itv1anglia.uk": {
       "source": "UK1",
       "source_id": "ITV1.HD.uk",
       "status": "provisional",
-      "programmes": 51,
-      "now": "Shop on TV",
-      "next": "Lingo",
-      "first_start": "20261109225000 +0000",
-      "last_stop": "20261112030000 +0000",
-      "hours_ahead": 49.4
+      "programmes": 53,
+      "now": "Lingo",
+      "next": "Deal or No Deal",
+      "first_start": "20261110123000 +0000",
+      "last_stop": "20261112160000 +0000",
+      "hours_ahead": 49.0
     },
     "channel4.uk": {
       "source": "UK1",
       "source_id": "Channel.4.HD.uk",
       "status": "verified",
-      "programmes": 70,
-      "now": "Ramsay's Hotel Hell",
-      "next": "The F Ward",
-      "first_start": "20261109230500 +0000",
-      "last_stop": "20261112020500 +0000",
-      "hours_ahead": 48.4
+      "programmes": 71,
+      "now": "A Place in the Sun",
+      "next": "Help! We Bought a Village",
+      "first_start": "20261110121000 +0000",
+      "last_stop": "20261112160000 +0000",
+      "hours_ahead": 49.0
     },
     "DR1.dk": {
       "source": "DK1",
@@ -67,21 +67,21 @@
       "status": "verified",
       "programmes": 73,
       "now": "Kriminalkommissær Barnaby",
-      "next": "Sporløs UK",
-      "first_start": "20261109225500 +0000",
-      "last_stop": "20261112023000 +0000",
-      "hours_ahead": 48.9
+      "next": "Min familie og andre dyr",
+      "first_start": "20261110125500 +0000",
+      "last_stop": "20261112152500 +0000",
+      "hours_ahead": 48.4
     },
     "DR2.dk": {
       "source": "DK1",
       "source_id": "DR2.dk",
       "status": "verified",
-      "programmes": 54,
-      "now": "Geniale hverdagsobjekter",
-      "next": "Den klassiske musikquiz",
-      "first_start": "20261109231000 +0000",
-      "last_stop": "20261112022000 +0000",
-      "hours_ahead": 48.7
+      "programmes": 49,
+      "now": "Seneste nyt fra TVA",
+      "next": "Supershowet",
+      "first_start": "20261110110000 +0000",
+      "last_stop": "20261112161500 +0000",
+      "hours_ahead": 49.2
     },
     "TV2.dk": {
       "source": "DK1",
@@ -89,54 +89,54 @@
       "status": "verified",
       "programmes": 66,
       "now": "Grænsepatruljen Australien",
-      "next": "Ja for Fanø!",
-      "first_start": "20261109225500 +0000",
-      "last_stop": "20261112015000 +0000",
-      "hours_ahead": 48.2
+      "next": "Grænsepatruljen Australien",
+      "first_start": "20261110125500 +0000",
+      "last_stop": "20261112152500 +0000",
+      "hours_ahead": 48.4
     },
     "TV2Syd.dk": {
       "source": "DK1",
       "source_id": "TV.SYD.dk",
       "status": "verified",
       "programmes": 65,
-      "now": "Direkte fra storkereden",
-      "next": "Nyheder fra tvSyd",
-      "first_start": "20261109230000 +0000",
-      "last_stop": "20261112053000 +0000",
-      "hours_ahead": 51.9
+      "now": "TVSYD.DK",
+      "next": "Kort nyhedsoversigt",
+      "first_start": "20261110092500 +0000",
+      "last_stop": "20261112161000 +0000",
+      "hours_ahead": 49.1
     },
     "TV2Fri.dk": {
       "source": "DK1",
       "source_id": "TV.2.Fri.dk",
       "status": "verified",
-      "programmes": 62,
-      "now": "Guld eller gejl",
-      "next": "Guld eller gejl",
-      "first_start": "20261109231500 +0000",
-      "last_stop": "20261112020500 +0000",
-      "hours_ahead": 48.4
+      "programmes": 63,
+      "now": "Værkstedet UK",
+      "next": "Auktionshuset",
+      "first_start": "20261110123000 +0000",
+      "last_stop": "20261112154000 +0000",
+      "hours_ahead": 48.6
     },
     "TV2Lorry.dk": {
       "source": "DK1",
       "source_id": "Kosmopol.dk",
       "status": "provisional",
-      "programmes": 80,
+      "programmes": 81,
       "now": "Nyheder fra tv2kosmopol.dk",
-      "next": "Nyheder fra tv2kosmopol.dk",
-      "first_start": "20261109223500 +0000",
-      "last_stop": "20261112050000 +0000",
-      "hours_ahead": 51.4
+      "next": "Nyheder 17:30",
+      "first_start": "20261110105000 +0000",
+      "last_stop": "20261112163000 +0000",
+      "hours_ahead": 49.5
     },
     "TV2Fyn.dk": {
       "source": "DK1",
       "source_id": "TV.2/Fyn.dk",
       "status": "verified",
-      "programmes": 79,
-      "now": "Nyheder fra tv2fyn.dk",
+      "programmes": 80,
+      "now": "Lige på med Thomas Frimor",
       "next": "Nyheder fra tv2fyn.dk",
-      "first_start": "20261109215700 +0000",
-      "last_stop": "20261112045000 +0000",
-      "hours_ahead": 51.2
+      "first_start": "20261110125000 +0000",
+      "last_stop": "20261112150500 +0000",
+      "hours_ahead": 48.1
     }
   },
   "warning": "TEST - unverified mapping: bbc1.uk, itv1anglia.uk, TV2Lorry.dk (preview only, not production)"
